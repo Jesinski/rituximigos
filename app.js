@@ -211,7 +211,7 @@
       qFeedback.style.display = "none";
     } else {
       qAnulado.style.display = "none";
-      qEnunciado.textContent = q.enunciado;
+      qEnunciado.innerHTML = q.enunciado;
 
       // Render images if present
       if (q.imagens && q.imagens.length > 0) {

@@ -259,6 +259,33 @@ main {
   color: var(--text);
 }
 
+/* ---- Lab Tables ---- */
+.lab-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.9rem;
+  margin: 8px 0;
+}
+
+.lab-table th, .lab-table td {
+  padding: 6px 10px;
+  border: 1px solid var(--border);
+  text-align: left;
+}
+
+.lab-table th {
+  background: var(--surface2);
+  color: var(--text-dim);
+  font-weight: 600;
+  font-size: 0.8rem;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+
+.lab-table td {
+  background: var(--surface);
+}
+
 /* ---- Question Images ---- */
 .enunciado-images {
   display: flex;
