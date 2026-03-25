@@ -64,9 +64,15 @@
 
       <footer>
         <button id="btn-prev" class="btn btn-nav" disabled>&larr; Anterior</button>
-        <div class="nav-dots" id="nav-dots"></div>
+        <button id="nav-toggle" class="nav-toggle">
+          <span id="nav-toggle-label">1 / 100</span>
+          <svg width="12" height="12" viewBox="0 0 12 12" fill="currentColor"><path d="M2 4.5L6 8.5L10 4.5"/></svg>
+        </button>
         <button id="btn-next" class="btn btn-nav">Próxima &rarr;</button>
       </footer>
+      <div id="nav-grid-panel" class="nav-grid-panel hidden">
+        <div class="nav-dots" id="nav-dots"></div>
+      </div>
     </div>
 
     <!-- Results Screen -->

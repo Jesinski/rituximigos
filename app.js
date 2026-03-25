@@ -133,6 +133,14 @@
   const btnPrev = document.getElementById("btn-prev");
   const btnNext = document.getElementById("btn-next");
   const navDots = document.getElementById("nav-dots");
+  const navToggle = document.getElementById("nav-toggle");
+  const navToggleLabel = document.getElementById("nav-toggle-label");
+  const navGridPanel = document.getElementById("nav-grid-panel");
+
+  navToggle.onclick = () => {
+    navGridPanel.classList.toggle("hidden");
+    navToggle.classList.toggle("open");
+  };
 
   function getScore() {
     let correct = 0;
@@ -157,19 +165,25 @@
   function renderDots() {
     navDots.innerHTML = "";
     allQuestions.forEach((q, i) => {
-      const dot = document.createElement("button");
-      dot.className = "nav-dot";
-      if (i === current) dot.classList.add("current");
+      const cell = document.createElement("button");
+      cell.className = "nav-cell";
+      cell.textContent = q.pos;
+      if (i === current) cell.classList.add("current");
 
       const pos = q.pos;
       if (q.anulado) {
-        dot.classList.add("answered");
+        cell.classList.add("answered");
       } else if (answers[pos] !== undefined) {
-        dot.classList.add(answers[pos] === q.correta ? "dot-correct" : "dot-wrong");
+        cell.classList.add(answers[pos] === q.correta ? "cell-correct" : "cell-wrong");
       }
 
-      dot.onclick = () => { current = i; render(); };
-      navDots.appendChild(dot);
+      cell.onclick = () => {
+        current = i;
+        navGridPanel.classList.add("hidden");
+        navToggle.classList.remove("open");
+        render();
+      };
+      navDots.appendChild(cell);
     });
   }
 
@@ -200,6 +214,7 @@
 
     // Header
     qCounter.textContent = `${current + 1} / ${allQuestions.length}`;
+    navToggleLabel.textContent = `${pos} / ${allQuestions.length}`;
     progressFill.style.width = `${(getAnsweredCount() / getNonVoidedCount()) * 100}%`;
     scoreDisplay.textContent = `${getScore()} ✓`;
 
