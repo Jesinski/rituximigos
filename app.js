@@ -213,6 +213,21 @@
       qAnulado.style.display = "none";
       qEnunciado.textContent = q.enunciado;
 
+      // Render images if present
+      if (q.imagens && q.imagens.length > 0) {
+        const imgContainer = document.createElement("div");
+        imgContainer.className = "enunciado-images";
+        q.imagens.forEach(src => {
+          const img = document.createElement("img");
+          img.src = "exams/" + src;
+          img.alt = "Imagem da questão";
+          img.className = "question-image";
+          img.onclick = () => openLightbox(img.src);
+          imgContainer.appendChild(img);
+        });
+        qEnunciado.appendChild(imgContainer);
+      }
+
       // Options
       qOpcoes.innerHTML = "";
       const letters = ["A", "B", "C", "D"];
@@ -265,6 +280,15 @@
   function choose(pos, letter) {
     answers[pos] = letter;
     render();
+  }
+
+  // -- Lightbox --
+  function openLightbox(src) {
+    const overlay = document.createElement("div");
+    overlay.className = "lightbox-overlay";
+    overlay.innerHTML = `<img src="${src}" class="lightbox-img" />`;
+    overlay.onclick = () => overlay.remove();
+    document.body.appendChild(overlay);
   }
 
   btnPrev.onclick = () => { if (current > 0) { current--; render(); } };
