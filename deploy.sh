@@ -3,14 +3,11 @@ set -e
 
 STAMP=$(date +%s)
 
-# Replace cache bust placeholder with timestamp
-sed -i '' "s/__CACHE_BUST__/$STAMP/g" index.html
+# Stamp asset URLs in index.html
+sed -i '' -E "s/(style\.css|app\.js)\?v=[0-9]+/\1?v=$STAMP/g" index.html
 
 git add -A
 git commit -m "deploy v$STAMP"
 git push origin HEAD
-
-# Restore placeholder for future deploys
-sed -i '' "s/$STAMP/__CACHE_BUST__/g" index.html
 
 echo "Deployed with cache bust v$STAMP"
