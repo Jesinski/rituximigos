@@ -39,7 +39,9 @@
     },
     "correta": "B",
     "explicacao": "**Resposta correta: B.** O padrao nuclear homogeneo do FAN (HEp-2) esta associado a anticorpos anti-DNA de dupla helice e anti-histona, sendo classicamente encontrado no lupus eritematoso sistemico; portanto, a pesquisa de anti-DNA nativo complementa adequadamente esse resultado.\n\n**Por que as outras estão erradas:**\n- **A.** o padrao centrometrico e distinto do homogeneo, apresentando pontilhado grosso discreto nos nucleos em interfase e marcacao dos cromossomos na placa metafasica, sendo associado a esclerose sistemica forma limitada.\n- **C.** o padrao citoplasmatico nao e o descrito nesta questao, e a suspeita de vasculite associada ao ANCA se investiga por imunofluorescencia em neutrofilos (p-ANCA/c-ANCA), nao pelo FAN em celulas HEp-2.\n- **D.** o padrao nuclear homogeneo nao e tipico de individuos higidos; em geral, individuos saudaveis podem ter FAN positivo em titulos baixos com padrao nuclear pontilhado fino denso, que e o padrao mais comum sem significado clinico.",
-    "imagens": []
+    "imagens": [
+      "images/ester-2023/q3_img1.jpg"
+    ]
   },
   {
     "pos": 4,
@@ -81,7 +83,9 @@
     },
     "correta": "B",
     "explicacao": "**Resposta correta: B.** O quadro descreve uma artropatia destrutiva de ombro (artropatia de Milwaukee) em paciente idosa, causada por deposito de cristais de fosfato basico de calcio (hidroxiapatita). Esses cristais sao caracteristicamente associados a artropatia destrutiva de grandes articulacoes, sobretudo o ombro, em mulheres idosas, e sao dificeis de visualizar na microscopia de luz polarizada convencional, podendo ser identificados por vermelho de alizarina.\n\n**Por que as outras estão erradas:**\n- **A.** a artropatia por urato monossodico (gota) raramente acomete o ombro como sitio inicial e apresenta cristais com birrefringencia negativa forte ao microscopio polarizado.\n- **C.** a artropatia por oxalato de calcio e rara, ocorrendo predominantemente em pacientes com insuficiencia renal cronica em dialise.\n- **D.** , embora a condrocalcinose (pirofosfato de calcio) possa causar artrite aguda em ombro, o padrao de artropatia destrutiva rapida de ombro em idosa (Milwaukee shoulder) e classicamente atribuido a cristais de fosfato basico de calcio.",
-    "imagens": []
+    "imagens": [
+      "images/ester-2023/q6_img1.jpg"
+    ]
   },
   {
     "pos": 7,
@@ -179,7 +183,9 @@
     },
     "correta": "B",
     "explicacao": "**Resposta correta: B.** O eritema indurado de Bazin e uma paniculite lobular cronica associada a hipersensibilidade a antigenos micobacterianos (tuberculose), que se manifesta com nodulos eritematosos endurecidos, cronicos, predominantemente em faces posteriores das pernas, podendo ulcerar. A paciente apresenta nodulos cronicos (7 meses) em pernas com teste tuberculinico fortemente positivo (15 mm), favorecendo esse diagnostico.\n\n**Por que as outras estão erradas:**\n- **A.** o eritema nodoso e uma paniculite septal que tipicamente se apresenta de forma aguda/subaguda (2-6 semanas de duracao), com nodulos dolorosos na face anterior das pernas, geralmente sem ulceracao; a cronicidade de 7 meses e atipica para eritema nodoso.\n- **C.** a necrobiose lipoidica diabeticorum caracteriza-se por placas atroficas amareladas com telangectasias, geralmente na regiao pre-tibial, com aspecto clinico bastante distinto de nodulos eritematosos.\n- **D.** a paniculite de Weber-Christian (paniculite lobular idiopatica) e extremamente rara, com nodulos subcutaneos recorrentes e febre, e o teste tuberculinico positivo forte direciona mais para eritema indurado de Bazin.",
-    "imagens": []
+    "imagens": [
+      "images/ester-2023/q13_img1.jpg"
+    ]
   },
   {
     "pos": 14,
@@ -235,7 +241,9 @@
     },
     "correta": "A",
     "explicacao": "**Resposta correta: A.** O padrao SD (scleroderma) ativo na capilaroscopia periungueal caracteriza-se pela presenca de capilares dilatados e megacapilares frequentes, micro-hemorragias moderadas, discreta perda capilar e desorganizacao moderada da arquitetura capilar, representando uma fase intermediaria de atividade microvascular.\n\n**Por que as outras estão erradas:**\n- **B.** o padrao SD tardio apresenta predominantemente perda capilar intensa (areas avasculares extensas), capilares ramificados (neoformacao) e desorganizacao importante, refletindo o estagio final do dano microvascular.\n- **C.** o padrao SD precoce apresenta apenas poucos megacapilares e micro-hemorragias isoladas, com arquitetura capilar relativamente preservada e sem perda capilar significativa.\n- **D.** o padrao inespecifico apresenta alteracoes leves e nao organizadas no padrao scleroderma (SD), sem as alteracoes tipicas de megacapilares e perda capilar que definem os padroes SD.",
-    "imagens": []
+    "imagens": [
+      "images/ester-2023/q17_img1.jpg"
+    ]
   },
   {
     "pos": 18,
@@ -277,7 +285,10 @@
     },
     "correta": "C",
     "explicacao": "**Resposta correta: C.** O manejo adequado da osteomalacia por sindrome de Fanconi induzida pelo tenofovir inclui descontinuacao do agente causal (tenofovir), reposicao de fosforo (para corrigir a hipofosfatemia) e calcitriol (forma ativa da vitamina D, 1,25-dihidroxivitamina D), ja que a conversao renal de 25-OH vitamina D em calcitriol esta comprometida pela tubulopatia.\n\n**Por que as outras estão erradas:**\n- **A.** a teriparatida e um agente anabolico osseo indicado para osteoporose grave, nao para osteomalacia; alem disso, retirada da carga e correcao cirurgica nao tratam a causa de base.\n- **B.** a descontinuacao do alendronato nao resolve a causa (o tenofovir e o agente responsavel), cinesioterapia isolada e calcio nao corrigem a hipofosfatemia e o defeito de mineralizacao.\n- **D.** calcio suplementar, colecalciferol e denosumabe sao medicamentos para tratamento de osteoporose, nao de osteomalacia; nao abordam a causa (tenofovir) nem a hipofosfatemia, e o colecalciferol (forma inativa) nao e a melhor escolha quando ha comprometimento da conversao renal.",
-    "imagens": []
+    "imagens": [
+      "images/ester-2023/q20_img1.jpg",
+      "images/ester-2023/q20_img2.jpg"
+    ]
   },
   {
     "pos": 21,
@@ -459,7 +470,9 @@
     },
     "correta": "A",
     "explicacao": "**Resposta correta: A.** A questao refere-se a uma radiografia de joelho com achados compativeis com condrocalcinose (doenca por deposito de cristais de pirofosfato de calcio - DPPC). Quando sintomatica, a pseudogota (artrite aguda por pirofosfato de calcio) pode simular um quadro de artrite septica, com articulacao quente, edemaciada, eritematosa, febre e leucocitose, tornando essencial a artrocentese para diagnostico diferencial.\n\n**Por que as outras estão erradas:**\n- **B.** o envolvimento dos ombros e bastante comum na DPPC, sendo uma das articulacoes frequentemente acometidas.\n- **C.** e a hipomagnesemia (e nao hipermagnesemia) que se relaciona ao desencadeamento de crises de pseudogota, pois o magnesio e um cofator da pirofosfatase e sua deficiencia leva ao acumulo de pirofosfato de calcio.\n- **D.** e o hiperparatireoidismo (e nao hipoparatireoidismo) que e fator de risco bem estabelecido para DPPC, pois a hipercalcemia promove deposicao de cristais de pirofosfato de calcio.",
-    "imagens": []
+    "imagens": [
+      "images/ester-2023/q33_img1.jpg"
+    ]
   },
   {
     "pos": 34,
@@ -473,7 +486,9 @@
     },
     "correta": "B",
     "explicacao": "**Resposta correta: B.** A paciente com artrite reumatoide em uso de metotrexato (MTX) 25 mg/semana que desenvolve tosse seca e dispneia progressiva ha um ano necessita de investigacao para toxicidade pulmonar induzida pelo MTX, que e uma complicacao conhecida e potencialmente grave. A pneumonite por MTX pode apresentar-se com padrao de pneumonia intersticial usual (PIU) na tomografia, sendo imperativo excluir esta etiologia antes de atribuir o quadro a doenca pulmonar intersticial associada a AR.\n\n**Por que as outras estão erradas:**\n- **A.** , embora neoplasia pulmonar deva estar no diagnostico diferencial, nao e o diagnostico mais provavel neste contexto de uso de MTX e doenca intersticial.\n- **C.** a pneumonite induzida pelo MTX pode apresentar diversos padroes tomograficos, incluindo PIU, e a imagem descrita nao necessariamente sugere exclusivamente PINE.\n- **D.** o padrao tomografico da doenca pulmonar intersticial associada a AR pode ser identico ao da fibrose pulmonar idiopatica (padrao PIU), e a pneumonite por MTX tambem pode mimetizar esses padroes.",
-    "imagens": []
+    "imagens": [
+      "images/ester-2023/q34_img1.jpg"
+    ]
   },
   {
     "pos": 35,
@@ -585,7 +600,10 @@
     },
     "correta": "A",
     "explicacao": "**Resposta correta: A.** O quadro clinico de homem idoso com dor em quadris, fosfatase alcalina muito elevada (540 U/L) com calcio, fosforo e PTH normais, e achados radiograficos de lesoes mistas (liticas e blasticas), espessamento do osso cortical e trabecular grosseiro sao caracteristicos da doenca de Paget (osteite deformante). Na doenca de Paget, a remodelacao ossea excessiva e desorganizada produz osso espessado, porem estruturalmente anormal, com alternancia de areas liticas e blasticas e trabeculado grosseiro.\n\n**Por que as outras estão erradas:**\n- **B.** lesoes exclusivamente blasticas com cortical preservada nao correspondem ao padrao misto tipico da doenca de Paget.\n- **C.** pseudofraturas (zonas de Looser) com diminuicao do trabecular e esclerose sao achados de osteomalacia, nao de Paget.\n- **D.** pseudofraturas e espessamento periostal isolados nao descrevem o padrao classico de Paget, que se caracteriza pelo espessamento cortical e trabecular grosseiro com lesoes mistas.",
-    "imagens": []
+    "imagens": [
+      "images/ester-2023/q42_img1.jpg",
+      "images/ester-2023/q42_img2.jpg"
+    ]
   },
   {
     "pos": 43,
@@ -599,7 +617,10 @@
     },
     "correta": "B",
     "explicacao": "**Resposta correta: B.** Na doenca de Paget osseo, diversas complicacoes podem ocorrer na evolucao, incluindo artrite gotosa (pelo aumento do turnover osseo e hiperuricemia), insuficiencia cardiaca de alto debito (pela hipervascularizacao ossea), surdez e disfuncao de nervos cranianos, e raramente degeneracao sarcomatosa. O hipoparatireoidismo NAO e uma complicacao esperada da doenca de Paget. A alternativa A esta incorreta como resposta porque a artrite gotosa pode de fato ocorrer devido ao aumento do metabolismo purinico associado a alta remodelacao ossea. A alternativa C esta incorreta como resposta porque a disfuncao cerebelar pode ocorrer por compressao da fossa posterior devido ao espessamento do osso craniano (platibasia). A alternativa D esta incorreta como resposta porque a insuficiencia cardiaca de alto debito e uma complicacao reconhecida, especialmente em doenca poliosteotica extensa.",
-    "imagens": []
+    "imagens": [
+      "images/ester-2023/q43_img1.jpg",
+      "images/ester-2023/q43_img2.jpg"
+    ]
   },
   {
     "pos": 44,
@@ -697,7 +718,11 @@
     },
     "correta": "D",
     "explicacao": "**Resposta correta: D.** A hiperostose esqueletica idiopatica difusa (DISH, ou doenca de Forestier) e caracterizada radiograficamente por ossificacao fluente ao longo da face anterolateral de pelo menos quatro vertebras contíguas, com preservacao do espaco discal e ausencia de anquilose das articulacoes sacroiliacas e interapofisarias, o que a diferencia das espondiloartrites.\n\n**Por que as outras estão erradas:**\n- **A.** a osteite deformante (doenca de Paget) apresenta espessamento osseo com trabeculado grosseiro e lesoes mistas, nao a ossificacao ligamentar fluente tipica do DISH.\n- **B.** a espondilite anquilosante apresenta sindesmofitos finos e simetricos (e nao ossificacao fluente e espessa), alem de sacroiliite bilateral e erosoes vertebrais, com quadro clinico inflamatorio.\n- **C.** a artrite psoriasica axial apresenta sindesmofitos assimetricos e paramarginais e pode ter sacroiliite unilateral, diferindo do padrao de ossificacao exuberante anterolateral do DISH.",
-    "imagens": []
+    "imagens": [
+      "images/ester-2023/q50_img1.jpg",
+      "images/ester-2023/q50_img2.jpg",
+      "images/ester-2023/q50_img3.jpg"
+    ]
   },
   {
     "pos": 51,
@@ -767,7 +792,10 @@
     },
     "correta": "A",
     "explicacao": "**Resposta correta: A.** O quadro clinico de paciente com fenomeno de Raynaud, edema difuso dos dedos (puffy fingers/sclerodactilia), artralgias em maos e punhos sugere esclerose sistemica. Os autoanticorpos esperados na esclerose sistemica incluem anti-RNA polimerase III (associado a forma difusa e crise renal) e antitopoisomerase I (anti-Scl-70, associado a forma difusa e doenca intersticial pulmonar).\n\n**Por que as outras estão erradas:**\n- **B.** lesao ventricular concentrica e estenose valvar nao sao achados tipicos da esclerose sistemica; o envolvimento cardiaco na ES inclui fibrose miocardica e hipertensao arterial pulmonar, nao estenose valvar.\n- **C.** na esclerose sistemica a dismotilidade esofagiana acomete tipicamente o terco inferior (musculo liso) com PERDA da peristalse, e nao com peristalse preservada.\n- **D.** na esclerose sistemica a capilaroscopia mostra o padrao SD (scleroderma pattern) com megacapilares, hemorragias, areas avasculares e capilares ramificados, e NAO capilares homogeneos ao longo da cuticula (que seria um padrao normal).",
-    "imagens": []
+    "imagens": [
+      "images/ester-2023/q55_img1.jpg",
+      "images/ester-2023/q55_img2.jpg"
+    ]
   },
   {
     "pos": 56,
@@ -781,7 +809,9 @@
     },
     "correta": "D",
     "explicacao": "**Resposta correta: D.** A nifedipina, um bloqueador de canal de calcio diidropiridinico, e o tratamento de primeira linha para o fenomeno de Raynaud, promovendo vasodilatacao periferica e reduzindo a frequencia e gravidade dos episodios vasomotores.\n\n**Por que as outras estão erradas:**\n- **A.** o atenolol e um betabloqueador que pode AGRAVAR o fenomeno de Raynaud ao promover vasoconstricao periferica, sendo contraindicado neste contexto.\n- **B.** a hidralazina, embora seja um vasodilatador, nao e a terapia de primeira escolha para o fenomeno de Raynaud e tem menor evidencia de eficacia nessa indicacao comparada aos bloqueadores de canal de calcio.\n- **C.** a metildopa e um anti-hipertensivo de acao central que nao tem indicacao especifica para o tratamento do fenomeno de Raynaud e nao possui efeito vasodilatador periferico significativo.",
-    "imagens": []
+    "imagens": [
+      "images/ester-2023/q56_img1.jpg"
+    ]
   },
   {
     "pos": 57,
@@ -837,7 +867,9 @@
     },
     "correta": "D",
     "explicacao": "**Resposta correta: D.** O caso descreve artrite psoriasica com envolvimento axial (lombalgia inflamatoria) e entesite de tornozelos (a imagem provavelmente mostra entesite do tendao de Aquiles). O secuquinumabe, um anticorpo monoclonal anti-IL-17A, e a melhor opcao terapeutica para entesite na artrite psoriasica, com eficacia comprovada tanto para envolvimento periferico, axial, entesitico quanto cutaneo.\n\n**Por que as outras estão erradas:**\n- **A.** o tofacitinibe (inibidor de JAK) e uma opcao na artrite psoriasica, mas nao e a melhor escolha especificamente para entesite, onde os anti-IL-17 tem evidencia mais robusta.\n- **B.** o metotrexato tem eficacia limitada para o componente axial e para entesite na artrite psoriasica, sendo mais eficaz para artrite periferica e manifestacoes cutaneas.\n- **C.** a sulfassalazina tem eficacia modesta apenas para artrite periferica e nao e eficaz para o componente axial, entesite ou manifestacoes cutaneas da artrite psoriasica.",
-    "imagens": []
+    "imagens": [
+      "images/ester-2023/q60_img1.jpg"
+    ]
   },
   {
     "pos": 61,
@@ -949,7 +981,9 @@
     },
     "correta": "A",
     "explicacao": "**Resposta correta: A.** A alcaptonuria (ocronose) e uma doenca metabolica rara causada pela deficiencia da enzima homogentisico oxidase, levando ao acumulo de acido homogentisico nos tecidos conjuntivos. Na coluna vertebral, o achado radiografico classico inclui calcificacao dos discos intervertebrais com aspecto de \"wafer-like\" (discos em lente), alem de osteopenia e reducao dos espacos discais em multiplos niveis. Na RM, os discos mostram hipossinal difuso em T1 e T2 devido ao deposito de pigmento. A osteoartrite primaria (B) causa degeneracao discal, mas sem calcificacao difusa dos discos. A espondiloartrite axial (C) apresenta sindesmofitos, erosoes de sacroiliacas e corners inflamatorios, nao calcificacao discal difusa. A DISH (D) apresenta ossificacao do ligamento longitudinal anterior fluente em pelo menos 4 vertebras consecutivas, sem calcificacao discal central.",
-    "imagens": []
+    "imagens": [
+      "images/ester-2023/q68_img1.jpg"
+    ]
   },
   {
     "pos": 69,
@@ -991,7 +1025,9 @@
     },
     "correta": "B",
     "explicacao": "**Resposta correta: B.** Na doenca de Behcet, o infiltrado inflamatorio predominante e neutrofilico, sendo esta doenca classificada como uma vasculite com predominio de neutrofilos. A biopsia das lesoes cutaneas (que na imagem sugerem lesoes de patergia, pustulas ou eritema nodoso-like) tipicamente mostra infiltrado neutrofilico perivascular com vasculite. O infiltrado linfocitico com vasculite (A) e mais caracteristico de vasculites linfociticas ou de lesoes cronicas, nao do padrao agudo da doenca de Behcet. O infiltrado granulomatoso sem vasculite (C) e encontrado em doencas granulomatosas como sarcoidose ou granuloma anular. O infiltrado rico em eosinofilos sem vasculite (D) sugeriria doencas como granulomatose eosinofilica com poliangiite (quando com vasculite) ou reacoes de hipersensibilidade.",
-    "imagens": []
+    "imagens": [
+      "images/ester-2023/q71_img1.jpg"
+    ]
   },
   {
     "pos": 72,
@@ -1005,7 +1041,9 @@
     },
     "correta": "B",
     "explicacao": "**Resposta correta: B.** A paciente apresenta emagrecimento, eritema malar, mialgia, artralgias de punhos e MCFs, edema difuso de maos (\"puffy hands\"), fenomeno de Raynaud e FAN positivo em alto titulo (1/1280). Este quadro com sobreposicao de manifestacoes lupicas e esclerodermicas sugere doenca mista do tecido conjuntivo (DMTC), cujo autoanticorpo marcador e o anti-U1RNP. O padrao de FAN associado ao anti-RNP e o nuclear pontilhado grosso. O anti-Scl70 (A) esta associado ao padrao nuclear homogeneo e se relaciona com esclerose sistemica forma difusa, nao com o quadro de sobreposicao descrito. O anti-centromero (C) esta associado ao padrao centromerico discreto e se relaciona com esclerose sistemica forma limitada (CREST), nao com DMTC. O anti-nucleossomo (D) esta associado ao padrao nuclear homogeneo e se relaciona com LES (especialmente nefrite lupica), mas nao ao padrao pontilhado grosso descrito.",
-    "imagens": []
+    "imagens": [
+      "images/ester-2023/q72_img1.jpg"
+    ]
   },
   {
     "pos": 73,
@@ -1019,7 +1057,9 @@
     },
     "correta": "B",
     "explicacao": "**Resposta correta: B.** A paciente de 28 anos apresenta edema de membros inferiores, hipertensao de inicio recente, perdas fetais no segundo trimestre (14 e 16 semanas), livedo reticular em coxas, TTPa alargado com TP normal, disfuncao renal e proteinuria. Este quadro e classico de sindrome antifosfolipide (SAF) com nefropatia por SAF. O achado histopatologico mais provavel na biopsia renal e a hiperplasia fibrosa intimal (microangiopatia trombotica cronica), que e a lesao renal caracteristica da nefropatia por SAF, com trombose de pequenos vasos, espessamento fibroso da intima arteriolar e recanalicacao vascular. Crescentes celulares (A) sao tipicas de glomerulonefrite rapidamente progressiva (vasculites ANCA ou nefrite lupica classe IV), nao de SAF. O infiltrado tubulo-intersticial (C) sugere nefrite intersticial, nao e o padrao da nefropatia por SAF. A hipercelularidade endocapilar (D) e caracteristica de nefrite lupica proliferativa (classe III/IV) ou glomerulonefrite pos-infecciosa, nao de SAF.",
-    "imagens": []
+    "imagens": [
+      "images/ester-2023/q73_img1.jpg"
+    ]
   },
   {
     "pos": 74,
@@ -1033,7 +1073,9 @@
     },
     "correta": "D",
     "explicacao": "**Resposta correta: D.** A paciente tem SAF confirmada (perdas fetais no segundo trimestre, TTPa alargado, livedo reticular, nefropatia trombotica) com anticoagulante lupico positivo. O tratamento padrao da SAF trombotica e a anticoagulacao com varfarina, mantendo INR alvo entre 2 e 3. A varfarina e o anticoagulante de escolha na SAF, pois os anticoagulantes orais diretos (DOACs como rivaroxabana) foram associados a maior risco de eventos tromboticos em pacientes com SAF, especialmente nos triplo-positivos, conforme demonstrado pelo estudo TRAPS. A ciclofosfamida (A) e usada para nefrite lupica, nao para nefropatia por SAF. O micofenolato mofetil (B) seria indicado se houvesse nefrite lupica, mas o quadro renal aqui e de microangiopatia trombotica por SAF. A rivaroxabana (C) e contraindicada na SAF apos evidencias de que os DOACs sao inferiores a varfarina nessa condicao.",
-    "imagens": []
+    "imagens": [
+      "images/ester-2023/q74_img1.jpg"
+    ]
   },
   {
     "pos": 75,
@@ -1145,7 +1187,9 @@
     },
     "correta": "B",
     "explicacao": "**Resposta correta: B.** O quadro clínico descreve um homem com diabetes, etilismo, esteatose hepática, disfuncao erétil, artropatia de interfalangeanas distais e proximais com erosoes e condrocalcinose (calcificacoes na fibrocartilagem triangular), transaminases elevadas e TSH elevado - achados clássicos de hemocromatose hereditária, que cursa com artropatia característica e deposicao de ferro em múltiplos órgaos. Ferritina e saturacao de transferrina sao os exames com maior valor preditivo positivo para o diagnóstico de hemocromatose, sendo o rastreamento inicial recomendado.\n\n**Por que as outras estão erradas:**\n- **A.** alfa1-glicoproteína ácida é um reagente de fase aguda inespecífico e anti-CarP é associado à artrite reumatoide, diagnóstico improvável neste caso com FR e anti-CCP negativos.\n- **C.** paratormônio e calciúria de 24 horas investigam distúrbios do metabolismo do cálcio (hiperparatireoidismo), que nao explica o quadro clínico completo deste paciente.\n- **D.** fosfatase alcalina e NTx urinário sao marcadores de remodelacao óssea, direcionados para investigacao de doenca óssea metabólica, nao para a artropatia descrita.",
-    "imagens": []
+    "imagens": [
+      "images/ester-2023/q82_img1.jpg"
+    ]
   },
   {
     "pos": 83,
@@ -1159,7 +1203,9 @@
     },
     "correta": "C",
     "explicacao": "**Resposta correta: C.** Na hemocromatose, a artropatia mais característica acomete as articulacoes metacarpofalangeanas (MCF), especialmente a 2a e 3a MCF, com aspecto radiográfico peculiar que inclui osteófitos em \"gancho\" (hook-like osteophytes), reducao do espaco articular e condrocalcinose. A regiao C na imagem corresponde à área das MCF, que é o achado radiográfico mais sugestivo da artropatia por hemocromatose.\n\n**Por que as outras estão erradas:**\n- **A.** a regiao A (IFD) teria alteracoes mais compatíveis com osteoartrite primária, nao sendo específica de hemocromatose.\n- **B.** a regiao B (IFP) também pode estar acometida, porém nao é a localizacao mais sugestiva e específica da artropatia por hemocromatose.\n- **D.** a regiao D (carpo/punho), embora possa apresentar condrocalcinose, nao contém as alteracoes radiográficas mais típicas e sugestivas da doenca de base.",
-    "imagens": []
+    "imagens": [
+      "images/ester-2023/q83_img1.jpg"
+    ]
   },
   {
     "pos": 84,
@@ -1173,7 +1219,9 @@
     },
     "correta": "C",
     "explicacao": "**Resposta correta: C.** O quadro clínico descreve uma síndrome dolorosa regional complexa (SDRC/CRPS - Complex Regional Pain Syndrome), anteriormente conhecida como distrofia simpático-reflexa, caracterizada por dor desproporcional, edema, alteracoes vasomotoras (hiperemia, sudorese), hiperalgesia e desmineralizacao óssea regional (rarefacao óssea em \"borra de café\" na radiografia), surgindo após procedimento cirúrgico contralateral. O tratamento inicial mais adequado é anti-inflamatório nao esteroidal (naproxeno) associado a fisioterapia/terapia ocupacional precoce, que é a base do manejo da SDRC.\n\n**Por que as outras estão erradas:**\n- **A.** metotrexato é imunossupressor utilizado em doencas autoimunes, nao tendo papel no tratamento da SDRC.\n- **B.** , embora corticoides possam ser usados em alguns casos de SDRC, a dose de 40 mg/dia de prednisona é elevada e a imobilizacao é contraindicada, pois agrava o quadro; a mobilizacao precoce é fundamental.\n- **D.** vancomicina e debridamento cirúrgico sao indicados para artrite séptica, diagnóstico que nao se sustenta neste caso com hemograma, VHS e PCR normais e quadro clínico incompatível.",
-    "imagens": []
+    "imagens": [
+      "images/ester-2023/q84_img1.jpg"
+    ]
   },
   {
     "pos": 85,
@@ -1187,7 +1235,9 @@
     },
     "correta": "D",
     "explicacao": "**Resposta correta: D.** A artrite reativa (ARe) associada à Chlamydia trachomatis pode apresentar deteccao do micro-organismo (ou seus antígenos/DNA) no tecido sinovial, o que a diferencia da ARe pós-enterite infecciosa, na qual tipicamente nao se encontra o patógeno na articulacao; esta é uma distincao fisiopatológica importante.\n\n**Por que as outras estão erradas:**\n- **A.** as lesoes psoriasiformes da ARe (ceratodermia blenorrágica) sao histologicamente indistinguíveis da psoríase pustulosa, e o envolvimento ungueal pode ocorrer em ambas as condicoes.\n- **B.** a uveíte na ARe e na espondilite anquilosante é tipicamente anterior, aguda e unilateral, nao havendo diferenca morfológica consistente que auxilie no diagnóstico diferencial.\n- **C.** dactilites sao comuns tanto na ARe quanto na artrite psoriásica, nao sendo incomuns na ARe; portanto, nao auxiliam na diferenciacao com espondilite anquilosante.",
-    "imagens": []
+    "imagens": [
+      "images/ester-2023/q85_img1.jpg"
+    ]
   },
   {
     "pos": 86,
@@ -1215,7 +1265,9 @@
     },
     "correta": "A",
     "explicacao": "**Resposta correta: A.** Esta paciente com AR apresenta DAS28-VHS de 3,6 (atividade moderada pelo escore), porém com VHS e PCR normais, e a ultrassonografia com Power Doppler nao mostrando sinais de atividade inflamatória significativa. A discrepância entre o escore de dor elevado (EVA 7/10) e os achados ultrassonográficos/laboratoriais sugere que a dor nao é primariamente inflamatória, mas sim relacionada a fatores comórbidos como obesidade, depressao e possível sensibilizacao central (dor nociplástica). A conduta mais adequada é otimizar o tratamento dessas condicoes associadas, incluindo medidas nao farmacológicas como exercício físico, perda de peso e manejo da depressao.\n\n**Por que as outras estão erradas:**\n- **B.** o uso de corticoides e opioides nao é adequado quando nao há atividade inflamatória articular comprovada.\n- **C.** adicionar um MMCD convencional nao é justificado quando os marcadores inflamatórios e a US com Doppler nao evidenciam atividade de doenca.\n- **D.** trocar o biológico também nao se justifica na ausência de atividade inflamatória objetiva; o problema nao é falha terapêutica, mas sim dor relacionada a comorbidades.",
-    "imagens": []
+    "imagens": [
+      "images/ester-2023/q87_img1.jpg"
+    ]
   },
   {
     "pos": 88,
@@ -1229,7 +1281,9 @@
     },
     "correta": "D",
     "explicacao": "**Resposta correta: D.** A ultrassonografia em escala cinza mostra a anatomia estrutural da articulacao, enquanto o Power Doppler avalia a vascularizacao sinovial (inflamacao ativa). Neste caso, os achados em escala cinza nao justificam o elevado escore de dor da paciente (EVA 7/10), reforçando que a dor tem componentes nao inflamatórios (obesidade, depressao, sensibilizacao central).\n\n**Por que as outras estão erradas:**\n- **A.** o IMC elevado nao contraindica a ultrassonografia musculoesquelética; embora a obesidade possa dificultar tecnicamente a avaliacao de articulacoes profundas, as articulacoes das maos sao superficiais e facilmente avaliáveis.\n- **B.** o DAS28-VHS pode ser influenciado por fatores subjetivos (como número de articulacoes dolorosas e EVA do paciente), sendo a imagem complementar valiosa para confirmar a presença ou ausência de inflamacao articular objetiva.\n- **C.** a PCR baixa é concordante (e nao discordante) com a ausência de sinal significativo ao Power Doppler, ambos indicando baixa atividade inflamatória.",
-    "imagens": []
+    "imagens": [
+      "images/ester-2023/q88_img1.jpg"
+    ]
   },
   {
     "pos": 89,
@@ -1257,7 +1311,9 @@
     },
     "correta": "B",
     "explicacao": "**Resposta correta: B.** O quadro clínico é compatível com sarcoidose (síndrome de Lofgren: eritema nodoso, linfadenopatia hilar bilateral, artrite/periartrite de tornozelos, febre), associada a uveíte anterior, hipercalcemia e hipercalciúria. Na sarcoidose, o envolvimento articular nos tornozelos é mais frequentemente causado por periartrite e/ou tenossinovite ao redor da articulacao do que por sinovite intra-articular verdadeira.\n\n**Por que as outras estão erradas:**\n- **A.** a sarcoidose nao tem relacao causal estabelecida com exposicao ocupacional agrícola ou tabagismo; ao contrário, o tabagismo parece ter efeito protetor em alguns estudos.\n- **C.** a biópsia do eritema nodoso tipicamente mostra paniculite septal sem granulomas; os granulomas nao caseosos sao encontrados em outros órgaos acometidos pela sarcoidose, nao no eritema nodoso propriamente dito.\n- **D.** a síndrome de Lofgren é uma forma aguda de sarcoidose com excelente prognóstico e resolucao espontânea na maioria dos casos (>90%), nao predizendo evolucao progressiva de mau prognóstico.",
-    "imagens": []
+    "imagens": [
+      "images/ester-2023/q90_img1.jpg"
+    ]
   },
   {
     "pos": 91,
@@ -1369,7 +1425,10 @@
     },
     "correta": "A",
     "explicacao": "**Resposta correta: A.** O paciente de 63 anos apresenta fratura vertebral por trauma de baixa energia, densitometria óssea com T-scores muito baixos (coluna -3,5, colo do fêmur -3,3), vitamina D insuficiente e fosfatase alcalina discretamente elevada, sem evidência de causa secundária identificável (hemograma, eletroforese de proteínas, funcao tireoidiana, cálcio e fósforo normais). Trata-se de osteoporose grave (T-score <-2,5 com fratura por fragilidade), e a teriparatida (análogo do PTH) é a opcao terapêutica mais adequada por ser agente anabólico, indicado em osteoporose grave com alto risco de fraturas.\n\n**Por que as outras estão erradas:**\n- **B.** vertebroplastia é um procedimento para alívio álgico em fraturas vertebrais, nao sendo o tratamento da doenca de base; além disso, o diagnóstico é de osteoporose e nao de \"fratura patológica\" por outra causa (neoplasia).\n- **C.** o paciente nao apresenta osteomalácia (cálcio e fósforo normais, sem achados típicos de osteomalácia); \"osteoporomalácia\" nao é um diagnóstico padronizado.\n- **D.** , embora a testosterona esteja no limite inferior, o tratamento da osteoporose grave com fratura requer terapia anabólica óssea (teriparatida); reposicao de testosterona isolada ou associada a bisfosfonato nao é a melhor estratégia neste cenário de alto risco.",
-    "imagens": []
+    "imagens": [
+      "images/ester-2023/q98_img1.jpg",
+      "images/ester-2023/q98_img2.jpg"
+    ]
   },
   {
     "pos": 99,
