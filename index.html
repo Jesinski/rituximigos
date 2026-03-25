@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>ESTER 2025 — Prova de Reumatologia</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div id="app">
+    <!-- Start Screen -->
+    <div id="start-screen" class="screen active">
+      <div class="start-card">
+        <h1>ESTER 2025</h1>
+        <p class="subtitle">Exame de Suficiência para Título de Especialista em Reumatologia — Prova Teórica</p>
+        <div class="exam-info">
+          <div><strong>Questões:</strong> 100</div>
+          <div><strong>Data original:</strong> 12/04/2025</div>
+        </div>
+        <button id="btn-start" class="btn btn-primary">Iniciar Prova</button>
+        <button id="btn-review" class="btn btn-secondary" style="display:none">Continuar Revisão</button>
+      </div>
+    </div>
+
+    <!-- Quiz Screen -->
+    <div id="quiz-screen" class="screen">
+      <header>
+        <div class="header-left">
+          <span id="q-counter" class="q-counter">1 / 100</span>
+        </div>
+        <div class="header-center">
+          <div class="progress-bar"><div id="progress-fill" class="progress-fill"></div></div>
+        </div>
+        <div class="header-right">
+          <span id="score-display" class="score-display">0 ✓</span>
+          <button id="btn-finish" class="btn btn-small btn-outline">Encerrar</button>
+        </div>
+      </header>
+
+      <main>
+        <div id="q-anulado" class="anulado-banner" style="display:none">
+          Questão Anulada
+        </div>
+
+        <div id="q-enunciado" class="enunciado"></div>
+
+        <div id="q-opcoes" class="opcoes"></div>
+
+        <div id="q-feedback" class="feedback" style="display:none">
+          <div id="feedback-result" class="feedback-result"></div>
+          <div id="feedback-explicacao" class="feedback-explicacao"></div>
+        </div>
+      </main>
+
+      <footer>
+        <button id="btn-prev" class="btn btn-nav" disabled>&larr; Anterior</button>
+        <div class="nav-dots" id="nav-dots"></div>
+        <button id="btn-next" class="btn btn-nav">Próxima &rarr;</button>
+      </footer>
+    </div>
+
+    <!-- Results Screen -->
+    <div id="results-screen" class="screen">
+      <div class="results-card">
+        <h1>Resultado Final</h1>
+        <div id="results-score" class="results-score"></div>
+        <div id="results-bar" class="results-bar-container">
+          <div id="results-bar-fill" class="results-bar-fill"></div>
+        </div>
+        <div id="results-stats" class="results-stats"></div>
+        <div class="results-actions">
+          <button id="btn-review-results" class="btn btn-primary">Revisar Questões</button>
+          <button id="btn-restart" class="btn btn-secondary">Recomeçar</button>
+        </div>
+        <div id="results-grid" class="results-grid"></div>
+      </div>
+    </div>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>
