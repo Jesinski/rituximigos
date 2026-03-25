@@ -49,6 +49,14 @@ Open [http://localhost:3000](http://localhost:3000).
 }
 ```
 
+## Deploying
+
+```bash
+./deploy.sh
+```
+
+This auto-stamps asset URLs with a cache-busting version, commits, and pushes. Users will always get the latest files.
+
 ## Project structure
 
 ```
@@ -56,6 +64,7 @@ Open [http://localhost:3000](http://localhost:3000).
 ├── app.js              # Quiz logic
 ├── style.css           # Styles
 ├── server.js           # Local dev server (Node.js, zero dependencies)
+├── deploy.sh           # Deploy script with cache busting
 └── exams/
     ├── index.json      # Exam catalog
     └── ester-2025.json # ESTER 2025 exam
