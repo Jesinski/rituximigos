@@ -58,14 +58,14 @@
           const s = JSON.parse(saved);
           const answeredCount = Object.keys(s.answers || {}).length;
           if (answeredCount > 0) {
-            badge = `<span class="exam-badge">${answeredCount}/${exam.questions} answered</span>`;
+            badge = `<span class="exam-badge">${answeredCount}/${exam.questions} respondidas</span>`;
           }
         } catch {}
       }
 
       card.innerHTML = `
         <div class="exam-card-title">${exam.title}</div>
-        <div class="exam-card-meta">${exam.questions} questions &middot; ${exam.date}</div>
+        <div class="exam-card-meta">${exam.questions} questões &middot; ${exam.date}</div>
         ${badge}
       `;
 
@@ -243,7 +243,7 @@
       if (answered) {
         qFeedback.style.display = "block";
         const isCorrect = answers[pos] === q.correta;
-        feedbackResult.textContent = isCorrect ? "Correct answer!" : `Incorrect — the right answer is ${q.correta}.`;
+        feedbackResult.textContent = isCorrect ? "Resposta correta!" : `Incorreta — a resposta certa é ${q.correta}.`;
         feedbackResult.className = "feedback-result " + (isCorrect ? "is-correct" : "is-wrong");
         feedbackExplicacao.innerHTML = formatExplicacao(q.explicacao);
       } else {
@@ -253,7 +253,7 @@
 
     // Navigation
     btnPrev.disabled = current === 0;
-    btnNext.textContent = current === allQuestions.length - 1 ? "Finish" : "Next →";
+    btnNext.textContent = current === allQuestions.length - 1 ? "Encerrar" : "Próxima →";
 
     renderDots();
     save();
@@ -315,9 +315,9 @@
     requestAnimationFrame(() => { barFill.style.width = pct + "%"; });
 
     document.getElementById("results-stats").innerHTML = `
-      <span style="color:var(--correct)">✓ ${score} correct</span>
-      <span style="color:var(--wrong)">✗ ${wrong} wrong</span>
-      <span>${skipped} unanswered</span>
+      <span style="color:var(--correct)">✓ ${score} corretas</span>
+      <span style="color:var(--wrong)">✗ ${wrong} erradas</span>
+      <span>${skipped} não respondidas</span>
       <span><strong>${pct}%</strong></span>
     `;
 
@@ -330,16 +330,16 @@
 
       if (q.anulado) {
         cell.classList.add("rc-anulado");
-        cell.title = `Q${q.pos} — Voided`;
+        cell.title = `Q${q.pos} — Anulada`;
       } else if (answers[q.pos] === undefined) {
         cell.classList.add("rc-skipped");
-        cell.title = `Q${q.pos} — Unanswered`;
+        cell.title = `Q${q.pos} — Não respondida`;
       } else if (answers[q.pos] === q.correta) {
         cell.classList.add("rc-correct");
-        cell.title = `Q${q.pos} — Correct (${q.correta})`;
+        cell.title = `Q${q.pos} — Correta (${q.correta})`;
       } else {
         cell.classList.add("rc-wrong");
-        cell.title = `Q${q.pos} — Wrong (you: ${answers[q.pos]}, correct: ${q.correta})`;
+        cell.title = `Q${q.pos} — Errada (você: ${answers[q.pos]}, correta: ${q.correta})`;
       }
 
       cell.onclick = () => { current = i; showScreen(quizScreen); render(); };

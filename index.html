@@ -1,9 +1,9 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="pt-BR">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Rheumatology Exams</title>
+  <title>Provas de Reumatologia</title>
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
@@ -11,8 +11,8 @@
     <!-- Exam Picker Screen -->
     <div id="picker-screen" class="screen active">
       <div class="picker-card">
-        <h1>Rheumatology Exams</h1>
-        <p class="subtitle">Select an exam to begin</p>
+        <h1>Provas de Reumatologia</h1>
+        <p class="subtitle">Selecione uma prova para iniciar</p>
         <div id="exam-list" class="exam-list"></div>
       </div>
     </div>
@@ -20,15 +20,15 @@
     <!-- Start Screen -->
     <div id="start-screen" class="screen">
       <div class="start-card">
-        <button id="btn-back-picker" class="btn btn-small btn-outline btn-back">&larr; Back</button>
+        <button id="btn-back-picker" class="btn btn-small btn-outline btn-back">&larr; Voltar</button>
         <h1 id="exam-title"></h1>
         <p id="exam-subtitle" class="subtitle"></p>
         <div class="exam-info">
-          <div><strong>Questions:</strong> <span id="exam-count"></span></div>
-          <div><strong>Original date:</strong> <span id="exam-date"></span></div>
+          <div><strong>Questões:</strong> <span id="exam-count"></span></div>
+          <div><strong>Data original:</strong> <span id="exam-date"></span></div>
         </div>
-        <button id="btn-start" class="btn btn-primary">Start Exam</button>
-        <button id="btn-review" class="btn btn-secondary" style="display:none">Continue Review</button>
+        <button id="btn-start" class="btn btn-primary">Iniciar Prova</button>
+        <button id="btn-review" class="btn btn-secondary" style="display:none">Continuar Revisão</button>
       </div>
     </div>
 
@@ -43,13 +43,13 @@
         </div>
         <div class="header-right">
           <span id="score-display" class="score-display">0 ✓</span>
-          <button id="btn-finish" class="btn btn-small btn-outline">Finish</button>
+          <button id="btn-finish" class="btn btn-small btn-outline">Encerrar</button>
         </div>
       </header>
 
       <main>
         <div id="q-anulado" class="anulado-banner" style="display:none">
-          Voided Question
+          Questão Anulada
         </div>
 
         <div id="q-enunciado" class="enunciado"></div>
@@ -63,24 +63,24 @@
       </main>
 
       <footer>
-        <button id="btn-prev" class="btn btn-nav" disabled>&larr; Previous</button>
+        <button id="btn-prev" class="btn btn-nav" disabled>&larr; Anterior</button>
         <div class="nav-dots" id="nav-dots"></div>
-        <button id="btn-next" class="btn btn-nav">Next &rarr;</button>
+        <button id="btn-next" class="btn btn-nav">Próxima &rarr;</button>
       </footer>
     </div>
 
     <!-- Results Screen -->
     <div id="results-screen" class="screen">
       <div class="results-card">
-        <h1>Final Results</h1>
+        <h1>Resultado Final</h1>
         <div id="results-score" class="results-score"></div>
         <div id="results-bar" class="results-bar-container">
           <div id="results-bar-fill" class="results-bar-fill"></div>
         </div>
         <div id="results-stats" class="results-stats"></div>
         <div class="results-actions">
-          <button id="btn-review-results" class="btn btn-primary">Review Questions</button>
-          <button id="btn-restart" class="btn btn-secondary">Restart</button>
+          <button id="btn-review-results" class="btn btn-primary">Revisar Questões</button>
+          <button id="btn-restart" class="btn btn-secondary">Recomeçar</button>
         </div>
         <div id="results-grid" class="results-grid"></div>
       </div>
