@@ -1,4 +1,25 @@
 (function () {
+  // Theme (persists in localStorage, dark by default)
+  const THEME_KEY = "theme";
+  function applyTheme(theme) {
+    if (theme === "light") document.documentElement.setAttribute("data-theme", "light");
+    else document.documentElement.removeAttribute("data-theme");
+  }
+  function currentTheme() {
+    return document.documentElement.getAttribute("data-theme") === "light" ? "light" : "dark";
+  }
+  function toggleTheme() {
+    const next = currentTheme() === "light" ? "dark" : "light";
+    applyTheme(next);
+    try { localStorage.setItem(THEME_KEY, next); } catch {}
+  }
+  try {
+    applyTheme(localStorage.getItem(THEME_KEY));
+  } catch {}
+  document.querySelectorAll(".theme-toggle").forEach(btn => {
+    btn.addEventListener("click", toggleTheme);
+  });
+
   // State
   let allQuestions = [];
   let currentExam = null;
@@ -36,6 +57,7 @@
   function showScreen(screen) {
     [pickerScreen, startScreen, quizScreen, resultsScreen].forEach(s => s.classList.remove("active"));
     screen.classList.add("active");
+    document.body.classList.toggle("in-quiz", screen === quizScreen);
   }
 
   // -- Exam Picker --
