@@ -1,0 +1,1402 @@
+[
+  {
+    "pos": 1,
+    "anulado": false,
+    "enunciado": "Homem, 68 anos, refere dor intensa no joelho direito há dois dias, associada a febre e dificuldade para apoiar o membro nas últimas 24 horas. Diabético e hipertenso, recebeu injeção intra-articular de corticosteroide no local há uma semana. Ao exame físico, apresenta estado geral regular, temperatura de 38,4°C, FC 102 bpm e PA 130 × 80 mmHg. O joelho direito apresenta aumento de volume, calor, rubor e dor intensa à mobilização, e a punção articular drenou 50 mL de líquido sinovial. Sinovianálise: aspecto turvo e espesso, viscosidade reduzida, leucócitos 52.000/mm³ com 92% de neutrófilos, cristais pleomórficos irregulares fragmentados, Gram sem microrganismos coráveis e cultura em andamento. Dentre as alternativas a seguir, qual conduta inicial é a mais adequada?",
+    "opcoes": {
+      "A": "Colchicina.",
+      "B": "Naproxeno.",
+      "C": "Prednisona 10 mg/dia.",
+      "D": "Vancomicina + ceftriaxona."
+    },
+    "correta": "D",
+    "explicacao": "**Resposta correta: D.** Vancomicina + ceftriaxona. Apesar da injeção intra-articular recente e dos cristais no líquido, o quadro tem várias bandeiras vermelhas de artrite séptica: febre, monoartrite aguda em diabético, leucocitose sinovial de 52.000/mm³ com 92% de neutrófilos. Nesse cenário de alto risco a conduta é iniciar antibioticoterapia empírica de imediato (cobrindo Gram-positivos, incluindo S. aureus, e Gram-negativos) enquanto se aguarda a cultura, pois o atraso aumenta a destruição articular e a mortalidade. A presença de cristais não exclui infecção concomitante.\n\n**Por que as outras estão erradas:**\n- **A.** Colchicina trataria uma artrite por cristais, mas não cobre a possibilidade de sepse articular, que precisa ser afastada/tratada primeiro.\n- **B.** Naproxeno controlaria inflamação por cristais, porém não trata infecção e pode mascarar a febre.\n- **C.** Prednisona é imunossupressora e contraindicada quando há suspeita de artrite séptica não tratada.",
+    "imagens": []
+  },
+  {
+    "pos": 2,
+    "anulado": false,
+    "enunciado": "Mulher, 42 anos, relata fraqueza muscular progressiva nos membros superiores e inferiores há três meses, evoluindo com dificuldade para deambular. Ao exame físico: força muscular grau 3 (MRC) em bíceps e quadríceps e grau 2 nos extensores do pescoço. CPK sérica de 11.000 U/L (VR: 30–170 U/L); anticorpos anti-HMGCR, anti-SRP, anti-Jo-1, anti-Mi-2 e FAN (IFI-HEp-2) negativos. Foi realizada biópsia muscular. Dentre as alternativas a seguir, qual(is) achado(s) será(ão) mais provavelmente observado(s)?",
+    "opcoes": {
+      "A": "Infiltrado de macrófagos, neutrófilos e linfócitos T CD8 endomisial.",
+      "B": "Infiltrado de linfócitos B e T CD4 perivascular com atrofia perifascicular.",
+      "C": "Fibras musculares necróticas com ausência de infiltrado inflamatório.",
+      "D": "Fibras musculares com vacúolos marginados e depósito amiloide e infiltrado endomisial."
+    },
+    "correta": "C",
+    "explicacao": "**Resposta correta: C.** Fibras musculares necróticas com ausência (ou escassez) de infiltrado inflamatório. O quadro de fraqueza proximal progressiva, CPK muito elevada (11.000) e painel de anticorpos negativo é típico de miopatia necrosante imunomediada (MNIM). A histologia caracteriza-se por necrose e regeneração de fibras com pouco ou nenhum infiltrado inflamatório — diferente das miosites com infiltrado proeminente. A MNIM pode ser soronegativa mesmo quando anti-SRP e anti-HMGCR são negativos.\n\n**Por que as outras estão erradas:**\n- **A.** Infiltrado endomisial de CD8 invadindo fibras não necróticas é característico da polimiosite e da miosite por corpos de inclusão.\n- **B.** Infiltrado perivascular de linfócitos B/CD4 com atrofia perifascicular é o padrão clássico da dermatomiosite.\n- **D.** Vacúolos marginados com depósito amiloide definem a miosite por corpos de inclusão, que cursa com CPK apenas discretamente elevada e fraqueza distal/assimétrica.",
+    "imagens": []
+  },
+  {
+    "pos": 3,
+    "anulado": false,
+    "enunciado": "Homem, 35 anos, refere dor lombar há quatro anos, associada a rigidez matinal de 40 minutos e que melhora com anti-inflamatórios não hormonais. Uma imagem da coluna é mostrada a seguir. Dentre as alternativas a seguir, qual achado de imagem é observado?",
+    "opcoes": {
+      "A": "Entesite.",
+      "B": "Edema ósseo.",
+      "C": "Sindesmófito.",
+      "D": "Metaplasia gordurosa."
+    },
+    "correta": "D",
+    "explicacao": "**Resposta correta: D.** Metaplasia gordurosa. Nas sequências de ressonância magnética da coluna na espondiloartrite axial, a metaplasia gordurosa (depósito de gordura na medula óssea subcondral, hipersinal em T1) representa uma lesão estrutural crônica pós-inflamatória. A imagem demonstra esse achado de reparação/cronicidade.\n\n**Por que as outras estão erradas:**\n- **A.** Entesite é inflamação na inserção de tendões/ligamentos, com padrão e localização distintos.\n- **B.** Edema ósseo (osteíte) é lesão inflamatória ativa, hiperintensa em STIR/T2, e não o achado destacado.\n- **C.** Sindesmófito é uma ponte óssea entre corpos vertebrais, melhor visto na radiografia, não o achado apresentado.",
+    "imagens": ["images/tpi-2026/q3_img1.jpg"]
+  },
+  {
+    "pos": 4,
+    "anulado": false,
+    "enunciado": "Mulher, 50 anos, queixa-se de dificuldade para subir escadas, pentear os cabelos e dispneia aos moderados esforços há cerca de dois anos. Há 15 anos apresenta palidez e cianose nos dedos das mãos, evoluindo com edema nos dedos, dor e edema articular nas mãos e disfagia nos últimos cinco anos. Ao exame: PA 120 × 80 mmHg, FC 80 bpm, FR 14 ipm, ausculta cardiopulmonar normal, artrite nos punhos e edema nos membros inferiores; força muscular grau 5 (MRC). Exames: leucopenia (3.200), CPK 810, FAN nuclear pontilhado grosso 1/640, pro-BNP 498; ecocardiograma com disfunção sistólica leve do VD, velocidade de regurgitação tricúspide 2,9 m/s e FE 71%. Prova de função pulmonar com CVF 91%, VEF1 100%, DLCO 45% e KCO 47%. Para confirmar o diagnóstico mais provável, qual investigação complementar é a mais recomendada?",
+    "opcoes": {
+      "A": "Angiotomografia torácica.",
+      "B": "Cateterismo cardíaco direito.",
+      "C": "Ultrassonografia diafragmática.",
+      "D": "Tomografia computadorizada de tórax."
+    },
+    "correta": "B",
+    "explicacao": "**Resposta correta: B.** Cateterismo cardíaco direito. O conjunto — doença do tecido conjuntivo (provável doença mista/superposição), DLCO isoladamente muito reduzida (45%) com volumes pulmonares preservados, dispneia progressiva, sinais indiretos de sobrecarga de VD ao eco e velocidade de regurgitação tricúspide elevada — aponta para hipertensão arterial pulmonar. O padrão-ouro para confirmação diagnóstica e hemodinâmica é o cateterismo cardíaco direito.\n\n**Por que as outras estão erradas:**\n- **A.** A angiotomografia investiga tromboembolismo pulmonar, não confirma HAP.\n- **C.** A ultrassonografia diafragmática avaliaria fraqueza diafragmática, incompatível com força preservada e o padrão funcional descrito.\n- **D.** A TC de tórax avaliaria doença intersticial, mas a CVF normal e a DLCO desproporcionalmente baixa favorecem componente vascular, cuja confirmação exige cateterismo.",
+    "imagens": []
+  },
+  {
+    "pos": 5,
+    "anulado": false,
+    "enunciado": "Homem, 46 anos, com espondiloartrite axial há 12 anos. Teve adesão irregular ao tratamento no início, evoluindo com anquilose vertebral e grande redução da mobilidade. Usa secuquinumabe há um ano, com bom controle da dor (ASDAS 1,7). Avaliação funcional atual: teste de Schober 0,5 cm; expansibilidade torácica 1 cm; distância occipito-parede 9 cm; BASFI 6,0. Qual das atividades físicas a seguir é a mais indicada para esse paciente?",
+    "opcoes": {
+      "A": "Crossfit adaptado com exercícios de baixo impacto.",
+      "B": "Exercícios aquáticos com foco em mobilidade.",
+      "C": "Pilates com instrumentos resistivos intensos.",
+      "D": "Caminhada em esteira com inclinação."
+    },
+    "correta": "B",
+    "explicacao": "**Resposta correta: B.** Exercícios aquáticos com foco em mobilidade. O paciente tem anquilose avançada com grave limitação da mobilidade axial e torácica. A hidroterapia reduz a carga axial e o impacto, alivia a dor e favorece o ganho de amplitude de movimento com segurança, sendo recomendada na espondiloartrite com doença estrutural avançada.\n\n**Por que as outras estão erradas:**\n- **A.** Crossfit, mesmo adaptado, impõe carga e impacto que aumentam o risco de fratura vertebral na coluna anquilosada.\n- **C.** Pilates com resistência intensa gera sobrecarga axial inadequada para esse grau de rigidez.\n- **D.** Caminhada em esteira inclinada aumenta o impacto e a demanda axial, com menor benefício sobre a mobilidade do que o meio aquático.",
+    "imagens": []
+  },
+  {
+    "pos": 6,
+    "anulado": false,
+    "enunciado": "Homem, 44 anos, com espondiloartrite axial radiográfica, em uso de adalimumabe há oito meses. Sem queixas axiais, evoluiu nas últimas seis semanas com dor e aumento de volume no joelho direito. Refere perda de 3 kg por menor apetite e nega febre. Exame: PA 120 × 70 mmHg, Tax 37°C, ausculta normal, artrite no joelho direito. Sinovianálise do joelho: amarelo-citrino, pouco turvo, leucócitos 21.000/mm³ com neutrófilos 25% e linfócitos 65%, glicose 48 mg/dL (soro 92), DHL 640, cristais ausentes, Gram ausente, cultura em andamento. Dentre as alternativas a seguir, qual é o diagnóstico mais provável?",
+    "opcoes": {
+      "A": "Artrite séptica bacteriana.",
+      "B": "Artrite por cristais.",
+      "C": "Artrite tuberculosa.",
+      "D": "Artrite periférica da espondiloartrite."
+    },
+    "correta": "C",
+    "explicacao": "**Resposta correta: C.** Artrite tuberculosa. A monoartrite crônica e arrastada (seis semanas), com predomínio linfocitário no líquido sinovial (65% linfócitos), glicose sinovial baixa e sintomas constitucionais (perda de peso, hiporexia), em paciente sob anti-TNF (fator de risco maior para reativação de tuberculose), é altamente sugestiva de artrite tuberculosa.\n\n**Por que as outras estão erradas:**\n- **A.** A artrite séptica bacteriana costuma ser aguda, com predomínio de neutrófilos e contagem celular geralmente mais alta.\n- **B.** Não há cristais, e a evolução subaguda com predomínio linfocitário não é típica de artrite por cristais.\n- **D.** A artrite periférica da espondiloartrite não cursa com predomínio linfocitário acentuado, glicose baixa e sintomas constitucionais como os descritos, sobretudo com doença axial em remissão.",
+    "imagens": []
+  },
+  {
+    "pos": 7,
+    "anulado": false,
+    "enunciado": "Homem, 31 anos, com úlceras orais e genitais recorrentes, dolorosas e profundas, desde a adolescência, passou a apresentar dor abdominal recorrente, diarreia com muco e ocasionalmente sangue, além de emagrecimento não intencional há um ano e meio. Refere ainda dor e edema nos joelhos e tornozelos. Exame: úlceras ovais superficiais com halo eritematoso em palato mole, mucosa jugal e língua; artrite nos tornozelos; abdome difusamente doloroso. Sorologias para HIV, HBV, HCV, sífilis e HTLV negativas; FAN e ANCA negativos. Angiotomografia de abdome normal. Colonoscopia com úlceras profundas ovais isoladas na região ileocecal, mucosa adjacente preservada; biópsia com inflamação transmural focal sem granulomas. Qual manifestação é mais associada ao diagnóstico mais provável?",
+    "opcoes": {
+      "A": "Fístulas perianais complexas.",
+      "B": "Colangite esclerosante primária.",
+      "C": "Suboclusão intestinal recorrente.",
+      "D": "Trombose de seio venoso cerebral."
+    },
+    "correta": "D",
+    "explicacao": "**Resposta correta: D.** Trombose de seio venoso cerebral. O quadro de úlceras orais e genitais recorrentes, artrite e envolvimento intestinal com úlceras profundas ovais/isoladas (padrão do \"entero-Behçet\") caracteriza a doença de Behçet. Entre suas manifestações vasculares está a trombose venosa, incluindo a trombose de seio venoso cerebral, fortemente associada à doença.\n\n**Por que as outras estão erradas:**\n- **A, B, C.** Fístulas perianais complexas, colangite esclerosante primária e suboclusão intestinal recorrente são mais características da doença de Crohn, o principal diagnóstico diferencial, afastado aqui pela ausência de granulomas e pelo padrão ulceroso associado às úlceras mucocutâneas típicas de Behçet.",
+    "imagens": []
+  },
+  {
+    "pos": 8,
+    "anulado": false,
+    "enunciado": "Mulher, 53 anos, queixa-se de dor dorso-lombar de forte intensidade, de início súbito e piora progressiva há oito dias. Antecedente de cirurgia bariátrica (bypass em Y de Roux há oito anos) e osteoporose, com fratura de rádio distal há cinco anos, em uso regular de citrato de cálcio 1.000 mg/dia, colecalciferol 4.000 UI/dia e denosumabe. Suspendeu o denosumabe há nove meses para extração dentária. Exame: dor à palpação dos processos espinhosos na transição toracolombar. Exames laboratoriais (função renal, cálcio, fósforo, 25-OH-vitamina D) normais. Radiografia da coluna e densitometria (T-score L1-L4 -3,1; colo -2,7; fêmur total -2,5) mostradas. Qual conduta terapêutica é a mais recomendada neste momento?",
+    "opcoes": {
+      "A": "Teriparatida.",
+      "B": "Romosozumabe.",
+      "C": "Ácido zoledrônico.",
+      "D": "Denosumabe + teriparatida."
+    },
+    "correta": "D",
+    "explicacao": "**Resposta correta: D.** Denosumabe + teriparatida. A paciente apresenta fratura vertebral por efeito rebote após suspensão do denosumabe (perda rápida de massa óssea e risco elevado de fraturas vertebrais múltiplas). O manejo do rebote com fratura vertebral, em osteoporose grave, favorece reintroduzir a antirreabsortiva potente e associar agente osteoanabólico. A teriparatida é anabólica e o denosumabe controla a reabsorção acelerada do rebote.\n\n**Por que as outras estão erradas:**\n- **A.** Teriparatida isolada não conteria a reabsorção acelerada do rebote na fase aguda.\n- **B.** Romosozumabe é opção anabólica, mas há restrição em pacientes com alto risco cardiovascular e menor experiência no cenário de rebote com fratura vertebral aguda.\n- **C.** Ácido zoledrônico é usado para prevenir/atenuar o rebote, mas isoladamente é insuficiente diante de fratura vertebral em osteoporose grave que se beneficia de anabólico.",
+    "imagens": ["images/tpi-2026/q8_img1.jpg"]
+  },
+  {
+    "pos": 9,
+    "anulado": false,
+    "enunciado": "Mulher, 43 anos, com esclerose sistêmica difusa há quatro anos, em uso de nifedipino, pantoprazol e micofenolato de mofetila 3 g/dia iniciados há dez meses. Retorna com piora do espessamento cutâneo e dispneia aos esforços moderados, com tosse seca. Exame: estertores crepitantes em bases, pitting scars, leucomelanodermia; escore de Rodnan atual 24 (há 12 meses: 17). TCAR de tórax mostrada. Prova de função pulmonar: CVF caiu de 72% para 62%, DLCO de 58% para 48% em dez meses de micofenolato. Ecocardiograma: FE 64%, VD e AD discretamente dilatados, insuficiência tricúspide leve-moderada, velocidade de jato tricúspide 3,2 m/s, PSAP 49 mmHg. Qual estratégia farmacológica é a mais recomendada neste momento?",
+    "opcoes": {
+      "A": "Trocar micofenolato por tocilizumabe.",
+      "B": "Associar nintedanibe ao micofenolato.",
+      "C": "Adicionar rituximabe ao micofenolato.",
+      "D": "Realizar transplante autólogo de células-tronco."
+    },
+    "correta": "C",
+    "explicacao": "**Resposta correta: C.** Adicionar rituximabe ao micofenolato. Trata-se de doença intersticial pulmonar da esclerose sistêmica com progressão apesar de dez meses de micofenolato (queda de CVF e DLCO) e piora cutânea (Rodnan 17→24). Nesse cenário de doença cutânea e pulmonar em progressão sob micofenolato, o rituximabe é a estratégia de escalonamento com melhor suporte de evidência para controlar pele e pulmão.\n\n**Por que as outras estão erradas:**\n- **A.** Tocilizumabe tem papel na SSc, mas a troca (em vez de associação) e o perfil de resposta o tornam menos indicado que associar rituximabe à terapia já em curso.\n- **B.** Nintedanibe é antifibrótico útil, porém não atua sobre a atividade cutânea inflamatória em progressão; a escolha de melhor abrangência é o rituximabe.\n- **D.** O transplante autólogo é reservado para doença rapidamente progressiva refratária a terapias prévias adequadas, ainda não esgotadas aqui.",
+    "imagens": ["images/tpi-2026/q9_img1.jpg"]
+  },
+  {
+    "pos": 10,
+    "anulado": false,
+    "enunciado": "Homem, 43 anos, apresenta episódios de dor e inchaço nos joelhos há um ano. Uma imagem radiográfica do caso é mostrada a seguir. Qual das condições a seguir apresenta forte associação com o diagnóstico mais provável neste caso?",
+    "opcoes": {
+      "A": "Obesidade.",
+      "B": "Hipotiroidismo.",
+      "C": "Diabetes mellitus.",
+      "D": "Hipomagnesemia."
+    },
+    "correta": "D",
+    "explicacao": "**Resposta correta: D.** Hipomagnesemia. A radiografia mostra condrocalcinose (calcificação da cartilagem), achado da doença por depósito de pirofosfato de cálcio (CPPD). Entre as condições metabólicas classicamente associadas à CPPD, sobretudo em pacientes jovens, está a hipomagnesemia (além de hiperparatireoidismo e hemocromatose).\n\n**Por que as outras estão erradas:**\n- **A.** A obesidade associa-se à osteoartrite e à gota, não especificamente à condrocalcinose.\n- **B.** O hipotireoidismo tem associação fraca/inconsistente com CPPD; o hipertireoidismo é ainda menos relacionado.\n- **C.** O diabetes mellitus não é fator metabólico clássico de CPPD nas diretrizes de investigação.",
+    "imagens": ["images/tpi-2026/q10_img1.jpg"]
+  },
+  {
+    "pos": 11,
+    "anulado": false,
+    "enunciado": "Mulher, 37 anos, há um ano com dor e inchaço nos tornozelos associados a lesões nodulares avermelhadas firmes e dolorosas nos membros inferiores. Após melhora parcial com cetoprofeno, evoluiu com artrite persistente em punhos, joelhos e tornozelos, necessitando prednisona contínua (até 20 mg/dia) por 12 meses. Usou metotrexato, hidroxicloroquina e, nos últimos seis meses, azatioprina. Mantém queixas articulares e piora aos desmames de prednisona. Exame: artrite em punhos, joelhos e tornozelo direito. Radiografia de tórax do início e exames atuais mostrados (hemograma normal, VHS 42, PCR 12, cálcio 10,1, FAN não reagente, FR 7). Qual intervenção farmacológica é a mais recomendada neste momento?",
+    "opcoes": {
+      "A": "Infliximabe.",
+      "B": "Rituximabe.",
+      "C": "Abatacepte.",
+      "D": "Ustekinumabe."
+    },
+    "correta": "A",
+    "explicacao": "**Resposta correta: A.** Infliximabe. O quadro de artrite, eritema nodoso e adenopatia hilar na radiografia de tórax caracteriza a síndrome de Löfgren/sarcoidose com artrite crônica corticodependente e refratária a imunossupressores convencionais. Nessa situação, os anti-TNF, em especial o infliximabe, são a terapia com melhor evidência para sarcoidose refratária.\n\n**Por que as outras estão erradas:**\n- **B.** Rituximabe tem papel limitado e de segunda/terceira linha na sarcoidose, sem a robustez do infliximabe.\n- **C.** Abatacepte não é terapia estabelecida para sarcoidose.\n- **D.** Ustekinumabe não demonstrou eficácia consistente na sarcoidose.",
+    "imagens": ["images/tpi-2026/q11_img1.jpg"]
+  },
+  {
+    "pos": 12,
+    "anulado": false,
+    "enunciado": "Mulher, 56 anos, com artralgias e mialgias há duas semanas, evoluindo com tosse pouco produtiva e dor torácica há três dias. Tem LES há dois anos (cutâneo-articular, hematológico, renal e sorológico), em uso de micofenolato 2 g/dia, levotiroxina e lisinopril. Exame: Tax 37,7°C, FC 104 bpm, PA 138 × 88 mmHg, rash malar poupando sulcos nasolabiais, murmúrio reduzido com crepitações na base direita, sinovite em IFP e edema em MMII. Exames: Hb 11,1, leucócitos 15.000, plaquetas 142.000, PCR 68, creatinina 0,8; urina com proteína 1+, hemácias dismórficas, cilindros hemáticos; relação proteína/creatinina 1,0. Qual a explicação mais provável para a elevação da PCR?",
+    "opcoes": {
+      "A": "Nefrite.",
+      "B": "Infecção.",
+      "C": "Miocardite.",
+      "D": "Pneumonite."
+    },
+    "correta": "B",
+    "explicacao": "**Resposta correta: B.** Infecção. No LES, a PCR tende a permanecer pouco elevada mesmo em atividade (incluindo nefrite e serosite), pois a doença cursa preferencialmente com aumento de VHS. Uma PCR marcadamente elevada (68) em paciente lúpica, com febre, leucocitose e foco pulmonar (crepitações na base direita), sugere fortemente infecção sobreposta, sendo esta a explicação mais provável.\n\n**Por que as outras estão erradas:**\n- **A.** A nefrite lúpica (evidente aqui pelo sedimento) tipicamente não eleva a PCR de forma expressiva.\n- **C.** A miocardite lúpica é incomum e habitualmente não produz PCR tão elevada isoladamente.\n- **D.** A pneumonite lúpica pode ocorrer, mas classicamente a atividade do LES não eleva a PCR tanto quanto uma infecção bacteriana concomitante.",
+    "imagens": []
+  },
+  {
+    "pos": 13,
+    "anulado": false,
+    "enunciado": "Mulher, 65 anos, com LES bem controlado, em uso de hidroxicloroquina, azatioprina e prednisona 7,5 mg/dia. Por piora da osteoartrite nos joelhos, recebeu prescrição de cetoprofeno. Qual dos eventos adversos a seguir tem maior risco de ocorrer com a associação de cetoprofeno ao glicocorticoide neste caso?",
+    "opcoes": {
+      "A": "Osteoporose.",
+      "B": "Úlcera gástrica.",
+      "C": "Diabetes mellitus.",
+      "D": "Disfunção renal aguda."
+    },
+    "correta": "B",
+    "explicacao": "**Resposta correta: B.** Úlcera gástrica. A associação de AINE (cetoprofeno) com glicocorticoide aumenta de forma sinérgica e substancial o risco de doença ulcerosa péptica e sangramento gastrintestinal. Esse é o evento adverso cujo risco mais claramente se potencializa com a combinação aguda.\n\n**Por que as outras estão erradas:**\n- **A.** A osteoporose relaciona-se ao uso crônico de corticoide, não à adição pontual do AINE.\n- **C.** O diabetes associa-se ao efeito hiperglicemiante do corticoide, não à interação com o AINE.\n- **D.** A disfunção renal é risco do AINE, porém a interação sinérgica mais destacada e imediata da associação AINE + corticoide é a lesão gastroduodenal.",
+    "imagens": []
+  },
+  {
+    "pos": 14,
+    "anulado": false,
+    "enunciado": "Homem, 26 anos, atleta amador de corrida, relata dor na região anterior do joelho direito há três meses. A dor piora ao aterrissar após saltos e durante treinos de velocidade. Exame: leve desconforto no teste de compressão patelar, dor à palpação do polo distal da patela, sem crepitação nem derrame; rotação tibial passiva e teste de Ober negativos. Qual é o diagnóstico mais provável?",
+    "opcoes": {
+      "A": "Tendinopatia patelar.",
+      "B": "Condromalácia patelar.",
+      "C": "Síndrome da plica medial.",
+      "D": "Síndrome da banda iliotibial."
+    },
+    "correta": "A",
+    "explicacao": "**Resposta correta: A.** Tendinopatia patelar (\"joelho do saltador\"). Atleta com dor anterior no joelho que piora com saltos e corrida em velocidade, com dor localizada à palpação do polo distal (inferior) da patela — sítio de origem do tendão patelar — é o quadro clássico de tendinopatia patelar.\n\n**Por que as outras estão erradas:**\n- **B.** A condromalácia patelar cursa com dor retropatelar, crepitação e piora ao subir/descer escadas ou ao permanecer sentado, sem a dor pontual no polo distal.\n- **C.** A síndrome da plica medial produz dor e estalido na face medial do joelho.\n- **D.** A síndrome da banda iliotibial causa dor lateral (côndilo femoral lateral) e teste de Ober positivo, aqui negativo.",
+    "imagens": []
+  },
+  {
+    "pos": 15,
+    "anulado": false,
+    "enunciado": "Mulher, 32 anos, com LES (cutâneo, articular e hematológico) há seis anos, em uso de prednisona 20 mg/dia, hidroxicloroquina, micofenolato 2 g/dia e rituximabe (último ciclo há 60 dias). Admitida na UTI há 12 dias por sangramento gengival volumoso, petéquias, equimoses e epistaxe. Recebeu pulso de dexametasona (40 mg/dia por 4 dias) e imunoglobulina IV (1 g/kg/dia por 2 dias, finalizada há 7 dias). Sem infecção ativa, mantém sangramento com necessidade transfusional contínua. Exames: plaquetas 5.000, reticulócitos normais, Coombs direto negativo, INR/TTPa normais, anticardiolipina IgG 120, anticoagulante lúpico positivo, anti-β2GPI IgG 108, C3/C4 baixos, anti-DNAds 1/640. Qual conduta é a mais indicada neste momento?",
+    "opcoes": {
+      "A": "Romiplostim.",
+      "B": "Eltrombopague.",
+      "C": "Esplenectomia.",
+      "D": "Plasmaférese."
+    },
+    "correta": "C",
+    "explicacao": "**Resposta correta: C.** Esplenectomia. Trata-se de trombocitopenia imune grave e refratária associada ao LES, sem resposta a corticoide em altas doses, imunoglobulina IV e rituximabe recente, com sangramento ativo e necessidade transfusional contínua. Nesse cenário refratário e potencialmente fatal, a esplenectomia é a conduta indicada.\n\n**Por que as outras estão erradas:**\n- **A, B.** Agonistas do receptor de trombopoetina (romiplostim, eltrombopague) têm início de ação mais lento e, no contexto de alta carga de anticorpos antifosfolípides, acarretam risco trombótico, sendo menos apropriados na emergência hemorrágica refratária.\n- **D.** A plasmaférese não é o tratamento estabelecido da trombocitopenia imune isolada refratária.",
+    "imagens": []
+  },
+  {
+    "pos": 16,
+    "anulado": false,
+    "enunciado": "Mulher, 36 anos, encaminhada por múltiplas fraturas por estresse (tíbia direita há dois anos, tíbia esquerda há um ano, quarto metatarso direito há seis meses). Atualmente sem queixas, exceto fraqueza leve. Hígida, ciclos regulares, nega medicações, etilismo ou tabagismo. Exame normal, força grau 5. Exames: fosfatase alcalina 21 U/L (baixa), cálcio 8,9, fósforo 2,6, vitamina B6 elevada (102), 25-OH-vitamina D 26; densitometria com T-score L1-L4 -2,6 e fêmur total -3,0. Considerando a investigação complementar, qual das alternativas é mais útil neste caso?",
+    "opcoes": {
+      "A": "CTX e P1NP.",
+      "B": "FSH, LH e prolactina sérica.",
+      "C": "Cálcio urinário e PTH intacto.",
+      "D": "Sequenciamento do gene ALPL."
+    },
+    "correta": "D",
+    "explicacao": "**Resposta correta: D.** Sequenciamento do gene ALPL. Fraturas por estresse recorrentes, fosfatase alcalina persistentemente baixa (21) e piridoxal (vitamina B6) elevada em adulto jovem apontam para hipofosfatasia, causada por mutações no gene ALPL (fosfatase alcalina não específica de tecido). A confirmação diagnóstica é o sequenciamento do ALPL.\n\n**Por que as outras estão erradas:**\n- **A.** CTX e P1NP são marcadores de remodelação inespecíficos, sem valor diagnóstico para hipofosfatasia.\n- **B.** FSH/LH/prolactina investigariam hipogonadismo, mas os ciclos são regulares e a chave é a FA baixa.\n- **C.** Cálcio urinário e PTH avaliam distúrbios do metabolismo cálcio-PTH, não explicam a FA baixa com B6 alta.",
+    "imagens": []
+  },
+  {
+    "pos": 17,
+    "anulado": false,
+    "enunciado": "Homem, 32 anos, com dor lombar inflamatória em piora e rigidez matinal (2 horas) há quatro meses. Tem doença de Crohn luminal há seis anos, sem queixas gastrintestinais, em uso de adalimumabe 40 mg a cada duas semanas há 18 meses. ASDAS-PCR atual 3,8. Exames: VHS 35, PCR 15, concentração sérica de adalimumabe 15 µg/mL (terapêutica), anticorpo anti-adalimumabe indetectável, HLA-B27 detectado, calprotectina fecal 350; RM de sacroilíacas com sacroileíte bilateral simétrica com edema medular, erosões e esclerose. Qual estratégia representa o próximo passo mais apropriado?",
+    "opcoes": {
+      "A": "Golimumabe.",
+      "B": "Upadacitinibe.",
+      "C": "Secuquinumabe.",
+      "D": "Ustequinumabe."
+    },
+    "correta": "B",
+    "explicacao": "**Resposta correta: B.** Upadacitinibe. Trata-se de falha secundária ao anti-TNF com níveis séricos terapêuticos e sem anticorpos anti-fármaco (falha farmacodinâmica), em paciente com espondiloartrite axial ativa e doença de Crohn associada. O upadacitinibe (inibidor de JAK) é eficaz tanto na espondiloartrite axial quanto na doença inflamatória intestinal, sendo a melhor troca de mecanismo neste contexto.\n\n**Por que as outras estão erradas:**\n- **A.** Golimumabe é outro anti-TNF; a falha farmacodinâmica ao adalimumabe torna a troca dentro da mesma classe pouco vantajosa.\n- **C.** Secuquinumabe (anti-IL-17) pode piorar/precipitar doença inflamatória intestinal e não é indicado com Crohn ativo (calprotectina elevada).\n- **D.** Ustequinumabe atua no Crohn, porém tem eficácia limitada na doença axial.",
+    "imagens": []
+  },
+  {
+    "pos": 18,
+    "anulado": false,
+    "enunciado": "Mulher, 69 anos, encaminhada pela nefrologia por fragilidade óssea. Duas fraturas após queda da própria altura nos últimos 12 meses (rádio distal e arco costal). Doença renal crônica por rim policístico em hemodiálise. Usa sinvastatina, sevelamer e calcitriol 0,50 mcg/dia. Menopausa aos 52 anos, sem terapia hormonal. Exame normal; radiografia com calcificações lineares na aorta abdominal. Exames: cálcio 10,3, fósforo 4,3, PTH intacto 88, FA 90, 25-OH-vitamina D 23, creatinina 3,5, TFG 13, albumina 3,7; densitometria T-score L1-L4 -3,3, colo -2,2, fêmur total -2,1. Qual é o próximo passo mais recomendado?",
+    "opcoes": {
+      "A": "Descontinuar o calcitriol.",
+      "B": "Raloxifeno 60 mg via oral uma vez ao dia.",
+      "C": "Denosumabe 60 mg a cada seis meses.",
+      "D": "Alendronato 70 mg via oral a cada duas semanas."
+    },
+    "correta": "A",
+    "explicacao": "**Resposta correta: A.** Descontinuar o calcitriol. A paciente em diálise apresenta cálcio no limite superior/elevado (10,3), PTH apenas discretamente aumentado (88) e calcificação vascular. Antes de iniciar terapia antifratura, é preciso corrigir o distúrbio mineral: o calcitriol está favorecendo hipercalcemia e supressão excessiva do PTH, devendo ser descontinuado.\n\n**Por que as outras estão erradas:**\n- **B.** Raloxifeno não é a escolha e não corrige o distúrbio mineral subjacente.\n- **C.** Denosumabe em diálise acarreta alto risco de hipocalcemia grave e requer avaliação cuidadosa do metabolismo mineral antes.\n- **D.** Bisfosfonatos são pouco recomendados/contraindicados em TFG tão baixa e podem induzir doença óssea adinâmica, além de não abordarem a hipercalcemia induzida pelo calcitriol.",
+    "imagens": []
+  },
+  {
+    "pos": 19,
+    "anulado": false,
+    "enunciado": "Mulher, 32 anos, com dor e edema em punhos, joelhos e IFP há cinco anos, com rigidez matinal de 30 minutos e fenômeno de Raynaud. Nega xerostomia e xeroftalmia. Exame: calor e edema em joelhos e punhos. Exames: anemia (Hb 10), leucopenia (2.100) com linfopenia e neutropenia, plaquetas 168.000, VHS 45, PCR 24, FAN não reagente, FR 5, anti-SSA/Ro não reagente, C4 8 (baixo), C3 70 (baixo), gamaglobulinas elevadas (2,1). Capilaroscopia com capilares em paliçada sem dilatações, deleções ou hemorragias. Para fins diagnósticos, qual propedêutica complementar é mais indicada?",
+    "opcoes": {
+      "A": "Sinovianálise.",
+      "B": "Cintilografia óssea.",
+      "C": "Sialometria não estimulada.",
+      "D": "Dosagem de enzima conversora de angiotensina."
+    },
+    "correta": "C",
+    "explicacao": "**Resposta correta: C.** Sialometria não estimulada. O conjunto — artrite, citopenias (leucopenia/linfopenia), consumo de complemento, hipergamaglobulinemia — em mulher jovem sugere doença autoimune sistêmica, com forte possibilidade de síndrome de Sjögren (que pode ser FAN/anti-Ro negativos em parte dos casos). A sialometria não estimulada avalia objetivamente a hipofunção glandular e contribui para o diagnóstico, mesmo sem queixas sicca exuberantes.\n\n**Por que as outras estão erradas:**\n- **A.** A sinovianálise não diferencia as etiologias autoimunes em questão.\n- **B.** A cintilografia óssea é inespecífica para o diagnóstico proposto.\n- **D.** A ECA seria útil para sarcoidose, não sugerida por este conjunto de achados.",
+    "imagens": []
+  },
+  {
+    "pos": 20,
+    "anulado": false,
+    "enunciado": "Homem, 65 anos, com dor na região inguinal direita ao deambular há três anos, associada a rigidez matinal de 15 minutos. Atualmente a dor é incapacitante, limitando marcha e autocuidado. Exame: dor e limitação da rotação interna e abdução do quadril direito. Exame de imagem apresentado. Conforme as recomendações vigentes, qual terapia intra-articular é a mais indicada para esse paciente?",
+    "opcoes": {
+      "A": "Ácido hialurônico.",
+      "B": "Plasma rico em plaquetas.",
+      "C": "Células-tronco mesenquimais.",
+      "D": "Hexacetonida de triancinolona."
+    },
+    "correta": "D",
+    "explicacao": "**Resposta correta: D.** Hexacetonida de triancinolona. O quadro é de osteoartrite de quadril avançada e sintomática. Entre as terapias intra-articulares, apenas o glicocorticoide (triancinolona) tem recomendação favorável (condicional) para alívio sintomático no quadril segundo as diretrizes atuais.\n\n**Por que as outras estão erradas:**\n- **A.** O ácido hialurônico não é recomendado na osteoartrite de quadril (evidência insuficiente/desfavorável).\n- **B, C.** Plasma rico em plaquetas e células-tronco mesenquimais não têm recomendação nas diretrizes por falta de evidência de eficácia.",
+    "imagens": ["images/tpi-2026/q20_img1.jpg"]
+  },
+  {
+    "pos": 21,
+    "anulado": false,
+    "enunciado": "Mulher, 67 anos, com osteoartrite do compartimento medial do joelho direito (Kellgren-Lawrence grau 3), apresenta dor mecânica diária e limitação funcional para deambulação. Já realizou cinesioterapia sem melhora significativa. De acordo com as recomendações vigentes, qual das intervenções não farmacológicas é a mais indicada?",
+    "opcoes": {
+      "A": "Prática de Tai Chi.",
+      "B": "Joelheira patelo-femoral.",
+      "C": "Palmilha com cunha lateral.",
+      "D": "Terapia cognitivo-comportamental."
+    },
+    "correta": "A",
+    "explicacao": "**Resposta correta: A.** Prática de Tai Chi. O Tai Chi é fortemente recomendado na osteoartrite de joelho pelas diretrizes atuais, com benefício sobre dor, função, equilíbrio e componente psicológico.\n\n**Por que as outras estão erradas:**\n- **B.** A joelheira patelo-femoral seria voltada ao compartimento patelofemoral, não ao acometimento medial descrito.\n- **C.** As palmilhas com cunha lateral não demonstraram eficácia consistente e não são recomendadas na osteoartrite medial do joelho.\n- **D.** A terapia cognitivo-comportamental é adjuvante para dor crônica, mas não é a intervenção não farmacológica de escolha para a OA de joelho neste cenário.",
+    "imagens": []
+  },
+  {
+    "pos": 22,
+    "anulado": false,
+    "enunciado": "Homem, 64 anos, com dor intensa, calor e inchaço no joelho esquerdo há dois dias. Teve dois episódios semelhantes no último ano (tarso do pé direito e o mesmo joelho), com melhora com naproxeno. Antecedentes: HAS, DM2 e DRC (TFG 50). A ultrassonografia mostra uma linha hiperecogênica irregular, paralela à interface osso-cartilagem. Qual é o diagnóstico mais provável?",
+    "opcoes": {
+      "A": "Osteoartrite.",
+      "B": "Hemocromatose.",
+      "C": "Condrocalcinose.",
+      "D": "Artrite por urato monossódico."
+    },
+    "correta": "D",
+    "explicacao": "**Resposta correta: D.** Artrite por urato monossódico (gota). Na ultrassonografia, a deposição de urato caracteriza-se pelo \"sinal do duplo contorno\" — uma linha hiperecogênica irregular sobre a superfície da cartilagem (paralela ao contorno ósseo). Associado à clínica de crises recorrentes de mono/oligoartrite em paciente com fatores de risco (DM, DRC), o diagnóstico é gota.\n\n**Por que as outras estão erradas:**\n- **A.** A osteoartrite não produz o sinal do duplo contorno.\n- **B.** A hemocromatose associa-se à artropatia por CPPD, cujo achado ultrassonográfico é a deposição de cristais dentro da cartilagem (não na superfície).\n- **C.** Na condrocalcinose (CPPD), os depósitos são intracartilaginosos (linha dentro da cartilagem), diferentes do duplo contorno superficial do urato.",
+    "imagens": ["images/tpi-2026/q22_img1.jpg"]
+  },
+  {
+    "pos": 23,
+    "anulado": false,
+    "enunciado": "Mulher, 45 anos, com dor osteomioarticular difusa e contínua há um ano, com fadiga intensa e sono não reparador. Os sintomas pioram com estresse emocional e esforço físico. Exame: dor à palpação em múltiplos pontos, sem edema ou calor articular, amplitude de movimento preservada. Hemograma, CPK, TSH, VHS e PCR normais. Dentre as alternativas, qual intervenção é a mais recomendada?",
+    "opcoes": {
+      "A": "Alongamento.",
+      "B": "Osteopatia.",
+      "C": "Liberação miofascial.",
+      "D": "Terapia cognitivo-comportamental."
+    },
+    "correta": "D",
+    "explicacao": "**Resposta correta: D.** Terapia cognitivo-comportamental. O quadro é de fibromialgia. Entre as opções listadas, a terapia cognitivo-comportamental é a intervenção não farmacológica com maior nível de evidência e recomendação forte, atuando sobre dor, catastrofização, sono e funcionalidade.\n\n**Por que as outras estão erradas:**\n- **A.** O alongamento isolado tem benefício modesto; o exercício aeróbico é o mais recomendado entre as terapias físicas, não o alongamento em si.\n- **B, C.** Osteopatia e liberação miofascial não têm evidência consistente que justifique recomendação na fibromialgia.",
+    "imagens": []
+  },
+  {
+    "pos": 24,
+    "anulado": false,
+    "enunciado": "Mulher, 55 anos, com dor e inchaço simétricos em punhos e mãos há seis meses, além de nódulos eritematosos no tronco e membros há 15 dias. Há três meses iniciou metotrexato 15 mg/semana e prednisona 10 mg/dia, sem melhora, suspendendo após um mês. Exame: hipotrofia interóssea, dor e edema em punhos e IFP (2ª e 3ª) bilaterais, hipoestesia tátil assimétrica nas extremidades. Exames: leucocitose (16.370), VHS 50, PCR 15, FAN reagente nucleolar 1/160, FR 40, anti-DNAds e anti-Ro/La não reagentes, C3/C4 normais, anticardiolipina IgM 31 e anti-β2GPI IgG 40 discretamente elevados, gamaglobulinas elevadas (3,5), sorologias HBV/HCV/HIV/VDRL não reagentes. Qual é o diagnóstico mais provável?",
+    "opcoes": {
+      "A": "Hanseníase.",
+      "B": "Artrite reumatoide.",
+      "C": "Lúpus eritematoso sistêmico.",
+      "D": "Síndrome antifosfolípide."
+    },
+    "correta": "A",
+    "explicacao": "**Resposta correta: A.** Hanseníase. A combinação de poliartrite, nódulos eritematosos (eritema nodoso hansênico/reação tipo 2), mononeurite múltipla (hipoestesia assimétrica das extremidades) e produção de múltiplos autoanticorpos em títulos baixos/moderados (FR, antifosfolípides, hipergamaglobulinemia) é característica da hanseníase, grande imitadora de doenças reumáticas.\n\n**Por que as outras estão erradas:**\n- **B.** A artrite reumatoide não explica os nódulos com neuropatia assimétrica nem o padrão de autoanticorpos múltiplos inespecíficos.\n- **C.** O LES é improvável com anti-DNAds negativo, complemento normal e FAN nucleolar de baixo título.\n- **D.** Os antifosfolípides discretamente positivos são achado inespecífico da hanseníase; não há trombose que defina SAF.",
+    "imagens": []
+  },
+  {
+    "pos": 25,
+    "anulado": false,
+    "enunciado": "Homem, 48 anos, com fraqueza há oito meses, mialgias e artralgias difusas, manchas cutâneas, perda de 4 kg e disfagia progressiva. Exame: rash heliotrópio, lesões em \"V\" no decote, pápulas de Gottron nas MCF e cotovelos com necrose cutânea, artrite em punhos e joelhos; força grau 5 distal e grau 4 proximal. Exames: leucopenia (3.500), VHS 50, PCR 16, FAN nuclear pontilhado 1/640, CPK 2.300, transaminases elevadas, PSA e CA-125 normais. Quais condutas adicionais de rastreamento de neoplasias são mais adequadas para este caso?",
+    "opcoes": {
+      "A": "Tomografia por emissão de pósitrons/tomografia computadorizada.",
+      "B": "Eletroforese de proteínas séricas, radiografia convencional de tórax e toque retal.",
+      "C": "Tomografia computadorizada cervical, de tórax e abdome e sangue oculto nas fezes.",
+      "D": "Alfafetoproteína, antígeno carcinoembrionário, CA 19-9 e painel genético para neoplasia."
+    },
+    "correta": "C",
+    "explicacao": "**Resposta correta: C.** TC cervical, de tórax e abdome e pesquisa de sangue oculto nas fezes. A dermatomiosite do adulto, sobretudo com necrose cutânea e características de alto risco, exige rastreamento sistemático de malignidade oculta. A abordagem por imagem seccional abrangente (pescoço, tórax, abdome/pelve) somada à pesquisa de sangue oculto é a estratégia mais adequada e custo-efetiva.\n\n**Por que as outras estão erradas:**\n- **A.** O PET-CT pode ser útil, mas não é o rastreamento inicial de rotina recomendado para todos; a TC seccional dirigida é a base.\n- **B.** Eletroforese, radiografia de tórax e toque retal são insuficientes/pouco sensíveis para o rastreamento amplo necessário.\n- **D.** Um painel de marcadores tumorais e teste genético não substitui a investigação por imagem e tem baixo rendimento como rastreamento inespecífico.",
+    "imagens": []
+  },
+  {
+    "pos": 26,
+    "anulado": false,
+    "enunciado": "Mulher, 25 anos, com LES com acometimento renal e articular há oito meses. Tratada inicialmente com ciclofosfamida e metilprednisolona em pulso e, há dois meses, usa prednisona 15 mg/dia, hidroxicloroquina e azatioprina. Há um dia, procurou o pronto atendimento por cefaleia, diplopia, disartria e dor abdominal. Exames: anemia (Hb 7,3), creatinina 1,5, VHS 80, PCR 20, anti-DNAds 1/320, DHL 439, C3/C4 baixos, anticoagulante lúpico 2,1, anticardiolipina IgM 46 e IgG 54, anti-β2GPI IgG 182; hemoculturas negativas; RM de encéfalo com isquemia em território da artéria cerebral média esquerda; ecocardiograma com espessamento e vegetação em valva mitral sem destruição valvar; TC de abdome com infarto esplênico. Em antibioticoterapia empírica (vancomicina + ceftriaxona) há cinco dias, evolui sem melhora. Qual é a conduta adicional mais indicada?",
+    "opcoes": {
+      "A": "Cirurgia para troca valvar.",
+      "B": "Enoxaparina 1 mg/kg 12/12 horas.",
+      "C": "Micofenolato de mofetila 3 g/dia.",
+      "D": "Escalonar para linezolida e meropenem."
+    },
+    "correta": "B",
+    "explicacao": "**Resposta correta: B.** Enoxaparina 1 mg/kg 12/12 horas. O quadro com múltiplos eventos tromboembólicos (AVC, infarto esplênico), vegetações valvares estéreis (endocardite de Libman-Sacks) e altos títulos de anticorpos antifosfolípides em três domínios caracteriza síndrome antifosfolípide com eventos trombóticos. A conduta é anticoagulação plena; as hemoculturas negativas e a ausência de melhora com antibióticos afastam endocardite infecciosa.\n\n**Por que as outras estão erradas:**\n- **A.** A vegetação de Libman-Sacks raramente exige troca valvar, sobretudo sem disfunção/destruição valvar.\n- **C.** O micofenolato trataria atividade lúpica de manutenção, mas não resolve os eventos trombóticos agudos que demandam anticoagulação.\n- **D.** Escalonar antibióticos é injustificado sem evidência de infecção (culturas negativas), tratando-se de fenômeno trombótico.",
+    "imagens": []
+  },
+  {
+    "pos": 27,
+    "anulado": false,
+    "enunciado": "Homem, 30 anos, internado há duas semanas, com fadiga, perda ponderal, odinofagia e febre diária de 39°C há três meses, com picos vespertinos, associada a exantema maculopapular rosa-salmão que regride com o fim da febre. Nega queixas articulares. Hemoculturas, sorologias virais, PCR para EBV e CMV negativas. Tratado com pulso de metilprednisolona, prednisona 1 mg/kg/dia e ciclosporina, sem melhora. Exame: FC 110 bpm, atrito pericárdico, linfadenomegalia generalizada e esplenomegalia. Exames: leucocitose (18.700) com neutrofilia, anemia, plaquetopenia (65.000), VHS 100, PCR 74, DHL 345, hiperbilirrubinemia, transaminases elevadas, ferritina 1.250, fibrinogênio 135 (baixo), triglicerídeos 545. Qual intervenção adicional é mais recomendada neste momento?",
+    "opcoes": {
+      "A": "Abatacepte.",
+      "B": "Infliximabe.",
+      "C": "Rituximabe.",
+      "D": "Canaquinumabe."
+    },
+    "correta": "D",
+    "explicacao": "**Resposta correta: D.** Canaquinumabe. O quadro é de doença de Still do adulto (febre em picos, exantema evanescente rosa-salmão, leucocitose neutrofílica, hiperferritinemia) complicada por síndrome de ativação macrofágica (citopenias, hipofibrinogenemia, hipertrigliceridemia, ferritina elevada, hepatoesplenomegalia), refratária a corticoide e ciclosporina. O bloqueio de IL-1 (canaquinumabe) é a terapia dirigida de escolha para Still refratária/SAM.\n\n**Por que as outras estão erradas:**\n- **A.** Abatacepte não é terapia estabelecida para Still/SAM.\n- **B.** Anti-TNF (infliximabe) tem eficácia limitada e pode desencadear/agravar SAM.\n- **C.** Rituximabe não é a escolha para Still do adulto com SAM.",
+    "imagens": []
+  },
+  {
+    "pos": 28,
+    "anulado": false,
+    "enunciado": "Mulher, 20 anos, apresenta poliartralgia inflamatória; FAN padrão nuclear homogêneo 1:320; anti-DNAds reagente 1:40; sedimento urinário com cilindros hemáticos ++ e relação albumina/creatinina 600 mg/g (VR < 30). Considerando o cenário descrito, qual deficiência do sistema complemento está mais associada ao diagnóstico mais provável?",
+    "opcoes": {
+      "A": "C4",
+      "B": "C3",
+      "C": "C2",
+      "D": "C1q"
+    },
+    "correta": "D",
+    "explicacao": "**Resposta correta: D.** C1q. O quadro é de LES com nefrite. A deficiência hereditária do complemento com maior associação (maior penetrância) ao desenvolvimento de LES é a deficiência de C1q, pela falha na depuração de corpos apoptóticos e imunocomplexos.\n\n**Por que as outras estão erradas:**\n- **A, C.** As deficiências de C4 e de C2 também predispõem ao LES, mas com risco menor do que a de C1q.\n- **B.** A deficiência de C3 associa-se mais a infecções piogênicas graves do que ao LES.",
+    "imagens": []
+  },
+  {
+    "pos": 29,
+    "anulado": false,
+    "enunciado": "Homem, 45 anos, com dor generalizada há dois anos. Nos últimos sete dias, o índice de dor generalizada foi 12, e as pontuações para fadiga, sono não reparador e alteração cognitiva na escala de gravidade de sintomas foram 1, 3 e 1, respectivamente. Sem outras queixas álgicas. Nega cefaleia, depressão, cólicas abdominais e comorbidades cardiovasculares ou oculares. Dentre as alternativas, qual medicamento e qual dose máxima diária são mais indicados para o tratamento?",
+    "opcoes": {
+      "A": "Trazodona, até 200 mg/dia.",
+      "B": "Pregabalina, até 150 mg/dia.",
+      "C": "Venlafaxina, até 300 mg/dia.",
+      "D": "Amitriptilina, até 75 mg/dia."
+    },
+    "correta": "D",
+    "explicacao": "**Resposta correta: D.** Amitriptilina, até 75 mg/dia. O quadro preenche critérios de fibromialgia. A amitriptilina é uma das terapias farmacológicas de primeira linha, com dose habitual de até 75 mg/dia (geralmente à noite), melhorando dor e sono.\n\n**Por que as outras estão erradas:**\n- **A.** A trazodona não é primeira linha para fibromialgia e a dose citada não corresponde ao uso padrão nesse contexto.\n- **B.** A pregabalina é opção, porém sua dose eficaz costuma ser maior (até 300–450 mg/dia); 150 mg/dia é subterapêutico.\n- **C.** A venlafaxina tem evidência mais fraca que duloxetina/amitriptilina para fibromialgia.",
+    "imagens": []
+  },
+  {
+    "pos": 30,
+    "anulado": false,
+    "enunciado": "Homem, 70 anos, traz imagens e exames laboratoriais. Exames: hemograma e creatinina normais, transaminases normais, fosfatase alcalina muito elevada (560 U/L), cálcio 9,0, fósforo 3,5, PTH 80, 25-OH-vitamina D 20, DHL normal. Considerando as informações apresentadas, qual intervenção é a mais recomendada?",
+    "opcoes": {
+      "A": "Ácido zoledrônico.",
+      "B": "Paratireoidectomia subtotal.",
+      "C": "Calcitriol e citrato de cálcio.",
+      "D": "Ressecção cirúrgica da lesão."
+    },
+    "correta": "A",
+    "explicacao": "**Resposta correta: A.** Ácido zoledrônico. Homem idoso com fosfatase alcalina isoladamente muito elevada, cálcio e fósforo normais, e imagens compatíveis com doença óssea de Paget. O tratamento de escolha para Paget sintomática/ativa é o bisfosfonato potente intravenoso — ácido zoledrônico —, que normaliza o remodelamento ósseo e controla a doença por longos períodos.\n\n**Por que as outras estão erradas:**\n- **B.** A paratireoidectomia trataria hiperparatireoidismo primário, incompatível com cálcio normal.\n- **C.** Calcitriol e cálcio corrigiriam osteomalacia/hipovitaminose, mas não explicam a FA tão elevada com cálcio/fósforo normais nem tratam Paget.\n- **D.** Não há lesão tumoral única a ser ressecada; a doença é do metabolismo ósseo.",
+    "imagens": ["images/tpi-2026/q30_img1.jpg", "images/tpi-2026/q30_img2.jpg"]
+  },
+  {
+    "pos": 31,
+    "anulado": false,
+    "enunciado": "Homem, 58 anos, trabalhador braçal, com dor lombar há 30 dias após levantar objeto pesado. Notou queimação na face anterolateral da perna e no dorso medial do pé esquerdo. A dor piora ao inclinar o tronco para a esquerda. Exame: hipoestesia na face anterolateral da perna esquerda, mais intensa no primeiro espaço interdigital. RM revelou hérnia extraforaminal compatível com o quadro. Dentre as alternativas, qual achado adicional do exame físico é esperado neste caso?",
+    "opcoes": {
+      "A": "Redução do reflexo patelar.",
+      "B": "Marcha nas pontas alterada.",
+      "C": "Redução da força de extensão da perna.",
+      "D": "Redução da força de dorsiflexão do hálux."
+    },
+    "correta": "D",
+    "explicacao": "**Resposta correta: D.** Redução da força de dorsiflexão do hálux. A distribuição sensitiva descrita (face anterolateral da perna, dorso do pé e primeiro espaço interdigital) corresponde à raiz L5. O achado motor característico da radiculopatia L5 é a fraqueza da dorsiflexão do hálux (extensor longo do hálux).\n\n**Por que as outras estão erradas:**\n- **A.** O reflexo patelar reflete L4 (e L2-L4), não L5.\n- **B.** A alteração da marcha nas pontas indica acometimento de S1 (flexão plantar).\n- **C.** A extensão da perna (quadríceps) depende de L3-L4, não de L5.",
+    "imagens": []
+  },
+  {
+    "pos": 32,
+    "anulado": false,
+    "enunciado": "Mulher, 67 anos, com dor e limitação dos movimentos do ombro esquerdo há dois anos e diabetes mellitus há dez anos. Radiografias em incidências anteroposterior e lateral axilar são exibidas. Qual é o diagnóstico mais provável?",
+    "opcoes": {
+      "A": "Capsulite adesiva.",
+      "B": "Ombro de Milwaukee.",
+      "C": "Artropatia neuropática.",
+      "D": "Osteoartrite glenoumeral primária."
+    },
+    "correta": "D",
+    "explicacao": "**Resposta correta: D.** Osteoartrite glenoumeral primária. As radiografias mostram alterações degenerativas glenoumerais (redução do espaço articular, osteófitos, esclerose). Em paciente com dor e limitação crônicas, o padrão radiográfico é o de osteoartrite glenoumeral.\n\n**Por que as outras estão erradas:**\n- **A.** A capsulite adesiva costuma ter radiografia normal; o diagnóstico é clínico e por RM (espessamento capsular).\n- **B.** O ombro de Milwaukee cursa com grande derrame, destruição do manguito e artropatia por hidroxiapatita, com padrão radiográfico distinto.\n- **C.** A artropatia neuropática mostra destruição/desorganização articular acentuada e debris, não o padrão osteoartrítico apresentado.",
+    "imagens": ["images/tpi-2026/q32_img1.jpg", "images/tpi-2026/q32_img2.jpg"]
+  },
+  {
+    "pos": 33,
+    "anulado": false,
+    "enunciado": "Mulher, 55 anos, com febre chikungunya confirmada há quatro meses, apresenta artrite em punhos, MCF (2ª, 3ª e 4ª à direita; 2ª e 3ª à esquerda), joelhos e tornozelos, além de rigidez matinal de 60 minutos. Houve melhora parcial com cetoprofeno (200 mg/dia) e depois com prednisona 10 mg/dia, ambos por oito semanas. Exames laboratoriais (função renal e hepática) normais; sorologias HBV, HCV, HIV e sífilis e teste tuberculínico negativos. De acordo com as recomendações da Sociedade Brasileira de Reumatologia, qual estratégia terapêutica é a mais indicada neste momento?",
+    "opcoes": {
+      "A": "Metotrexato.",
+      "B": "Leflunomida.",
+      "C": "Etanercepte.",
+      "D": "Prednisona 20 mg/dia."
+    },
+    "correta": "A",
+    "explicacao": "**Resposta correta: A.** Metotrexato. Na artrite crônica pós-chikungunya (persistência além de três meses) com poliartrite e resposta insuficiente a AINE e corticoide, as recomendações preconizam iniciar um DMARD sintético convencional, sendo o metotrexato a primeira escolha.\n\n**Por que as outras estão erradas:**\n- **B.** A leflunomida é alternativa/segunda linha, atrás do metotrexato.\n- **C.** Os anti-TNF são reservados para casos refratários aos DMARDs convencionais.\n- **D.** Aumentar a prednisona não modifica o curso da doença e prolonga a corticoterapia.",
+    "imagens": []
+  },
+  {
+    "pos": 34,
+    "anulado": false,
+    "enunciado": "Homem, 45 anos, com psoríase há 15 anos, evolui há dez meses com poliartrite assimétrica de grandes e pequenas articulações, sem resposta a AINE. Oito semanas após iniciar metotrexato oral (15 mg/semana), apresenta melhora sintomática. Dentre as alternativas, qual mecanismo explica o retardo de oito semanas na resposta clínica ao metotrexato?",
+    "opcoes": {
+      "A": "Necessidade de inibição da enzima di-hidrofolato-redutase no soro.",
+      "B": "Acúmulo progressivo de metotrexato poliglutamado ativo no interior das células.",
+      "C": "Tempo necessário para diminuir a síntese de TNF-α, que apresenta meia-vida estendida.",
+      "D": "Baixa biodisponibilidade em virtude do alto metabolismo de primeira passagem hepática."
+    },
+    "correta": "B",
+    "explicacao": "**Resposta correta: B.** Acúmulo progressivo de metotrexato poliglutamado ativo no interior das células. O efeito anti-inflamatório do metotrexato em doses baixas depende da formação intracelular de poliglutamatos, que se acumulam lentamente ao longo de semanas e prolongam a retenção do fármaco na célula, explicando o início de ação retardado.\n\n**Por que as outras estão erradas:**\n- **A.** A inibição da di-hidrofolato-redutase é relevante em altas doses (efeito antineoplásico) e ocorre intracelularmente, não \"no soro\".\n- **C.** O metotrexato não age primariamente reduzindo a síntese de TNF-α por meia-vida estendida.\n- **D.** A biodisponibilidade influencia a magnitude do efeito, mas não é o mecanismo do atraso, que se deve à poliglutamação.",
+    "imagens": []
+  },
+  {
+    "pos": 35,
+    "anulado": false,
+    "enunciado": "Mulher, 61 anos, com artrite reumatoide há dez anos, em uso de metotrexato 15 mg/semana, refere vermelhidão, fotofobia e dor intensa no olho esquerdo há 40 dias. Após uma semana, a dor piorou e passou a irradiar para o couro cabeludo ipsilateral, sem alteração da acuidade visual. Não houve resposta a colírio com corticoide e AINE. Excluídas causas infecciosas, iniciou-se prednisona 40 mg/dia, com recidiva ao reduzir para 10 mg/dia. Exame: dor à palpação dos punhos e artrite em MCF direitas. Exames: VHS 48, PCR 12. Dentre as alternativas, qual é a principal hipótese diagnóstica?",
+    "opcoes": {
+      "A": "Esclerouveíte difusa.",
+      "B": "Episclerite anterior difusa.",
+      "C": "Esclerite anterior difusa.",
+      "D": "Esclerite posterior difusa."
+    },
+    "correta": "C",
+    "explicacao": "**Resposta correta: C.** Esclerite anterior difusa. Em paciente com AR de longa data, dor ocular intensa e profunda que irradia para a hemiface/couro cabeludo, refratária a AINE e corticoide tópicos e corticodependente, caracteriza esclerite (não episclerite). Sendo dor intensa com acometimento anterior visível e sem alteração de acuidade, o padrão é esclerite anterior difusa.\n\n**Por que as outras estão erradas:**\n- **A.** A esclerouveíte implicaria uveíte associada, não descrita.\n- **B.** A episclerite é superficial, geralmente indolor ou pouco dolorosa e autolimitada, respondendo a medidas tópicas.\n- **D.** A esclerite posterior costuma cursar com dor à movimentação ocular e alterações de fundo/acuidade, ao contrário do quadro anterior descrito.",
+    "imagens": []
+  },
+  {
+    "pos": 36,
+    "anulado": false,
+    "enunciado": "Mulher, 58 anos, com doença de Sjögren há seis anos, com boa resposta ao tratamento sintomático. Nos últimos três meses, fadiga intensa, perda de 5 kg e lesões eritematosas palpáveis recorrentes nos membros, com parestesias em queimação e hipoestesia térmica e dolorosa. Exames: anemia leve, FR muito elevado (320), FAN pontilhado fino 1/640, VHS 68, anti-SSA/Ro 185, anti-SSB/La 42, anti-HCV negativo, C4 baixo (7), C3 85. Realizada biópsia da lesão cutânea. Qual dos achados a seguir é mais comumente observado nesse cenário?",
+    "opcoes": {
+      "A": "Vasculite linfocítica de pequenos vasos.",
+      "B": "Vasculite neutrofílica de pequenos vasos.",
+      "C": "Vasculite leucocitoclástica de pequenos vasos.",
+      "D": "Vasculite necrosante de pequenos e médios vasos."
+    },
+    "correta": "C",
+    "explicacao": "**Resposta correta: C.** Vasculite leucocitoclástica de pequenos vasos. Na síndrome de Sjögren com vasculite cutânea (púrpura palpável), FR muito elevado, hipocomplementemia e crioglobulinemia associada, o achado histológico mais comum na biópsia de lesões cutâneas é a vasculite leucocitoclástica de pequenos vasos.\n\n**Por que as outras estão erradas:**\n- **A.** A vasculite linfocítica é menos frequente que a leucocitoclástica nesse contexto.\n- **B.** \"Vasculite neutrofílica\" isolada não é a designação usual; a leucocitoclasia (com fragmentação nuclear de neutrófilos) é o termo específico e mais correto.\n- **D.** A vasculite necrosante de médios vasos caracteriza poliarterite nodosa, não o padrão típico do Sjögren cutâneo.",
+    "imagens": []
+  },
+  {
+    "pos": 37,
+    "anulado": false,
+    "enunciado": "Homem, 46 anos, com fadiga e perda ponderal (10% do peso) há três meses, tetraparesia e parestesias assimétricas nos membros. Há uma semana, dor testicular. Pressão arterial, antes normal, é de 150 × 105 mmHg. Exames: anemia, creatinina 1,8, ureia 61, VHS 63; urina com proteínas e hemoglobina e hematúria (45 hemácias/campo) sem cilindros; eletroneuromiografia com mononeuropatia múltipla. Qual achado histopatológico reforça o diagnóstico clínico mais provável?",
+    "opcoes": {
+      "A": "Glomerulonefrite necrosante paucimune com crescentes.",
+      "B": "Granulomas teciduais e nos infiltrados inflamatórios vasculares.",
+      "C": "Inflamação transmural com necrose fibrinoide em artérias de médio calibre.",
+      "D": "Depósitos vasculares de imunoglobulinas e complemento à imunofluorescência."
+    },
+    "correta": "C",
+    "explicacao": "**Resposta correta: C.** Inflamação transmural com necrose fibrinoide em artérias de médio calibre. O quadro — sintomas constitucionais, mononeurite múltipla, orquite (dor testicular), hipertensão de início recente e comprometimento renal isquêmico — é típico de poliarterite nodosa, cuja histologia mostra vasculite necrosante transmural de artérias de médio calibre com necrose fibrinoide.\n\n**Por que as outras estão erradas:**\n- **A.** A glomerulonefrite necrosante paucimune com crescentes é das vasculites ANCA-associadas de pequenos vasos, não da PAN clássica.\n- **B.** Granulomas sugerem granulomatose com poliangeíte/EGPA.\n- **D.** Depósitos imunes à imunofluorescência caracterizam vasculites por imunocomplexos, não a PAN (pauci-imune nos vasos musculares).",
+    "imagens": []
+  },
+  {
+    "pos": 38,
+    "anulado": false,
+    "enunciado": "Mulher, 58 anos, com dor mecânica nos joelhos há um ano, associada a instabilidade articular. A RM inicial mostrou hipertrofia da cartilagem articular e osteófitos em ambos os joelhos, sendo indicada fisioterapia. Evoluiu com piora da dor nos joelhos e surgimento de dor em ombros e quadris. Radiografia recente dos joelhos com redução do espaço articular, cistos subcondrais e osteófitos. Dentre as alternativas, qual achado é mais provável de ser encontrado neste caso?",
+    "opcoes": {
+      "A": "Índice de saturação da transferrina superior a 50%.",
+      "B": "Valores plasmáticos reduzidos de ceruloplasmina.",
+      "C": "Concentrações elevadas de ácido homogentísico na urina.",
+      "D": "Níveis séricos elevados do fator de crescimento insulina-símile tipo 1 (IGF-1)."
+    },
+    "correta": "D",
+    "explicacao": "**Resposta correta: D.** IGF-1 elevado. Osteoartrite de início relativamente precoce, poliarticular e atípica (joelhos, ombros e quadris) com hipertrofia da cartilagem sugere acromegalia, na qual o excesso de GH/IGF-1 promove crescimento cartilaginoso e artropatia degenerativa. O achado esperado é IGF-1 sérico elevado.\n\n**Por que as outras estão erradas:**\n- **A.** Saturação de transferrina > 50% indica hemocromatose, cuja artropatia acomete tipicamente 2ª/3ª MCF com condrocalcinose, não a hipertrofia cartilaginosa descrita.\n- **B.** Ceruloplasmina reduzida ocorre na doença de Wilson, sem esse padrão articular.\n- **C.** Ácido homogentísico elevado ocorre na ocronose (alcaptonúria), que causa espondilose e calcificação discal, com apresentação distinta.",
+    "imagens": []
+  },
+  {
+    "pos": 39,
+    "anulado": false,
+    "enunciado": "Considerando a imagem apresentada (radiografia/tomografia do quadril), qual é o diagnóstico mais provável?",
+    "opcoes": {
+      "A": "Osteonecrose.",
+      "B": "Osteomalacia.",
+      "C": "Impacto femoroacetabular tipo CAM.",
+      "D": "Impacto femoroacetabular tipo PINCER."
+    },
+    "correta": "A",
+    "explicacao": "**Resposta correta: A.** Osteonecrose. A imagem do quadril demonstra alterações compatíveis com osteonecrose da cabeça femoral (esclerose/colapso subcondral, sinal do crescente). Esse é o diagnóstico mais provável diante do padrão apresentado.\n\n**Por que as outras estão erradas:**\n- **B.** A osteomalacia cursa com desmineralização difusa e pseudofraturas (zonas de Looser), não o padrão focal da cabeça femoral.\n- **C.** O impacto tipo CAM mostra proeminência óssea na junção cabeça-colo (deformidade em \"cabo de pistola\").\n- **D.** O impacto tipo PINCER decorre de cobertura acetabular excessiva, com padrão distinto da necrose.",
+    "imagens": ["images/tpi-2026/q39_img1.jpg"]
+  },
+  {
+    "pos": 40,
+    "anulado": false,
+    "enunciado": "Homem, 49 anos, com lombalgia há vários anos. Uma imagem da radiografia simples da coluna lombar é mostrada. Dentre as doenças listadas, qual é o diagnóstico mais provável?",
+    "opcoes": {
+      "A": "Ocronose.",
+      "B": "Artrite psoriásica.",
+      "C": "Hemocromatose.",
+      "D": "Hiperostose esquelética idiopática difusa."
+    },
+    "correta": "B",
+    "explicacao": "**Resposta correta: B.** Artrite psoriásica. A radiografia demonstra sindesmófitos grosseiros, assimétricos e não marginais (parassindesmófitos), característicos das espondiloartrites, particularmente da artrite psoriásica, diferindo do padrão fino e simétrico da espondilite anquilosante.\n\n**Por que as outras estão erradas:**\n- **A.** A ocronose cursa com calcificação difusa dos discos intervertebrais e estreitamento discal generalizado.\n- **C.** A hemocromatose causa artropatia periférica (MCF) e condrocalcinose, sem esse padrão axial.\n- **D.** A DISH mostra ossificação fluida e volumosa ao longo da face anterolateral de ≥ 4 vértebras contíguas, com preservação do espaço discal e das sacroilíacas — padrão distinto dos sindesmófitos assimétricos.",
+    "imagens": ["images/tpi-2026/q40_img1.jpg"]
+  },
+  {
+    "pos": 41,
+    "anulado": false,
+    "enunciado": "Mulher, 76 anos, com dor lombar irradiada para os membros inferiores há seis meses, desencadeada pela deambulação e aliviada ao sentar-se ou inclinar o tronco para a frente. Tomografia lombossacral mostrou estreitamento central e dos recessos laterais, mais intenso em L3-L4, com anterolistese grau II de L3. Há uma semana, após queda sentada, passou a apresentar paraparesia, anestesia interglútea com distribuição perianal concêntrica, hipoestesia nos MMII e incontinência urinária. A anestesia da região interglútea perianal está associada ao comprometimento de quais raízes nervosas?",
+    "opcoes": {
+      "A": "S3 a S5.",
+      "B": "L3 a S2.",
+      "C": "S1 a S3.",
+      "D": "L4 a S4."
+    },
+    "correta": "A",
+    "explicacao": "**Resposta correta: A.** S3 a S5. A anestesia \"em sela\" (região perianal e interglútea) reflete o comprometimento das raízes sacrais baixas (S3-S5), responsáveis pela sensibilidade perineal e pela função esfincteriana — quadro de síndrome da cauda equina.\n\n**Por que as outras estão erradas:**\n- **B, C, D.** As demais combinações incluem raízes lombares e sacrais altas que inervam os membros inferiores, mas a sensibilidade especificamente perianal/em sela corresponde a S3-S5.",
+    "imagens": []
+  },
+  {
+    "pos": 42,
+    "anulado": false,
+    "enunciado": "Mulher, 72 anos, há quatro meses com lesões cutâneas, fraqueza e perda ponderal, evoluindo há dois meses com sangramento transvaginal. Ectoscopia: edema e eritema violáceo nas pálpebras superiores, eritema em \"V\" no colo e poiquilodermia na face lateral dos membros superiores. Força muscular grau 4 (MRC) em cinturas escapular e pélvica. Exames: anemia, CPK 585, VHS 58; RM da pelve com volumosa formação expansiva endometrial com invasão miometrial > 50%. Dentre os autoanticorpos, qual apresenta maior associação com o diagnóstico provável?",
+    "opcoes": {
+      "A": "Anti-SRP.",
+      "B": "Anti-TIF1γ.",
+      "C": "Anti-MDA5.",
+      "D": "Anti-cN1A."
+    },
+    "correta": "B",
+    "explicacao": "**Resposta correta: B.** Anti-TIF1γ. A dermatomiosite do adulto associada a neoplasia (aqui, câncer de endométrio) tem forte associação com o anticorpo anti-TIF1γ (anti-p155/140), o marcador com maior ligação a malignidade oculta.\n\n**Por que as outras estão erradas:**\n- **A.** Anti-SRP associa-se à miopatia necrosante imunomediada.\n- **C.** Anti-MDA5 associa-se à dermatomiosite amiopática/hipomiopática com doença pulmonar rapidamente progressiva e úlceras cutâneas.\n- **D.** Anti-cN1A relaciona-se à miosite por corpos de inclusão.",
+    "imagens": []
+  },
+  {
+    "pos": 43,
+    "anulado": false,
+    "enunciado": "Homem, 59 anos, com dor nas bases dos polegares há um ano, com dificuldade para atividades manuais. Com piora há um mês, iniciou proteção articular e órtese noturna, com alívio parcial e dor leve a moderada persistente. Tem HAS e DM2 (losartana, indapamida, metformina). Exame: IMC 36,4; aumento de volume e dor à compressão nas bases dos polegares. RM sem contraste com derrame articular moderado, espessamento sinovial, hipersinal em T2 subcondral, erosões ósseas, osteófitos discretos e afilamento da cartilagem em ambas as primeiras carpometacarpianas. Conforme as recomendações vigentes, qual medida terapêutica é a mais indicada neste momento?",
+    "opcoes": {
+      "A": "Metotrexato.",
+      "B": "Hidroxicloroquina.",
+      "C": "Diclofenaco tópico.",
+      "D": "Ácido hialurônico com triancinolona intra-articular."
+    },
+    "correta": "C",
+    "explicacao": "**Resposta correta: C.** Diclofenaco tópico. Trata-se de osteoartrite (rizartrose) das primeiras carpometacarpianas. Após medidas não farmacológicas, o AINE tópico é a farmacoterapia inicial recomendada para OA de mãos, com bom perfil de segurança, sobretudo em paciente com comorbidades (DM, HAS).\n\n**Por que as outras estão erradas:**\n- **A, B.** Metotrexato e hidroxicloroquina não são recomendados para osteoartrite de mãos (não há benefício estabelecido).\n- **D.** As infiltrações intra-articulares (corticoide/ácido hialurônico) na rizartrose têm evidência limitada e não são a primeira escolha frente ao AINE tópico.",
+    "imagens": []
+  },
+  {
+    "pos": 44,
+    "anulado": false,
+    "enunciado": "Homem, 36 anos, há seis anos com úlceras aftoides recorrentes na mucosa oral e bolsa escrotal, associadas a erupção papulopustulosa em tronco. Há quatro anos, hemiparesia esquerda com RM mostrando lesão hiperintensa em T2 próximo à cápsula interna direita, sem restrição à difusão. Tem gota e HAS (alopurinol, losartana). Com piora mucocutânea há um ano e resposta insatisfatória a colchicina + penicilina benzatina, obteve melhora com talidomida 200 mg/dia por cinco meses. Após suspensão da talidomida, recidiva de úlceras e erupção. Exame: hipoestesia tátil e dolorosa nas pernas, pés e mãos. Dentre as alternativas, qual agente farmacológico é mais indicado neste momento?",
+    "opcoes": {
+      "A": "Talidomida 50 – 100 mg/dia.",
+      "B": "Azatioprina 1 – 2 mg/kg/dia.",
+      "C": "Ciclosporina 3 – 5 mg/kg/dia.",
+      "D": "Etanercepte 50 mg/semana."
+    },
+    "correta": "D",
+    "explicacao": "**Resposta correta: D.** Etanercepte 50 mg/semana. Trata-se de doença de Behçet com acometimento mucocutâneo refratário e neuro-Behçet prévio. Como o paciente desenvolveu neuropatia periférica (contraindicando reintroduzir talidomida) e apresenta doença grave/refratária, o anti-TNF é a escolha para controle das manifestações mucocutâneas e proteção neurológica.\n\n**Por que as outras estão erradas:**\n- **A.** A talidomida foi eficaz, mas a neuropatia periférica instalada contraindica sua reintrodução.\n- **B.** A azatioprina é opção de manutenção, porém insuficiente para doença refratária com envolvimento neurológico.\n- **C.** A ciclosporina deve ser evitada no neuro-Behçet por risco de neurotoxicidade e piora neurológica.",
+    "imagens": []
+  },
+  {
+    "pos": 45,
+    "anulado": false,
+    "enunciado": "Mulher, 29 anos, com LES e nefrite lúpica classe V há 12 meses, em uso de micofenolato 1 g/dia, tacrolimo 4 mg/dia, hidroxicloroquina 400 mg/dia, losartana e indapamida. Exames seriados: ureia estável (38→46), creatinina 0,9→1,2→1,3, TFG 93,2→69,9→64,6, proteinúria de 24h 3,9→1,5→0,7 g. Qual é o provável mecanismo patogênico envolvido na evolução da taxa de filtração glomerular?",
+    "opcoes": {
+      "A": "Lesão podocitária.",
+      "B": "Fibrose intersticial e glomeruloesclerose.",
+      "C": "Vasoconstrição da arteríola aferente glomerular.",
+      "D": "Nefrite intersticial crônica por hipersensibilidade."
+    },
+    "correta": "B",
+    "explicacao": "**Resposta correta: B.** Fibrose intersticial e glomeruloesclerose. Ao longo de 12 meses de tratamento, a proteinúria caiu de forma expressiva (3,9 → 0,7 g), indicando controle da atividade imunológica da nefrite, porém a TFG declinou progressivamente (93 → 65) com elevação da creatinina. Essa dissociação — atividade em remissão, mas perda contínua de função renal — reflete o acúmulo de dano crônico irreversível (fibrose intersticial e glomeruloesclerose), agravado pela nefrotoxicidade crônica do inibidor de calcineurina, e não atividade lúpica persistente.\n\n**Por que as outras estão erradas:**\n- **A.** A lesão podocitária cursaria com aumento de proteinúria, que na verdade diminuiu acentuadamente.\n- **C.** A vasoconstrição da arteríola aferente pelo inibidor de calcineurina causa queda funcional e reversível da TFG (aguda), não explicando a perda progressiva e sustentada de função ao longo de um ano.\n- **D.** A nefrite intersticial por hipersensibilidade costuma cursar com sinais alérgicos e sedimento ativo, não descritos.",
+    "imagens": []
+  },
+  {
+    "pos": 46,
+    "anulado": false,
+    "enunciado": "Mulher, 31 anos, com LES há oito anos, com nefrite lúpica classe IV em remissão há três anos. Usa micofenolato 2 g/dia, hidroxicloroquina 5 mg/kg/dia e losartana; suspendeu prednisona há sete meses. Antecedentes obstétricos: G2P1A1. SLEDAI atual zero; ureia, creatinina e sedimento normais; antifosfolípides e anti-DNAds negativos. Comparece à consulta de rotina e manifesta desejo de engravidar. Além de manter a hidroxicloroquina, qual conduta é a mais adequada neste momento?",
+    "opcoes": {
+      "A": "Suspender micofenolato.",
+      "B": "Associar heparina profilática.",
+      "C": "Substituir micofenolato por azatioprina.",
+      "D": "Contraindicar a gestação nesse momento."
+    },
+    "correta": "C",
+    "explicacao": "**Resposta correta: C.** Substituir micofenolato por azatioprina. O micofenolato é teratogênico e deve ser suspenso antes da concepção, mas a paciente com nefrite prévia precisa manter imunossupressão de manutenção compatível com a gestação. A azatioprina é o imunossupressor de escolha nesse cenário, permitindo controle da doença e gravidez segura.\n\n**Por que as outras estão erradas:**\n- **A.** Apenas suspender o micofenolato deixaria a paciente sem imunossupressão adequada, com risco de reativação.\n- **B.** A heparina profilática não está indicada sem anticorpos antifosfolípides/trombose.\n- **D.** A gestação não está contraindicada: doença em remissão ≥ 6 meses, função renal normal e sorologias favoráveis indicam bom momento, desde que ajustada a medicação.",
+    "imagens": []
+  },
+  {
+    "pos": 47,
+    "anulado": false,
+    "enunciado": "Homem, 58 anos, com dor e edema recorrentes nos joelhos há três anos, sem anormalidades na radiografia. Uma imagem da investigação complementar (reconstrução 3D de TC com mapeamento de cristais) é mostrada. Qual é o diagnóstico mais provável?",
+    "opcoes": {
+      "A": "Hemocromatose.",
+      "B": "Artrite psoriásica.",
+      "C": "Depósito de urato monossódico.",
+      "D": "Depósito de pirofosfato de cálcio."
+    },
+    "correta": "C",
+    "explicacao": "**Resposta correta: C.** Depósito de urato monossódico. A imagem corresponde à tomografia computadorizada de dupla energia (DECT) com codificação colorida dos cristais, que evidencia depósitos de urato monossódico ao redor das articulações — método útil para diagnóstico de gota, inclusive com radiografia convencional normal.\n\n**Por que as outras estão erradas:**\n- **A.** A hemocromatose causa artropatia por CPPD/condrocalcinose, não depósito de urato mapeado pela DECT.\n- **B.** A artrite psoriásica não gera depósitos cristalinos identificáveis por DECT.\n- **D.** O pirofosfato de cálcio não é o cristal codificado no exame apresentado; a DECT identifica especificamente o urato.",
+    "imagens": ["images/tpi-2026/q47_img1.jpg"]
+  },
+  {
+    "pos": 48,
+    "anulado": false,
+    "enunciado": "Homem, 56 anos, com dor inguinal à direita há um mês, desencadeada pela deambulação e parcialmente aliviada com repouso e analgésicos. Nega febre ou sintomas constitucionais. Há sete anos, cirurgia cervical pós-trauma com implante de neuroestimulador medular. Tabagismo (20 anos-maço) e etilismo (cinco doses/dia há dez anos). Exame: dor à rotação interna do quadril direito. Radiografia da bacia apresentada. Das alternativas, qual é o próximo passo com maior acurácia para elucidar o diagnóstico?",
+    "opcoes": {
+      "A": "Tomografia computadorizada.",
+      "B": "Ressonância nuclear magnética.",
+      "C": "Cintilografia óssea com metilenodifosfonato com tecnécio-99m (MDP-Tc99m).",
+      "D": "Tomografia por emissão de pósitrons (PET-CT) com F-18 fluorodeoxiglicose (FDG)."
+    },
+    "correta": "D",
+    "explicacao": "**Resposta correta: D.** PET-CT com FDG. A suspeita é de osteonecrose/comprometimento ósseo do quadril em paciente com fatores de risco (etilismo). Como possui neuroestimulador medular implantado (contraindicação relativa/absoluta à RM) e a radiografia é pouco elucidativa, o exame de maior acurácia disponível e seguro é o PET-CT com FDG.\n\n**Por que as outras estão erradas:**\n- **B.** A RM seria o exame ideal para osteonecrose precoce, mas está limitada/contraindicada pelo dispositivo implantado.\n- **A.** A TC tem menor sensibilidade que RM/PET nas fases iniciais.\n- **C.** A cintilografia óssea é menos específica que o PET-CT para caracterizar a lesão.",
+    "imagens": ["images/tpi-2026/q48_img1.jpg"]
+  },
+  {
+    "pos": 49,
+    "anulado": false,
+    "enunciado": "Menino, 9 anos, previamente saudável, há 20 dias com púrpura palpável nos MMII, dor abdominal em cólica e artralgia nos tornozelos. Quadro gripal há uma semana. Nega alterações do hábito intestinal. Exame: mucosas coradas, exames cardiopulmonar e abdominal normais, artrite nos tornozelos e lesões purpúricas simétricas em pernas e nádegas, sem edema. Exames: leucocitose leve, plaquetas normais (250.000), função renal e hepática normais, VHS 28, PCR 6,7, FAN não reagente; urina com proteína 1+, leucocitúria e hematúria discretas; relação proteína/creatinina 0,2. Qual é o tratamento mais adequado?",
+    "opcoes": {
+      "A": "Ibuprofeno por cinco dias.",
+      "B": "Micofenolato de mofetila.",
+      "C": "Prednisona 1 mg/kg ao dia.",
+      "D": "Internação para biópsia renal."
+    },
+    "correta": "A",
+    "explicacao": "**Resposta correta: A.** Ibuprofeno por cinco dias. O quadro é vasculite por IgA (púrpura de Henoch-Schönlein) em criança, com púrpura, artrite e dor abdominal leve, plaquetas normais e acometimento renal mínimo (proteinúria discreta, relação PC 0,2). O tratamento é de suporte, com AINE para controlar a artralgia, dado o curso habitualmente autolimitado.\n\n**Por que as outras estão erradas:**\n- **B.** O micofenolato reserva-se a nefrite grave, ausente aqui.\n- **C.** O corticoide sistêmico não é indicado de rotina para artrite/púrpura leves; considera-se em dor abdominal intensa ou nefrite significativa.\n- **D.** A biópsia renal só se justifica em proteinúria significativa/persistente ou disfunção renal, não presentes.",
+    "imagens": []
+  },
+  {
+    "pos": 50,
+    "anulado": false,
+    "enunciado": "Mulher, 45 anos, com placas eritematopurpúricas dolorosas nos membros inferiores, padrão reticulado e áreas de necrose superficial. Imagem das lesões apresentada. Diante do quadro clínico, qual alternativa está mais associada a essa manifestação cutânea?",
+    "opcoes": {
+      "A": "Arterite de Takayasu.",
+      "B": "Doença de Sjögren.",
+      "C": "Poliarterite nodosa.",
+      "D": "Granulomatose com poliangeíte."
+    },
+    "correta": "C",
+    "explicacao": "**Resposta correta: C.** Poliarterite nodosa. As lesões descritas — livedo reticular/racemoso, nódulos dolorosos e necrose/ulceração cutânea — são características da vasculite de vasos de médio calibre, sobretudo da poliarterite nodosa (incluindo a forma cutânea).\n\n**Por que as outras estão erradas:**\n- **A.** A arterite de Takayasu acomete grandes vasos (aorta e ramos), com claudicação e ausência de pulsos, não esse padrão cutâneo.\n- **B.** A vasculite do Sjögren costuma ser de pequenos vasos (púrpura palpável), sem o livedo/necrose de médios vasos.\n- **D.** A GPA acomete pequenos vasos com envolvimento de vias aéreas superiores/inferiores e rim, com padrão cutâneo distinto.",
+    "imagens": ["images/tpi-2026/q50_img1.jpg"]
+  },
+  {
+    "pos": 51,
+    "anulado": false,
+    "enunciado": "O obinutuzumabe é um anticorpo monoclonal anti-CD20 eficaz na leucemia linfocítica crônica e no linfoma folicular, recentemente aprovado para o tratamento da nefrite lúpica. Produzido por glicoengenharia, liga-se especificamente à alça extracelular do antígeno transmembrana CD20 na superfície de linfócitos pré-B e B maduros. Qual das características a seguir explica a depleção de células B mais intensa e duradoura com essa molécula em comparação ao rituximabe?",
+    "opcoes": {
+      "A": "Maior biodisponibilidade e menor antigenicidade.",
+      "B": "Capacidade de ligação ao CD19, promovendo bloqueio de células pró-B.",
+      "C": "Maiores citotoxicidade celular dependente de complemento e morte celular direta.",
+      "D": "Maior afinidade pelo FcγRIII com maior citotoxicidade celular dependente de anticorpos."
+    },
+    "correta": "D",
+    "explicacao": "**Resposta correta: D.** Maior afinidade pelo FcγRIII com maior citotoxicidade celular dependente de anticorpos (ADCC). O obinutuzumabe é um anti-CD20 tipo II glicoengenheirado (afucosilado), o que aumenta sua afinidade pelo receptor FcγRIII das células efetoras (NK/macrófagos), potencializando a ADCC e resultando em depleção de células B mais profunda e duradoura que a do rituximabe.\n\n**Por que as outras estão erradas:**\n- **A.** Biodisponibilidade/antigenicidade não são o mecanismo central da maior depleção.\n- **B.** O alvo é o CD20, não o CD19; anticorpos anti-CD20 não se ligam ao CD19.\n- **C.** Ao contrário: sendo anti-CD20 tipo II, o obinutuzumabe induz MENOS citotoxicidade dependente de complemento (CDC) e MAIS morte celular direta e ADCC — o diferencial destacado é a ADCC via FcγRIII.",
+    "imagens": []
+  },
+  {
+    "pos": 52,
+    "anulado": false,
+    "enunciado": "Mulher, 55 anos, com fadiga e mal-estar há um mês, sem febre. Tem esclerose sistêmica limitada há 15 anos (esclerodactilia, telangiectasias, úlceras digitais, esofagopatia), em uso de omeprazol, domperidona, sildenafila e colecalciferol. Exame: PA 150 × 100 mmHg, FC 100 bpm, estertores crepitantes em bases, úlcera no 5º quirodáctilo. Exames: anemia, esquizócitos ausentes, creatinina 2,1, ureia 96, VHS 60, PCR 50, FAN centromérico 1/320, p-ANCA reagente 1/80; urina com proteína 2+, hematúria, cilindros granulosos e hemáticos e hemácias dismórficas; biópsia renal com 18 glomérulos (6 escleróticos), 9 com proliferação extracapilar e crescentes celulares, necrose fibrinoide e inflamação intersticial rica em eosinófilos; imunofluorescência negativa. Qual é a conduta mais adequada neste momento?",
+    "opcoes": {
+      "A": "Anlodipino.",
+      "B": "Plasmaférese.",
+      "C": "Pulso de metilprednisolona.",
+      "D": "Captopril em doses crescentes."
+    },
+    "correta": "C",
+    "explicacao": "**Resposta correta: C.** Pulso de metilprednisolona. A biópsia mostra glomerulonefrite crescêntica pauci-imune (necrose fibrinoide, crescentes, imunofluorescência negativa) com p-ANCA positivo — vasculite ANCA-associada sobreposta à esclerose sistêmica, e não crise renal esclerodérmica clássica. O tratamento é imunossupressão para GN crescêntica, iniciando com pulso de corticoide (associado a ciclofosfamida/rituximab).\n\n**Por que as outras estão erradas:**\n- **A.** O anlodipino apenas controlaria a PA, sem tratar a vasculite.\n- **B.** A plasmaférese pode ser adjuvante em casos graves (creatinina muito elevada/hemorragia alveolar), mas não é a conduta inicial isolada; o pilar é a imunossupressão.\n- **D.** Os IECA (captopril) são o tratamento da crise renal esclerodérmica, mas o padrão histológico aqui é de GN crescêntica ANCA, não crise renal (que é microangiopática, sem crescentes).",
+    "imagens": []
+  },
+  {
+    "pos": 53,
+    "anulado": false,
+    "enunciado": "Homem, 58 anos, encaminhado por insuficiência renal (TFG 54) associada a consumo de complemento. Refere cefaleia retro-orbitária, artralgia leve nas mãos, perda de 5 kg em 12 meses e diarreia crônica com esteatorreia há quatro anos. DM em uso de dapagliflozina. Exames: eosinofilia, creatinina 1,9, GGT e FA elevadas, hiperbilirrubinemia, C3/C4 baixos, FAN não reagente; TC de crânio com glândulas lacrimais aumentadas; TC de abdome com hipoatenuação pancreática difusa, periarterite da aorta infrarrenal e ilíaca comum direita e lesões renais hipodensas corticais com envolvimento capsular. Realizada biópsia renal. Considerando o diagnóstico mais provável, qual achado histopatológico é o mais esperado?",
+    "opcoes": {
+      "A": "Nefrite tubulointersticial com infiltrado linfoplasmocitário, áreas bem demarcadas de necrose tubular e fibrose estoriforme.",
+      "B": "Necrose focal, áreas de crescentes celulares e imunofluorescência negativa para IgA, IgG, IgM, cadeias leves, C1q e C3.",
+      "C": "Granulomas bem delimitados com histiócitos epitelioides e células gigantes multinucleadas infiltrando o interstício e os túbulos renais.",
+      "D": "Áreas de infarto cortical bem delimitadas, mínimo infiltrado neutrofílico e necrose tubular isquêmica."
+    },
+    "correta": "A",
+    "explicacao": "**Resposta correta: A.** Nefrite tubulointersticial com infiltrado linfoplasmocitário e fibrose estoriforme. O conjunto — dacrioadenite (aumento de glândulas lacrimais), pancreatite autoimune (hipoatenuação pancreática difusa), periaortite/periarterite, lesões renais e hipocomplementemia — é típico da doença relacionada a IgG4. A histologia renal característica é a nefrite tubulointersticial com denso infiltrado linfoplasmocitário (rico em plasmócitos IgG4+) e fibrose estoriforme.\n\n**Por que as outras estão erradas:**\n- **B.** Necrose focal com crescentes e imunofluorescência negativa define vasculite ANCA pauci-imune.\n- **C.** Granulomas com células gigantes sugerem nefrite granulomatosa (sarcoidose/tuberculose).\n- **D.** Infarto cortical isquêmico é achado de doença vascular oclusiva, não da doença por IgG4.",
+    "imagens": []
+  },
+  {
+    "pos": 54,
+    "anulado": false,
+    "enunciado": "Mulher, 35 anos, na emergência por perda de força no membro superior direito iniciada há seis horas, com duração de três horas. Nega febre e medicamentos. Exame: palidez, PA 200 × 100 mmHg, FC 105 bpm, sopro sistólico em foco mitral. Exames: anemia (Hb 9,8) com esquizócitos 3%, plaquetopenia (80.000), creatinina 2,0, ureia 110, hiperbilirrubinemia indireta, TTPA alargado (48), DHL elevada (350), haptoglobina baixa (2), Coombs direto negativo, FAN pontilhado fino denso 1:320; urina com proteinúria e hematúria; relação proteína/creatinina 1,2. Para confirmar o diagnóstico mais provável, qual dos exames complementares é o mais indicado?",
+    "opcoes": {
+      "A": "Anti-DNAds.",
+      "B": "Atividade de ADAMTS13.",
+      "C": "Anti-RNA polimerase III.",
+      "D": "Anticoagulante lúpico."
+    },
+    "correta": "D",
+    "explicacao": "**Resposta correta: D.** Anticoagulante lúpico. O quadro reúne microangiopatia trombótica (anemia hemolítica com esquizócitos, plaquetopenia, Coombs negativo), evento isquêmico neurológico (AIT), sopro mitral (possível Libman-Sacks), autoimunidade (FAN 1:320) e, notadamente, TTPA alargado sem sangramento — pista para anticoagulante lúpico. A hipótese é síndrome antifosfolípide (potencialmente catastrófica), cuja confirmação passa pela pesquisa do anticoagulante lúpico.\n\n**Por que as outras estão erradas:**\n- **A.** O anti-DNAds ajudaria a caracterizar LES, mas não confirma a causa da MAT/evento trombótico aqui central.\n- **B.** A dosagem de ADAMTS13 investigaria PTT; o TTPA alargado e o contexto autoimune apontam mais para SAF.\n- **C.** O anti-RNA polimerase III relaciona-se à crise renal esclerodérmica, sem os demais achados de SAF.",
+    "imagens": []
+  },
+  {
+    "pos": 55,
+    "anulado": false,
+    "enunciado": "Dentre as alternativas a seguir, qual citocina, relevante na patogênese da artrite psoriásica, apresenta sinalização intracelular pela via JAK–STAT?",
+    "opcoes": {
+      "A": "TNF.",
+      "B": "IL-17.",
+      "C": "IL-23.",
+      "D": "IL-1B."
+    },
+    "correta": "C",
+    "explicacao": "**Resposta correta: C.** IL-23. A IL-23, central no eixo IL-23/IL-17 da artrite psoriásica, sinaliza pela via JAK-STAT (utilizando JAK2/TYK2 e STAT3), o que explica a eficácia dos inibidores de JAK (e de TYK2) nessa doença.\n\n**Por que as outras estão erradas:**\n- **A.** O TNF sinaliza por receptores acoplados a vias de NF-κB/MAPK, não pela via JAK-STAT.\n- **B.** A IL-17 utiliza a via Act1/NF-κB, não JAK-STAT.\n- **D.** A IL-1β sinaliza via receptor IL-1R/MyD88/NF-κB, também independente de JAK-STAT.",
+    "imagens": []
+  },
+  {
+    "pos": 56,
+    "anulado": false,
+    "enunciado": "Homem, 52 anos, hipertenso, internado por lesão renal aguda em investigação. Afebril, saturação 97%, PA 170 × 90 mmHg, ausculta normal. Lesões purpúricas nos MMII sem edema. Exames: hemograma normal, creatinina 2,7, ureia 120; urina com proteína 2+, hemácias 4+ dismórficas e cilindros hemáticos; relação proteína/creatinina 2,8; uro e hemoculturas negativas; TC de tórax sem alterações; biópsia renal com glomérulos com necrose fibrinoide segmentar e crescentes celulares sem depósitos, imunofluorescência negativa (pauci-imune). Dentre as alternativas, qual autoanticorpo é mais provável de ser encontrado?",
+    "opcoes": {
+      "A": "Anti-C1q.",
+      "B": "Anti-proteinase 3.",
+      "C": "Anti-mieloperoxidase.",
+      "D": "Anti-membrana basal glomerular."
+    },
+    "correta": "C",
+    "explicacao": "**Resposta correta: C.** Anti-mieloperoxidase (MPO). A biópsia revela glomerulonefrite crescêntica pauci-imune (necrose fibrinoide, crescentes, imunofluorescência negativa) — vasculite ANCA-associada. Com púrpura cutânea e envolvimento predominantemente renal (sem doença de vias aéreas), o padrão mais frequentemente encontrado é o p-ANCA/anti-MPO (poliangeíte microscópica).\n\n**Por que as outras estão erradas:**\n- **A.** O anti-C1q associa-se a nefrite lúpica e vasculite urticariforme hipocomplementêmica, com depósitos imunes (não pauci-imune).\n- **B.** O anti-PR3 (c-ANCA) é possível, mas relaciona-se mais à granulomatose com poliangeíte (envolvimento de vias aéreas), ausente aqui; no contexto renal isolado com púrpura, o anti-MPO é mais provável.\n- **D.** O anti-MBG cursa com depósitos lineares de IgG na imunofluorescência, incompatível com o padrão pauci-imune descrito.",
+    "imagens": []
+  },
+  {
+    "pos": 57,
+    "anulado": false,
+    "enunciado": "Mulher, 45 anos, com dor musculoesquelética generalizada há um ano, constante, envolvendo membros superiores, inferiores e região axial. A dor não se relaciona a esforço, é diária, de intensidade flutuante e sem períodos assintomáticos. Relata parestesias nos membros. Em seguimento por doença de Sjögren há quatro anos, usa terapia tópica para sintomas secos. Exame: força, sensibilidades superficial e profunda preservadas, reflexos normais e simétricos, dor à palpação de múltiplas articulações sem edema. Dentre as alternativas, qual diagnóstico melhor explica o quadro clínico atual?",
+    "opcoes": {
+      "A": "Fibromialgia.",
+      "B": "Ganglionopatia.",
+      "C": "Polineuropatia sensitiva.",
+      "D": "Artropatia da doença de Sjögren."
+    },
+    "correta": "A",
+    "explicacao": "**Resposta correta: A.** Fibromialgia. Dor difusa crônica, constante e flutuante, sem sinais inflamatórios articulares, com exame neurológico completamente normal (força, sensibilidade e reflexos preservados) é típica de fibromialgia — comorbidade frequente na síndrome de Sjögren.\n\n**Por que as outras estão erradas:**\n- **B.** A ganglionopatia (neuronopatia sensitiva) cursa com perda de sensibilidade profunda/ataxia sensitiva e reflexos alterados, ausentes.\n- **C.** A polineuropatia sensitiva mostraria déficit sensitivo objetivo em bota/luva, não presente.\n- **D.** A artropatia do Sjögren cursaria com achados articulares objetivos; aqui há apenas dor à palpação sem sinovite.",
+    "imagens": []
+  },
+  {
+    "pos": 58,
+    "anulado": false,
+    "enunciado": "Mulher, 34 anos, apresenta as lesões cutâneas mostradas. Considerando o cenário apresentado, qual dos achados laboratoriais é o mais provável?",
+    "opcoes": {
+      "A": "Anti-Ro reagente.",
+      "B": "Anti-Mi-2 reagente.",
+      "C": "Mutação no gene NLRP3.",
+      "D": "Pico monoclonal em gamaglobulinas."
+    },
+    "correta": "A",
+    "explicacao": "**Resposta correta: A.** Anti-Ro reagente. As lesões cutâneas apresentadas são compatíveis com lúpus cutâneo subagudo (lesões anulares/psoriasiformes fotossensíveis no tronco), fortemente associado ao anticorpo anti-Ro/SSA.\n\n**Por que as outras estão erradas:**\n- **B.** O anti-Mi-2 associa-se à dermatomiosite clássica (heliotrópio, Gottron), padrão distinto.\n- **C.** A mutação no NLRP3 causa síndromes autoinflamatórias (CAPS), com urticária neutrofílica ao frio.\n- **D.** Pico monoclonal relaciona-se a dermatoses neutrofílicas/paraproteinemias, não ao quadro apresentado.",
+    "imagens": ["images/tpi-2026/q58_img1.jpg"]
+  },
+  {
+    "pos": 59,
+    "anulado": false,
+    "enunciado": "Mulher, 67 anos, previamente hígida, com tosse seca e dispneia progressiva há cinco anos. Ausculta: estertores finos bibasais difusos. TC de tórax mostrada. Exames: anemia, leucopenia (3.100), creatinina normal, urina normal, FAN pontilhado fino 1/640, C4 baixo (6), FR 50. Submetida a biópsia das lesões nodulares por videotoracoscopia. Dentre as alternativas, qual achado anatomopatológico é o mais provável?",
+    "opcoes": {
+      "A": "Vasculite necrosante.",
+      "B": "Flebite obliterativa e fibrose estoriforme.",
+      "C": "Infiltrado linfocitário monoclonal.",
+      "D": "Granulomas epitelioides não caseosos."
+    },
+    "correta": "C",
+    "explicacao": "**Resposta correta: C.** Infiltrado linfocitário monoclonal. O contexto — doença autoimune sicca/tipo Sjögren (FAN alto, FR elevado, C4 baixo, citopenias) com nódulos/doença pulmonar e biópsia — sugere proliferação linfoide. O Sjögren tem risco aumentado de linfoma, e a presença de lesões nodulares biopsiadas aponta para infiltrado linfocitário monoclonal (linfoma/MALT ou pneumonia intersticial linfocítica com clonalidade).\n\n**Por que as outras estão erradas:**\n- **A.** A vasculite necrosante caracterizaria vasculites sistêmicas, não o padrão nodular linfoproliferativo.\n- **B.** Flebite obliterativa e fibrose estoriforme definem doença por IgG4.\n- **D.** Granulomas não caseosos são da sarcoidose, sem esse perfil sorológico.",
+    "imagens": ["images/tpi-2026/q59_img1.jpg"]
+  },
+  {
+    "pos": 60,
+    "anulado": false,
+    "enunciado": "Homem, 42 anos, previamente hígido, com dor intensa há três semanas na região proximal anterior do antebraço direito, de início súbito, associada a dificuldade para atividades manuais finas. A dor foi mais intensa na primeira semana e permaneceu residual após o início da fraqueza. Nega dormência ou formigamento. Exame: incapacidade de flexão da falange distal do polegar e do indicador; sensibilidade preservada; reflexos e pulsos presentes e simétricos. Qual é o diagnóstico mais provável?",
+    "opcoes": {
+      "A": "Radiculopatia cervical C6.",
+      "B": "Neuropatia do nervo ulnar.",
+      "C": "Síndrome do pronador redondo.",
+      "D": "Síndrome do nervo interósseo anterior."
+    },
+    "correta": "D",
+    "explicacao": "**Resposta correta: D.** Síndrome do nervo interósseo anterior. A incapacidade de fletir a falange distal do polegar (flexor longo do polegar) e do indicador (flexor profundo dos dedos), com sensibilidade totalmente preservada (o nervo interósseo anterior é puramente motor), caracteriza essa neuropatia — o paciente não consegue fazer o sinal de \"OK\".\n\n**Por que as outras estão erradas:**\n- **A.** A radiculopatia C6 cursaria com déficit sensitivo e alteração de reflexos, ausentes.\n- **B.** A neuropatia ulnar afetaria a musculatura intrínseca da mão e a sensibilidade do 4º/5º dedos.\n- **C.** A síndrome do pronador redondo cursa com sintomas sensitivos do território mediano (parestesias), aqui ausentes.",
+    "imagens": []
+  },
+  {
+    "pos": 61,
+    "anulado": false,
+    "enunciado": "Mulher, 32 anos, com LES há cinco anos e nefrite lúpica (classe IV+V; atividade 8/24, cronicidade 2/12) há seis meses, tratada com pulso de metilprednisolona, prednisona oral e micofenolato 3 g/dia. Retorna sem queixas, em uso regular de hidroxicloroquina, micofenolato 3 g/dia, prednisona 7,5 mg/dia, nifedipino e colecalciferol. Exame: bom estado geral, PA 120 × 80 mmHg. Evolução laboratorial (há seis meses → atual): Hb 9,5→8,0, creatinina 1,9→4,0, TFG 45→19, proteína/creatinina 4,5→1,7; C3 30→95, C4 6→46, anti-DNAds 1/320→1/80; urina antes com proteinúria/hematúria/cilindros hemáticos, agora sem hematúria/cilindros. De acordo com as recomendações vigentes, qual conduta é a mais indicada neste momento?",
+    "opcoes": {
+      "A": "Nova biópsia renal.",
+      "B": "Associar belimumabe.",
+      "C": "Adicionar dapagliflozina.",
+      "D": "Trocar micofenolato por ciclofosfamida."
+    },
+    "correta": "A",
+    "explicacao": "**Resposta correta: A.** Nova biópsia renal. Há uma dissociação clínico-laboratorial: os marcadores imunológicos melhoraram muito (complemento normalizou, anti-DNAds e proteinúria caíram, sedimento inativo), mas a função renal piorou acentuadamente (creatinina 1,9→4,0; TFG 45→19). Isso sugere que a perda de função não decorre de atividade lúpica, e sim de outro processo (cronicidade/fibrose, microangiopatia, nefrotoxicidade). A repetição da biópsia é necessária para orientar a conduta antes de escalonar imunossupressão.\n\n**Por que as outras estão erradas:**\n- **B, D.** Intensificar a imunossupressão (belimumabe ou ciclofosfamida) não se justifica com atividade imunológica em remissão; poderia expor a riscos sem tratar a causa da queda da TFG.\n- **C.** A dapagliflozina é renoprotetora adjuvante, mas não substitui o esclarecimento diagnóstico frente a deterioração renal rápida e inexplicada.",
+    "imagens": []
+  },
+  {
+    "pos": 62,
+    "anulado": false,
+    "enunciado": "Homem, 52 anos, com dor articular persistente nas mãos e punhos bilateralmente há quatro meses, com rigidez matinal de duas horas. Hipertenso (enalapril), etilismo social, nega tabagismo. Exame: dor e edema no punho direito, na 2ª MCF esquerda e na 3ª IFP esquerda. Exames: hemograma normal, PCR 8, transaminases normais, creatinina 0,7, FAN pontilhado fino denso 1/320, FR 10, ácido úrico 6,3, sorologias virais/VDRL/chikungunya negativas; radiografia de mãos sem alterações. Dentre as alternativas, qual intervenção terapêutica é mais recomendada neste momento?",
+    "opcoes": {
+      "A": "Metotrexato.",
+      "B": "Leflunomida.",
+      "C": "Sulfassalazina.",
+      "D": "Hidroxicloroquina."
+    },
+    "correta": "A",
+    "explicacao": "**Resposta correta: A.** Metotrexato. O quadro é de artrite reumatoide inicial (poliartrite simétrica de pequenas articulações das mãos com rigidez matinal prolongada e elevação de PCR), com FR e FAN de baixo título/inespecíficos. O DMARD de primeira linha, âncora do tratamento, é o metotrexato.\n\n**Por que as outras estão erradas:**\n- **B.** A leflunomida é alternativa quando há contraindicação ou intolerância ao metotrexato.\n- **C, D.** Sulfassalazina e hidroxicloroquina são opções de menor eficácia estrutural, reservadas a doença leve ou em combinação, não a primeira escolha isolada.",
+    "imagens": []
+  },
+  {
+    "pos": 63,
+    "anulado": false,
+    "enunciado": "Mulher, 67 anos, previamente hígida, no pronto-socorro por dispneia progressiva há dois meses, atualmente em repouso. Refere manchas pelo corpo e nega tosse, febre, disfagia ou fraqueza muscular. Exame: dispneica, saturação 84% em ar ambiente, crepitações finas e lesões eritematosas ulceradas no dorso das MCF (mostradas). Força e sensibilidade normais. Hemograma, função renal e hepática, CPK e aldolase normais. TC de tórax com extensa intersticiopatia compatível com pneumonia intersticial não específica. Iniciada pulsoterapia com metilprednisolona. De acordo com as recomendações mais recentes do ACR e da EULAR, qual das opções de manejo farmacológico é a mais indicada?",
+    "opcoes": {
+      "A": "Rituximabe.",
+      "B": "Ciclofosfamida + tacrolimus.",
+      "C": "Imunoglobulina intravenosa.",
+      "D": "Micofenolato + nintedanibe."
+    },
+    "correta": "B",
+    "explicacao": "**Resposta correta: B.** Ciclofosfamida + tacrolimus. O quadro é de dermatomiosite amiopática (pápulas de Gottron ulceradas, CPK/aldolase normais) com doença pulmonar intersticial rapidamente progressiva e grave (hipoxemia acentuada) — apresentação típica de anti-MDA5. Nesse cenário de DPI-RP, a terapia combinada agressiva de resgate com glicocorticoide, ciclofosfamida e inibidor de calcineurina (tacrolimo) é a abordagem recomendada.\n\n**Por que as outras estão erradas:**\n- **A.** O rituximabe é opção em DPI da miosite, porém com início de ação mais lento, menos adequado à progressão rápida e hipoxemia grave.\n- **C.** A imunoglobulina IV é adjuvante para doença cutânea/muscular refratária, não a base do tratamento da DPI-RP.\n- **D.** O micofenolato é para DPI mais indolente; o nintedanibe é antifibrótico, sem papel na fase inflamatória aguda e grave.",
+    "imagens": ["images/tpi-2026/q63_img1.jpg"]
+  },
+  {
+    "pos": 64,
+    "anulado": false,
+    "enunciado": "Homem, 59 anos, com dor dorso-lombar há nove anos, rigidez matinal de ~30 minutos e cifose dorsal progressiva. Alívio parcial com AINEs. Tem HAS, dislipidemia e DM2 (enalapril, rosuvastatina, dapagliflozina). Exame: distância occipito-parede 4 cm, Schober modificado 3 cm, mobilidade reduzida no plano coronal, IMC 30,2. Exames: VHS 9, PCR 0,5, HLA-B27 negativo; imagem mostrada. Qual das manifestações a seguir ocorre com maior frequência na doença musculoesquelética mais provável deste caso?",
+    "opcoes": {
+      "A": "Olho vermelho doloroso.",
+      "B": "Estridor laringotraqueal.",
+      "C": "Diarreia mucossanguinolenta.",
+      "D": "Placas cutâneas eritemato-escamosas."
+    },
+    "correta": "B",
+    "explicacao": "**Resposta correta: B.** Estridor laringotraqueal. O quadro (idoso, provas inflamatórias normais, HLA-B27 negativo, ossificação exuberante à imagem) é compatível com hiperostose esquelética idiopática difusa (DISH). Na DISH, a ossificação pode acometer a coluna cervical anterior e estruturas laríngeas, causando disfagia e estridor/obstrução das vias aéreas — a manifestação extra-axial mais associada entre as listadas.\n\n**Por que as outras estão erradas:**\n- **A, C, D.** Uveíte (olho vermelho doloroso), doença inflamatória intestinal (diarreia mucossanguinolenta) e psoríase (placas eritemato-escamosas) são manifestações extra-articulares das espondiloartrites, afastadas aqui pelas provas inflamatórias normais e HLA-B27 negativo.",
+    "imagens": ["images/tpi-2026/q64_img1.jpg"]
+  },
+  {
+    "pos": 65,
+    "anulado": false,
+    "enunciado": "Homem, 47 anos, eletricista, com dor e parestesias cervicobraquiais à direita irradiadas até a mão, desencadeadas ao trabalhar com estruturas elétricas acima da cabeça. Relata deixar cair objetos da mão direita. Exame: teste de lateralização da coluna cervical à direita com compressão axial negativo, mas a abdução/elevação completa dos ombros reproduziu os sintomas. Considerando o diagnóstico mais provável, em quais regiões indicadas na imagem as parestesias ocorrem com maior frequência?",
+    "opcoes": {
+      "A": "D e C.",
+      "B": "C e A.",
+      "C": "A e B.",
+      "D": "B e E."
+    },
+    "correta": "D",
+    "explicacao": "**Resposta correta: D.** B e E. O quadro (sintomas reproduzidos pela elevação dos braços, teste de Spurling negativo) sugere síndrome do desfiladeiro torácico neurogênico, que acomete predominantemente o tronco inferior do plexo braquial (C8-T1). As parestesias predominam no território medial do antebraço e mão (borda ulnar) — regiões B e E na imagem apresentada.\n\n**Por que as outras estão erradas:**\n- **A, B, C.** As demais combinações incluem regiões de distribuição do território radial/mediano ou proximal, que não correspondem ao acometimento do tronco inferior (borda ulnar do antebraço e mão) típico do desfiladeiro torácico neurogênico.",
+    "imagens": ["images/tpi-2026/q65_img1.jpg"]
+  },
+  {
+    "pos": 66,
+    "anulado": false,
+    "enunciado": "Mulher, 41 anos, com dor na coluna cervical à esquerda irradiada para a face lateral do antebraço e para o primeiro e segundo quirodáctilos, associada a parestesias há cinco meses. Exame: fraqueza em alguns movimentos do membro superior esquerdo contra resistência; a extensão da coluna cervical com rotação à esquerda reproduziu a dor. Qual dos movimentos a seguir tem maior probabilidade de apresentar fraqueza?",
+    "opcoes": {
+      "A": "Abdução do ombro.",
+      "B": "Extensão do punho.",
+      "C": "Adução do primeiro quirodáctilo.",
+      "D": "Flexão do segundo quirodáctilo."
+    },
+    "correta": "B",
+    "explicacao": "**Resposta correta: B.** Extensão do punho. A distribuição da dor (face lateral do antebraço, polegar e indicador) e o teste de Spurling positivo indicam radiculopatia cervical C6. O déficit motor da raiz C6 acomete a extensão do punho (extensores radiais do carpo) e a flexão do cotovelo.\n\n**Por que as outras estão erradas:**\n- **A.** A abdução do ombro (deltoide) depende de C5.\n- **C.** A adução do polegar (adutor do polegar) é função de T1 (nervo ulnar).\n- **D.** A flexão do 2º dedo depende de raízes C8-T1 (flexores profundos), não C6.",
+    "imagens": []
+  },
+  {
+    "pos": 67,
+    "anulado": false,
+    "enunciado": "Homem, 49 anos, apresenta doença caracterizada por manifestações inflamatórias intermitentes cujo mecanismo fisiopatológico baseia-se no esquema apresentado na imagem. Os componentes I e II são sinalizadores bioquímicos: I corresponde à forma precursora (inativa), convertida em II (ativa) pelas etapas anteriores (via NLRP3/caspase-1). Qual medicamento antagoniza diretamente a via inflamatória apresentada na imagem?",
+    "opcoes": {
+      "A": "Anakinra.",
+      "B": "Infliximabe.",
+      "C": "Baricitinibe.",
+      "D": "Tocilizumabe."
+    },
+    "correta": "A",
+    "explicacao": "**Resposta correta: A.** Anakinra. O esquema mostra o inflamassoma NLRP3 ativando a caspase-1, que converte a pró-IL-1β (I, inativa) em IL-1β (II, ativa), induzindo inflamação — via central das doenças autoinflamatórias. O anakinra é um antagonista do receptor de IL-1 (IL-1Ra), bloqueando diretamente essa via.\n\n**Por que as outras estão erradas:**\n- **B.** O infliximabe bloqueia o TNF, não a IL-1.\n- **C.** O baricitinibe inibe JAK, via distinta da sinalização da IL-1 pela caspase-1.\n- **D.** O tocilizumabe bloqueia o receptor de IL-6, não a via IL-1/inflamassoma apresentada.",
+    "imagens": ["images/tpi-2026/q67_img1.jpg"]
+  },
+  {
+    "pos": 68,
+    "anulado": false,
+    "enunciado": "Mulher, 28 anos, internada com febre (38,5°C), tosse seca, dispneia e lesões cutâneas há cinco dias. Relata crises recorrentes de asma, rinite alérgica e lesões avermelhadas nos MMII há três anos. Na admissão: dispneia, sibilos difusos, púrpura palpável nos MMII, saturação 92%. Recebeu broncodilatadores e corticoide, com melhora. Exames: eosinofilia acentuada (2.800), VHS 75, PCR 25,8, ANCA não reagente, IgE total 1.200, IgG4 722, procalcitonina normal, ecocardiograma e TC de tórax sem anormalidades; biópsia cutânea com infiltrado misto neutrofílico e eosinofílico em pequenas artérias e veias, eosinófilos extravasculares, leucocitoclasia e necrose fibrinoide. Considerando o diagnóstico provável, qual mecanismo de ação é mais recomendado para o medicamento a ser associado ao corticoide?",
+    "opcoes": {
+      "A": "Eliminação de linfócitos B via ligação ao antígeno CD20 de superfície celular.",
+      "B": "Citotoxicidade celular direcionada contra linfócitos T via alquilação do DNA.",
+      "C": "Impedimento da interação entre IL-5 e CD125 na superfície de eosinófilos.",
+      "D": "Inibição competitiva da via JAK-STAT de transdução de sinal em mastócitos."
+    },
+    "correta": "C",
+    "explicacao": "**Resposta correta: C.** Impedimento da interação entre IL-5 e seu receptor (CD125) na superfície de eosinófilos. O quadro — asma, eosinofilia, vasculite de pequenos vasos com eosinófilos extravasculares — é granulomatose eosinofílica com poliangeíte (EGPA), ANCA-negativa. Para doença sem manifestações graves, o mepolizumabe (anti-IL-5) é a terapia dirigida associada ao corticoide, pois bloqueia a via da IL-5, central na eosinofilia.\n\n**Por que as outras estão erradas:**\n- **A.** A depleção de células B (rituximabe) é mais usada em EGPA ANCA-positiva/formas com vasculite grave.\n- **B.** A ciclofosfamida (alquilante) reserva-se a manifestações ameaçadoras à vida.\n- **D.** A inibição de JAK-STAT em mastócitos não é o mecanismo indicado na EGPA.",
+    "imagens": []
+  },
+  {
+    "pos": 69,
+    "anulado": false,
+    "enunciado": "Homem, 23 anos, com dor dorso-lombar há um ano e meio, que o desperta de madrugada, melhora ao caminhar e com etodolaco e piora ao tossir. Rigidez matinal de 30 minutos. Exame: dor à palpação dos processos espinhosos dorsolombares e das espinhas ilíacas posterosuperiores, moderada limitação da flexão lombar. Exames iniciais normais, exceto PCR de 2,1 mg/dL (VR < 0,5). Qual das imagens apresentadas mostra um achado compatível com a doença mais provável neste caso?",
+    "opcoes": {
+      "A": "A",
+      "B": "B",
+      "C": "C",
+      "D": "D"
+    },
+    "correta": "B",
+    "explicacao": "**Resposta correta: B.** O quadro é de espondiloartrite axial (dor lombar inflamatória em jovem, despertar noturno, melhora com exercício e AINE, PCR elevada). Entre as imagens apresentadas (painéis A-D), a alternativa B corresponde ao achado compatível com sacroileíte/lesão inflamatória da espondiloartrite axial.\n\n**Por que as outras estão erradas:**\n- **A, C, D.** As demais imagens representam achados de outras condições ou níveis/planos que não demonstram a sacroileíte inflamatória característica da espondiloartrite axial deste paciente.",
+    "imagens": ["images/tpi-2026/q69_img1.jpg"]
+  },
+  {
+    "pos": 70,
+    "anulado": false,
+    "enunciado": "Homem, 45 anos, com artrite psoriásica em uso de metotrexato (25 mg/semana) há 12 meses, retorna relatando desejo de ter um filho com a esposa. Nega lombalgia e apresenta apenas dores articulares infrequentes. Exame: 2º pododáctilo direito em \"salsicha\" não doloroso; DAPSA 6; PASI 18; placas eritemato-escamosas em 23% da superfície corporal, incluindo palmas e plantas. Exames normais. Em decisão compartilhada, propõe-se avançar para a próxima fase do tratamento. Qual das alternativas é preferencialmente recomendada neste caso?",
+    "opcoes": {
+      "A": "Adalimumabe.",
+      "B": "Upadacitinibe.",
+      "C": "Guselcumabe.",
+      "D": "Ixequizumabe."
+    },
+    "correta": "D",
+    "explicacao": "**Resposta correta: D.** Ixequizumabe. A doença articular está bem controlada (DAPSA 6, remissão/baixa atividade), mas há acometimento cutâneo importante e refratário (PASI 18, palmoplantar). Nesse cenário, com predomínio da carga cutânea, o anti-IL-17 (ixequizumabe) é preferencial pela alta eficácia sobre a psoríase, incluindo o desejo de concepção masculina (sem restrição relevante).\n\n**Por que as outras estão erradas:**\n- **A.** O adalimumabe (anti-TNF) tem menor eficácia cutânea que os anti-IL-17/IL-23 para PASI elevado.\n- **B.** O upadacitinibe (JAK) tem advertências de segurança e não é preferencial diante de alternativa biológica com melhor perfil cutâneo.\n- **C.** O guselcumabe (anti-IL-23) é eficaz na pele, porém o anti-IL-17 costuma ser preferido quando se busca resposta cutânea rápida e robusta neste contexto.",
+    "imagens": []
+  },
+  {
+    "pos": 71,
+    "anulado": false,
+    "enunciado": "Mulher, 29 anos, com febre vespertina (> 39°C), odinofagia, mialgia e artrite em punhos, joelho direito e tornozelos há quatro meses. Relata máculas róseo-alaranjadas no tronco durante os picos febris. Houve melhora com metotrexato, mas manteve artrite residual. Há duas semanas, recidiva com odinofagia e febre remitente. Exame: rash maculopapular, adenomegalias cervicais, esplenomegalia e artrite. Exames: anemia, leucopenia (2.300), plaquetopenia (90.000), VHS 120, PCR 31,5, transaminases elevadas, ferritina 7.500, D-dímero 4.500, triglicerídeos 350, EBV IgM reagente. Considerando a complicação descrita e seus mecanismos celulares, qual é a fisiopatologia primária mais frequentemente identificada?",
+    "opcoes": {
+      "A": "Atividade citolítica reduzida de linfócitos T CD8+ e células NK.",
+      "B": "Superexpressão de CXCL9 em monócitos e células endoteliais.",
+      "C": "Irresponsividade de células dendríticas CD11c+ a estímulos apoptóticos.",
+      "D": "Ganho de função endocítica devido a polimorfismos em macrófagos CD163+."
+    },
+    "correta": "A",
+    "explicacao": "**Resposta correta: A.** Atividade citolítica reduzida de linfócitos T CD8+ e células NK. A paciente com doença de Still do adulto desenvolveu síndrome de ativação macrofágica (linfo-histiocitose hemofagocítica secundária): citopenias, hiperferritinemia extrema, hipertrigliceridemia, transaminases elevadas. O mecanismo fisiopatológico primário é o defeito na citotoxicidade de células NK e linfócitos T CD8+, que falham em eliminar células-alvo e células apresentadoras, perpetuando a hiperativação imune e a tempestade de citocinas.\n\n**Por que as outras estão erradas:**\n- **B.** O CXCL9 é biomarcador de atividade, mas não é a fisiopatologia primária da HLH.\n- **C, D.** Alterações de células dendríticas ou ganho de função endocítica de macrófagos não constituem o defeito central; o cerne é a citotoxicidade NK/CD8 deficiente.",
+    "imagens": []
+  },
+  {
+    "pos": 72,
+    "anulado": false,
+    "enunciado": "Qual dos mecanismos a seguir tem relevância central na patogênese do lúpus eritematoso sistêmico?",
+    "opcoes": {
+      "A": "Estresse do retículo endoplasmático por defeito de dobra no MHC de classe I.",
+      "B": "Formação pós-traducional de neoantígenos via polimorfismos no gene PADI4.",
+      "C": "Indução do inflamassoma NLRP1 por padrões moleculares associados a dano (DAMPs).",
+      "D": "Ativação de receptores TLR7/8/9 (toll-like) endossômicos por ácidos nucleicos."
+    },
+    "correta": "D",
+    "explicacao": "**Resposta correta: D.** Ativação de receptores TLR7/8/9 endossômicos por ácidos nucleicos. No LES, imunocomplexos contendo ácidos nucleicos (DNA/RNA próprios) ativam os TLRs endossômicos (TLR7, TLR8, TLR9) de células dendríticas plasmocitoides e linfócitos B, desencadeando a produção de interferon tipo I e perpetuando a autoimunidade — mecanismo central da doença.\n\n**Por que as outras estão erradas:**\n- **A.** O estresse de retículo por defeito de dobra do MHC-I relaciona-se a espondiloartrites (HLA-B27), não ao LES.\n- **B.** Os polimorfismos do PADI4 e a citrulinação (neoantígenos) associam-se à artrite reumatoide.\n- **C.** A ativação do NLRP1 por DAMPs não é o eixo patogênico central do LES (que se dá pela via TLR/IFN tipo I).",
+    "imagens": []
+  },
+  {
+    "pos": 73,
+    "anulado": false,
+    "enunciado": "Analise a imagem de imunofluorescência indireta em células HEp-2 apresentada. Qual antígeno está relacionado ao padrão de imunofluorescência indireta em células HEp-2 mostrado na imagem?",
+    "opcoes": {
+      "A": "DNAds.",
+      "B": "DFS70.",
+      "C": "U1RNP.",
+      "D": "Nucleossomo."
+    },
+    "correta": "B",
+    "explicacao": "**Resposta correta: B.** DFS70. A imagem mostra o padrão nuclear pontilhado fino denso (DFS — dense fine speckled), com coloração heterogênea do nucleoplasma e das placas metafásicas cromossômicas positivas. Esse padrão corresponde ao anticorpo anti-DFS70, associado a indivíduos saudáveis e geralmente à ausência de doença autoimune sistêmica definida.\n\n**Por que as outras estão erradas:**\n- **A.** O anti-DNAds produz padrão homogêneo com contorno cromossômico corado na metáfase (padrão distinto).\n- **C.** O anti-U1RNP dá padrão nuclear pontilhado grosso com placa metafásica negativa.\n- **D.** O anti-nucleossomo gera padrão homogêneo, diferente do pontilhado fino denso.",
+    "imagens": ["images/tpi-2026/q73_img1.jpg"]
+  },
+  {
+    "pos": 74,
+    "anulado": false,
+    "enunciado": "Mulher, 30 anos, em pré-natal no primeiro mês de gestação, relata dois abortos espontâneos consecutivos (6ª e 9ª semanas) e pré-eclâmpsia grave em gestação anterior. A investigação mostrou anticorpos anticardiolipina (IgG e IgM) e anticoagulante lúpico positivos em duas dosagens com intervalo de quatro meses. Encontra-se assintomática e nega trombose venosa ou arterial. Segundo as principais diretrizes internacionais, qual é a conduta mais adequada para esta paciente durante a gestação?",
+    "opcoes": {
+      "A": "Aspirina (75 – 100 mg/dia) durante toda a gestação.",
+      "B": "Enoxaparina 1 mg/kg, via subcutânea, a cada 12 horas.",
+      "C": "Aspirina (75 – 100 mg/dia) e hidroxicloroquina 5 mg/kg/dia.",
+      "D": "Aspirina (75 – 100 mg/dia) e enoxaparina 40 mg/dia, via subcutânea."
+    },
+    "correta": "D",
+    "explicacao": "**Resposta correta: D.** Aspirina em baixa dose + enoxaparina profilática (40 mg/dia). Trata-se de síndrome antifosfolípide obstétrica (morbidade gestacional com anticorpos positivos e confirmados) sem trombose prévia. A profilaxia recomendada na gestação é a combinação de aspirina em baixa dose com heparina de baixo peso molecular em dose profilática.\n\n**Por que as outras estão erradas:**\n- **A.** A aspirina isolada é insuficiente na SAF obstétrica com perdas fetais recorrentes; a diretriz preconiza associar heparina.\n- **B.** A heparina em dose plena (terapêutica) é reservada para SAF com trombose prévia, ausente aqui.\n- **C.** A hidroxicloroquina pode ser adjuvante, mas a base do tratamento obstétrico é aspirina + heparina profilática.",
+    "imagens": []
+  },
+  {
+    "pos": 75,
+    "anulado": false,
+    "enunciado": "Homem, 62 anos, trabalhador rural, com dificuldade progressiva para estender o quarto e o quinto dedos da mão direita. Há cerca de um ano notou nódulos endurecidos e indolores na palma da mão. Exame: espessamento cutâneo palmar e cordões fibrosos subcutâneos causando flexão fixa do quarto e do quinto quirodáctilos direitos. Qual o diagnóstico mais provável?",
+    "opcoes": {
+      "A": "Doença de Dupuytren.",
+      "B": "Tenossinovite estenosante.",
+      "C": "Contratura isquêmica de Volkmann.",
+      "D": "Neuropatia compressiva do nervo ulnar."
+    },
+    "correta": "A",
+    "explicacao": "**Resposta correta: A.** Doença de Dupuytren. O quadro clássico — espessamento e retração da fáscia palmar, nódulos e cordões fibrosos indolores levando à flexão fixa progressiva do 4º e 5º dedos — é a contratura de Dupuytren, mais comum em homens de meia-idade.\n\n**Por que as outras estão erradas:**\n- **B.** A tenossinovite estenosante (dedo em gatilho) causa travamento em flexão com estalido, não retração fascial fixa com cordões.\n- **C.** A contratura de Volkmann decorre de isquemia do antebraço (síndrome compartimental), com história e apresentação distintas.\n- **D.** A neuropatia ulnar causa déficit sensitivo-motor (garra ulnar por fraqueza intrínseca), não cordões fibrosos palmares.",
+    "imagens": []
+  },
+  {
+    "pos": 76,
+    "anulado": false,
+    "enunciado": "Mulher, 42 anos, relata dor episódica e palidez nos dedos das mãos, seguidas de arroxeamento, com piora ao frio há dois anos. Recentemente notou fraqueza nos membros superiores. Exame: discreta esclerodactilia e telangiectasias na face e mãos, força muscular preservada. Capilaroscopia periungueal com megacapilares. Exames: FAN reagente pontilhado fino com placa metafásica cromossômica positiva e perinucleolar 1/1280 (AC-29), anticorpo anticentrômero não reagente, CPK 190, aldolase 4,9, DHL 160. Qual é o diagnóstico mais provável?",
+    "opcoes": {
+      "A": "Esclerose sistêmica limitada.",
+      "B": "Esclerose sistêmica difusa.",
+      "C": "Doença mista do tecido conjuntivo.",
+      "D": "Superposição de esclerose sistêmica com polimiosite."
+    },
+    "correta": "B",
+    "explicacao": "**Resposta correta: B.** Esclerose sistêmica difusa. O FAN com padrão AC-29 (nucleolar/pontilhado com placa metafásica positiva) corresponde ao anti-RNA polimerase III, marcador fortemente associado à esclerose sistêmica cutânea DIFUSA (com risco elevado de crise renal e de espessamento cutâneo rápido). O Raynaud, a esclerodactilia e os megacapilares confirmam a esclerose sistêmica.\n\n**Por que as outras estão erradas:**\n- **A.** A forma limitada associa-se ao anticentrômero (aqui negativo).\n- **C.** A doença mista associa-se ao anti-U1RNP em altos títulos, com padrão pontilhado grosso, não ao AC-29.\n- **D.** A superposição com polimiosite exigiria miopatia (CPK/aldolase elevadas e fraqueza objetiva), ausentes — enzimas musculares normais e força preservada.",
+    "imagens": []
+  },
+  {
+    "pos": 77,
+    "anulado": false,
+    "enunciado": "Mulher, 32 anos, com LES há quatro anos, apresenta há um ano rash malar fotossensível, lesões no couro cabeludo, artrite em pequenas articulações e fadiga. Usa hidroxicloroquina, prednisona 10 mg/dia e micofenolato 2 g/dia há dez meses. Tem depressão recorrente, com episódio grave. Piora das lesões e dor articular às tentativas de reduzir prednisona. Teve melhora parcial prévia com metotrexato, descontinuado por intolerância gástrica e alopecia. Ganho de peso progressivo. Exames: complemento normal-baixo, anti-DNAds 1/80, sedimento urinário normal. Dentre as alternativas, qual agente farmacológico é mais recomendado neste momento?",
+    "opcoes": {
+      "A": "Anifrolumabe.",
+      "B": "Belimumabe.",
+      "C": "Ciclosporina.",
+      "D": "Leflunomida."
+    },
+    "correta": "A",
+    "explicacao": "**Resposta correta: A.** Anifrolumabe. Trata-se de LES cutâneo-articular ativo e corticodependente, com falha/intolerância a metotrexato e ainda em atividade sob micofenolato. O anifrolumabe (anti-receptor de interferon tipo I) tem eficácia destacada sobre manifestações cutâneas e articulares, sendo a melhor escolha, sobretudo pela proeminência do componente cutâneo refratário.\n\n**Por que as outras estão erradas:**\n- **B.** O belimumabe é opção, mas o anifrolumabe é preferível pela resposta cutânea superior neste perfil predominantemente pele/articular.\n- **C.** A ciclosporina tem perfil de eficácia/segurança menos favorável para essa apresentação.\n- **D.** A leflunomida pode causar alopecia (a paciente já teve esse efeito com metotrexato) e não é a melhor opção biológica dirigida.",
+    "imagens": []
+  },
+  {
+    "pos": 78,
+    "anulado": false,
+    "enunciado": "Homem, 42 anos, transplantado renal há dois anos, em uso de tacrolimo e micofenolato. No último ano, dois episódios de podagra. Antecedentes: dislipidemia, HAS há dez anos e infarto agudo do miocárdio há quatro meses. Exames: ácido úrico 8,7, transaminases normais, TFG 54,8; imunofenotipagem pré-transplante com presença do alelo HLA-B*5801. Dentre os hipouricemiantes, qual é o mais adequado para este caso?",
+    "opcoes": {
+      "A": "Alopurinol.",
+      "B": "Febuxostate.",
+      "C": "Pegloticase.",
+      "D": "Benzbromarona."
+    },
+    "correta": "D",
+    "explicacao": "**Resposta correta: D.** Benzbromarona. O alelo HLA-B*5801 contraindica o alopurinol (alto risco de reação de hipersensibilidade grave/SSJ-NET). O febuxostate deve ser evitado por doença cardiovascular recente (IAM há 4 meses — alerta de mortalidade CV). Diante disso, um uricosúrico como a benzbromarona é a opção mais adequada, considerando a função renal ainda razoável (TFG 54,8).\n\n**Por que as outras estão erradas:**\n- **A.** O alopurinol está contraindicado pelo HLA-B*5801 positivo.\n- **B.** O febuxostate é desaconselhado pelo IAM recente/risco cardiovascular.\n- **C.** A pegloticase reserva-se à gota tofácea grave refratária, com necessidade de terapia intravenosa e riscos imunogênicos, não sendo a escolha inicial aqui.",
+    "imagens": []
+  },
+  {
+    "pos": 79,
+    "anulado": false,
+    "enunciado": "Menino, 16 anos, apresenta linfoadenomegalia crônica e esplenomegalia desde a infância, associadas a citopenias autoimunes recorrentes. A biópsia de linfonodo mostrou \"aumento de linfócitos T duplo-negativos\". Qual dos mecanismos patogênicos a seguir é mais provavelmente responsável pelo quadro?",
+    "opcoes": {
+      "A": "Deficiência de células T regulatórias.",
+      "B": "Exposição anormal de autoantígenos.",
+      "C": "Defeitos na via extrínseca da apoptose.",
+      "D": "Exposição de antígenos de santuários imunológicos."
+    },
+    "correta": "C",
+    "explicacao": "**Resposta correta: C.** Defeitos na via extrínseca da apoptose. O quadro — linfadenopatia e esplenomegalia crônicas, citopenias autoimunes e acúmulo de linfócitos T duplo-negativos (CD3+CD4−CD8−) — é a síndrome linfoproliferativa autoimune (ALPS), causada por defeitos na via Fas/FasL (apoptose extrínseca), que impedem a eliminação de linfócitos autorreativos.\n\n**Por que as outras estão erradas:**\n- **A.** A deficiência de Treg (ex.: IPEX) cursa com enteropatia/endocrinopatia autoimune, sem células T duplo-negativas.\n- **B, D.** Exposição anormal de autoantígenos ou de antígenos de santuários imunológicos não explica o acúmulo de células T duplo-negativas característico da falha da apoptose.",
+    "imagens": []
+  },
+  {
+    "pos": 80,
+    "anulado": false,
+    "enunciado": "Homem, 69 anos, com dispneia leve aos esforços há seis meses, sem tosse ou febre. Tem artrite reumatoide há oito anos (FR 60, anti-CCP 640) e usa metotrexato oral 20 mg/semana há quatro anos, com doença em remissão. Perda de seguimento nos últimos nove meses; retorna sem dor ou edema articular. Ex-tabagista (20 anos-maço). Exame: IMC 29, sem artrite, ausculta normal. TC de tórax com extensas áreas em vidro fosco e finas reticulações basais, compatíveis com pneumonia intersticial não específica. Prova de função pulmonar: CVF 53%, VEF1 58%, VEF1/CVF 86, DLCO 63%. Qual conduta terapêutica é a mais adequada neste momento?",
+    "opcoes": {
+      "A": "Pirfenidona.",
+      "B": "Etanercepte.",
+      "C": "Micofenolato de mofetila.",
+      "D": "Descontinuar metotrexato."
+    },
+    "correta": "C",
+    "explicacao": "**Resposta correta: C.** Micofenolato de mofetila. O paciente tem doença intersticial pulmonar associada à artrite reumatoide, com padrão de pneumonia intersticial não específica (vidro fosco/reticulação) e restrição significativa (CVF 53%). O tratamento da DPI-AR com padrão NSIP inflamatório baseia-se em imunossupressão, sendo o micofenolato uma das principais opções.\n\n**Por que as outras estão erradas:**\n- **A.** A pirfenidona (antifibrótico) é para fibrose progressiva/padrão fibrosante; o padrão NSIP com vidro fosco favorece imunossupressão primeiro.\n- **B.** Os anti-TNF (etanercepte) podem agravar/precipitar DPI e não são indicados.\n- **D.** Apenas descontinuar o metotrexato não trata a doença intersticial; ademais, a pneumonite por metotrexato é aguda, diferente deste quadro crônico de DPI-AR — e a conduta ativa é iniciar imunossupressão dirigida.",
+    "imagens": []
+  },
+  {
+    "pos": 81,
+    "anulado": false,
+    "enunciado": "Mulher, 73 anos, 55 kg, com poliartrite de pequenas articulações há sete anos (FR 89), relata fadiga e mal-estar há três semanas e lombalgia há três meses. Usa metotrexato 20 mg/semana, ácido fólico e colecalciferol. Há quatro meses descontinuou anti-hipertensivos por diurese excessiva e tonturas. Exame: palidez, PA 180 × 100 mmHg, dor à palpação de joelhos e punhos sem edema. Exames: anemia (Hb 11,0), creatinina 1,1, TFG 50, ureia 70, VHS 22, PCR < 5; QuantiFERON negativo; sorologias virais não reagentes; anti-HBs 118. Dentre as alternativas, qual é a conduta mais recomendada?",
+    "opcoes": {
+      "A": "Iniciar baricitinibe 4 mg/dia em monoterapia.",
+      "B": "Iniciar tocilizumabe 8 mg/kg IV a cada dois meses.",
+      "C": "Ajustar a dose do metotrexato para 10 mg/semana.",
+      "D": "Substituir metotrexato por leflunomida 20 mg em dias alternados."
+    },
+    "correta": "C",
+    "explicacao": "**Resposta correta: C.** Ajustar a dose do metotrexato para 10 mg/semana. A paciente idosa apresenta piora da função renal (TFG 50) e anemia, sem sinais de atividade da AR (VHS/PCR normais, sem sinovite). O metotrexato tem excreção renal e a dose de 20 mg/semana torna-se inadequada/tóxica com a queda da TFG. A conduta prioritária é reduzir a dose do metotrexato para prevenir toxicidade (mielotoxicidade), já que a doença articular está controlada.\n\n**Por que as outras estão erradas:**\n- **A, B.** Iniciar biológico/JAK não se justifica sem atividade inflamatória documentada e diante de disfunção renal a esclarecer.\n- **D.** A leflunomida não corrige o problema renal e não é indicada como substituição neste contexto de doença controlada com toxicidade dose-dependente do metotrexato.",
+    "imagens": []
+  },
+  {
+    "pos": 82,
+    "anulado": false,
+    "enunciado": "Homem, 64 anos, com fraqueza progressiva nos membros há três meses, com dificuldade para subir escadas e levantar-se. Nega dispneia ou disfagia. Tem artrite psoriásica há 12 anos e usa sulfassalazina 2 g/dia e prednisona 12,5 mg/dia há dois anos, sem queixas articulares atuais. Exame: discreta redução de força para abdução dos ombros e flexão dos quadris, bilateralmente. Exames: hemograma normal, transaminases discretamente elevadas, CPK 184 (normal). Dentre as alternativas, qual é o próximo passo mais recomendado?",
+    "opcoes": {
+      "A": "Ressonância magnética de cinturas.",
+      "B": "Reduzir a dose de glicocorticoide.",
+      "C": "Painel de autoanticorpos para miosites.",
+      "D": "Eletroneuromiografia dos membros inferiores."
+    },
+    "correta": "B",
+    "explicacao": "**Resposta correta: B.** Reduzir a dose de glicocorticoide. Fraqueza proximal simétrica indolor, de instalação subaguda, em paciente sob corticoide crônico (prednisona 12,5 mg/dia por dois anos), com CPK normal, é altamente sugestiva de miopatia esteroide. O teste diagnóstico e terapêutico é reduzir/retirar o glicocorticoide e observar a melhora da força.\n\n**Por que as outras estão erradas:**\n- **A.** A RM de cinturas seria útil na suspeita de miosite inflamatória, menos provável com CPK normal.\n- **C.** O painel de miosites é dispensável quando a CPK é normal e o quadro aponta miopatia esteroide.\n- **D.** A eletroneuromiografia investigaria neuropatia/miopatia inflamatória, não sendo o passo inicial diante do padrão clássico de miopatia por corticoide.",
+    "imagens": []
+  },
+  {
+    "pos": 83,
+    "anulado": false,
+    "enunciado": "Considerando as imagens de densitometria óssea apresentadas (imagem da coluna lombar e tabela com BMD/T-score), de uma mulher de 72 anos de idade, qual é o diagnóstico densitométrico?",
+    "opcoes": {
+      "A": "Osteopenia.",
+      "B": "Baixa massa óssea.",
+      "C": "Presença de artefato.",
+      "D": "Densidade óssea normal para a idade."
+    },
+    "correta": "A",
+    "explicacao": "**Resposta correta: A.** Osteopenia. A tabela de densitometria mostra T-scores na faixa entre -1,0 e -2,5 (baixa massa óssea sem atingir o limiar de osteoporose). Em mulher pós-menopausa, esse achado é classificado como osteopenia pela definição da OMS baseada no T-score.\n\n**Por que as outras estão erradas:**\n- **B.** \"Baixa massa óssea\" é o termo preferido em outras populações (pré-menopausa/homens jovens), mas em mulher pós-menopausa de 72 anos a classificação apropriada pelo T-score é osteopenia.\n- **C.** Não há indícios de artefato invalidando a medida.\n- **D.** Os T-scores não estão na faixa normal (≥ -1,0).",
+    "imagens": ["images/tpi-2026/q83_img1.jpg", "images/tpi-2026/q83_img2.jpg"]
+  },
+  {
+    "pos": 84,
+    "anulado": false,
+    "enunciado": "Mulher, 32 anos, com LES há seis anos e bom controle (SLEDAI 0-3 nos últimos 12 meses), usa hidroxicloroquina, prednisona 5 mg/dia, carbonato de cálcio e colecalciferol. Dose anual cumulativa de prednisona 1,8 g; tentativas de redução causaram recidiva. Ciclos menstruais regulares. Densitometria com VFA: T-score L1-L4 -3,3, colo -2,8, fêmur total -2,5; morfometria (VFA) sem fraturas vertebrais (T4-L4). Demais exames (cálcio, fósforo, PTH, vitamina D, eletroforese) normais. De acordo com as recomendações mais recentes, qual conduta é a mais indicada?",
+    "opcoes": {
+      "A": "Iniciar romosozumabe.",
+      "B": "Iniciar ácido zoledrônico.",
+      "C": "Iniciar alfacalfediol + denosumabe.",
+      "D": "Estratificar risco de fraturas (FRAX®)."
+    },
+    "correta": "B",
+    "explicacao": "**Resposta correta: B.** Iniciar ácido zoledrônico. Mulher jovem com uso crônico de glicocorticoide e T-score de -3,3 na coluna preenche critério para osteoporose induzida por glicocorticoide de alto risco, com indicação de terapia antifratura. O bisfosfonato (ácido zoledrônico) é a primeira linha na osteoporose por corticoide.\n\n**Por que as outras estão erradas:**\n- **A.** O romosozumabe não é primeira linha e tem alerta cardiovascular; reservado a casos selecionados de altíssimo risco.\n- **C.** O denosumabe é alternativa, mas em mulher em idade fértil o bisfosfonato é preferido de início; ademais, há risco de rebote ao suspender denosumabe.\n- **D.** O FRAX é útil na estratificação, porém com T-score -3,3 sob corticoide crônico já há indicação direta de tratamento, sem necessidade de aguardar.",
+    "imagens": []
+  },
+  {
+    "pos": 85,
+    "anulado": false,
+    "enunciado": "Mulher, 62 anos, com dor lombar intensa há dois dias após queda de uma cadeira. Antecedente de câncer de mama tratado há quatro anos (mastectomia e radioterapia). Usou ácido zoledrônico por três anos e atualmente usa anastrozol. Exame: dor intensa à palpação lombar e limitação de movimentos, exame neurológico normal. Medicada com tramadol e colete de Jewett. Radiografia e RM da coluna vertebral mostradas. Dentre as alternativas, qual é o próximo passo mais recomendado?",
+    "opcoes": {
+      "A": "Teriparatida.",
+      "B": "Denosumabe.",
+      "C": "Vertebroplastia.",
+      "D": "Biópsia vertebral."
+    },
+    "correta": "B",
+    "explicacao": "**Resposta correta: B.** Denosumabe. Paciente com fratura vertebral por fragilidade em uso de inibidor de aromatase (anastrozol), com câncer de mama prévio. A teriparatida é contraindicada em pacientes com neoplasia/radioterapia prévia (risco de osteossarcoma e de estimular doença residual). O denosumabe é a opção antirreabsortiva de escolha, com benefício adicional sobre perda óssea induzida por inibidor de aromatase.\n\n**Por que as outras estão erradas:**\n- **A.** A teriparatida (anabólico) é contraindicada por história de neoplasia e radioterapia prévia.\n- **C.** A vertebroplastia não é conduta de rotina inicial e não trata a osteoporose de base.\n- **D.** A imagem e o contexto de fratura por fragilidade não indicam biópsia de rotina; investigação de metástase seria considerada apenas se houver características atípicas na imagem.",
+    "imagens": ["images/tpi-2026/q85_img1.jpg", "images/tpi-2026/q85_img2.jpg", "images/tpi-2026/q85_img3.jpg"]
+  },
+  {
+    "pos": 86,
+    "anulado": false,
+    "enunciado": "Mulher, 42 anos, com dor e edema articular simétrico nos punhos e nas pequenas articulações das mãos há três meses. O fator reumatoide é positivo, e uma análise genética mostrou a presença do alelo R620W no gene PTPN22. O reumatologista inicia tratamento com metotrexato. Dentre as alternativas, qual achado se associa à presença do alelo R620W?",
+    "opcoes": {
+      "A": "Anticorpo anti-CCP positivo.",
+      "B": "Associação com doença de Crohn.",
+      "C": "Maior risco de falha ao metotrexato.",
+      "D": "Presença de doença intersticial pulmonar."
+    },
+    "correta": "A",
+    "explicacao": "**Resposta correta: A.** Anticorpo anti-CCP positivo. O polimorfismo R620W do gene PTPN22 é um dos principais fatores de risco genéticos (fora do HLA) para artrite reumatoide, associando-se de forma marcante ao desenvolvimento de doença soropositiva, especialmente anti-CCP/ACPA positiva.\n\n**Por que as outras estão erradas:**\n- **B.** O PTPN22 associa-se a diversas autoimunidades (AR, LES, DM1, tireoidite), mas é notadamente PROTETOR para doença de Crohn, não fator de risco.\n- **C.** Não há associação estabelecida do R620W com resposta/falha ao metotrexato.\n- **D.** O R620W não é marcador de doença intersticial pulmonar na AR.",
+    "imagens": []
+  },
+  {
+    "pos": 87,
+    "anulado": false,
+    "enunciado": "Homem, 65 anos, encaminhado pela pneumologia com dispneia progressiva e tosse seca há 18 meses. Refere dor nas pequenas articulações das mãos e tem histórico de tia materna com \"artrite\". Exame: estertores crepitantes bibasais. TC de tórax mostra extenso faveolamento, reticulação irregular com bronquiectasias de tração e discretas opacidades em vidro fosco, predominando nas bases e regiões subpleurais. Observam-se fibrose e faveolamento nas porções anteriores dos lobos superiores, sem derrame. Considerando o padrão da tomografia, qual achado torna mais provável o diagnóstico de doença reumática?",
+    "opcoes": {
+      "A": "Distribuição periférica/subpleural.",
+      "B": "Presença de bronquiectasias de tração.",
+      "C": "Presença de faveolamento bibasal.",
+      "D": "Envolvimento anterior dos lobos superiores."
+    },
+    "correta": "D",
+    "explicacao": "**Resposta correta: D.** Envolvimento anterior dos lobos superiores. Embora o faveolamento basal/subpleural e as bronquiectasias de tração componham o padrão de pneumonia intersticial usual (UIP, comum tanto na fibrose idiopática quanto na doença reumática), o \"sinal do lobo superior anterior\" (fibrose acometendo as porções anteriores dos lobos superiores) sugere fortemente doença do tecido conjuntivo — aqui, associada à artrite reumatoide.\n\n**Por que as outras estão erradas:**\n- **A, B, C.** Distribuição periférica/subpleural, bronquiectasias de tração e faveolamento bibasal são inespecíficos e também típicos da fibrose pulmonar idiopática, não diferenciando doença reumática.",
+    "imagens": []
+  },
+  {
+    "pos": 88,
+    "anulado": false,
+    "enunciado": "Mulher, 81 anos, com fratura do antebraço direito há seis meses após queda da própria altura, realizou densitometria óssea (imagens e tabela apresentadas; T-scores lombares na faixa de -0,5 a -1,8, colo do fêmur direito -2,2, fêmur total -1,8). Antecedentes: HAS e DRGE. A investigação laboratorial excluiu causas secundárias, e a estratificação pelo FRAX® Brasil 2.0 mostrou risco de fraturas maiores 6,5% e de quadril 2,7% (zona de baixo risco nos gráficos). Das alternativas, qual é o próximo passo mais recomendado?",
+    "opcoes": {
+      "A": "Alendronato.",
+      "B": "Ácido zoledrônico.",
+      "C": "Dosagem de CTX.",
+      "D": "Morfometria vertebral."
+    },
+    "correta": "D",
+    "explicacao": "**Resposta correta: D.** Morfometria vertebral. Há discordância: a paciente tem fratura por fragilidade (antebraço) mas densitometria sem osteoporose e FRAX em zona de baixo risco, com T-scores lombares possivelmente superestimados (comuns em idosas por artrose/calcificações). Antes de decidir a terapia, a morfometria vertebral (VFA) é indicada para identificar fraturas vertebrais silenciosas, que redefinem o diagnóstico como osteoporose estabelecida e mudam a conduta.\n\n**Por que as outras estão erradas:**\n- **A, B.** Iniciar bisfosfonato depende de estabelecer a indicação; a presença de fratura vertebral (a ser investigada pela VFA) definiria melhor essa decisão e a escolha do agente.\n- **C.** O CTX é marcador de remodelação para monitorização, não define a indicação diagnóstica neste momento.",
+    "imagens": ["images/tpi-2026/q88_img1.jpg", "images/tpi-2026/q88_img2.jpg"]
+  },
+  {
+    "pos": 89,
+    "anulado": false,
+    "enunciado": "Homem, 75 anos, com febre episódica (até 39°C, três a cinco dias) há seis meses, associada a fadiga e surgimento de dor e inchaço nos pavilhões auriculares nos últimos dois meses. Exames: anemia macrocítica (Hb 9,7, VCM 103), plaquetopenia (120.000), PCR 58, ferritina 760, FAN não reagente, hemoculturas negativas; painel genético com detecção de variante somática em UBA1 (exon 3, p.Met41Thr, VAF 12%). Das alternativas, qual é o resultado da biópsia de medula óssea mais provável neste caso?",
+    "opcoes": {
+      "A": "Proliferação de blastos com expressão de CD34.",
+      "B": "Granulomas não caseosos em células reticulares.",
+      "C": "Infiltrado linfocitário predominante com fibrose medular.",
+      "D": "Presença de vacúolos citoplasmáticos em precursores mieloides e eritroides."
+    },
+    "correta": "D",
+    "explicacao": "**Resposta correta: D.** Vacúolos citoplasmáticos em precursores mieloides e eritroides. A mutação somática em UBA1 caracteriza a síndrome VEXAS (vacuoles, E1 enzyme, X-linked, autoinflammatory, somatic), doença autoinflamatória de homens idosos com febre, condrite auricular, citopenias e anemia macrocítica. O achado medular típico é a vacuolização citoplasmática dos precursores mieloides e eritroides.\n\n**Por que as outras estão erradas:**\n- **A.** Proliferação de blastos CD34+ indicaria leucemia aguda/SMD de alto risco, sem os vacúolos característicos.\n- **B.** Granulomas não caseosos sugerem sarcoidose.\n- **C.** Infiltrado linfocitário com fibrose aponta para doença linfoproliferativa/mielofibrose, não VEXAS.",
+    "imagens": []
+  },
+  {
+    "pos": 90,
+    "anulado": false,
+    "enunciado": "Mulher, 25 anos, admitida no pronto-socorro com convulsões, necessitando intubação. Tem nefrite lúpica refratária a ciclofosfamida e rituximabe (último ciclo há três meses) e, há dois meses, iniciou micofenolato e tacrolimo, com prednisona 20 mg/dia. Usa bupropiona e faz profilaxia com trimetoprim-sulfametoxazol. Familiares relatam uso de diltiazem, recentemente prescrito para \"pressão alta\". TC de crânio revela hipodensidade na substância branca posterior. Qual dos medicamentos tem maior probabilidade de ser o responsável pelo quadro?",
+    "opcoes": {
+      "A": "Tacrolimo.",
+      "B": "Rituximabe.",
+      "C": "Micofenolato de mofetila.",
+      "D": "Trimetoprim-sulfametoxazol."
+    },
+    "correta": "A",
+    "explicacao": "**Resposta correta: A.** Tacrolimo. O quadro (convulsões, hipertensão e hipodensidade na substância branca posterior) é síndrome de encefalopatia posterior reversível (PRES). O tacrolimo é causa clássica de PRES, e o risco foi potencializado pelo diltiazem, que inibe o CYP3A4 e eleva os níveis do tacrolimo, agravando a neurotoxicidade e a hipertensão.\n\n**Por que as outras estão erradas:**\n- **B.** O rituximabe não é causa típica de PRES.\n- **C.** O micofenolato não está associado a PRES.\n- **D.** O sulfametoxazol-trimetoprim não causa PRES; a associação inibidor de calcineurina + inibidor do CYP3A4 (diltiazem) é o mecanismo central.",
+    "imagens": []
+  },
+  {
+    "pos": 91,
+    "anulado": false,
+    "enunciado": "Mulher, 58 anos, com dor bilateral nos quadris há dois anos e incapacidade para deambular há seis meses, passando a usar cadeira de rodas nos últimos três meses. Hígida, nega trauma, perda de peso, tabagismo, etilismo e história familiar. Menopausa aos 50 anos. Exame: dor à palpação e rotação interna dos quadris. DXA de coluna com T-score -3,5. Exames: FA elevada (190), fósforo sérico baixo (1,3), cálcio 9,2, magnésio normal, 25-OH-vitamina D 39, 1,25-di-hidroxivitamina D baixa (18), PTH normal (43,4), reabsorção tubular de fósforo baixa (79%) e TmP/GFR reduzida (2,07). Considerando o diagnóstico mais provável, qual dos próximos passos é o mais recomendado?",
+    "opcoes": {
+      "A": "Encaminhar para fixação cirúrgica.",
+      "B": "Iniciar colecalciferol 50.000 UI/semana.",
+      "C": "Solicitar PET-CT com gálio DOTATATE.",
+      "D": "Biópsia óssea com histomorfometria."
+    },
+    "correta": "C",
+    "explicacao": "**Resposta correta: C.** Solicitar PET-CT com gálio DOTATATE. O quadro laboratorial — hipofosfatemia com perda renal de fosfato (TmP/GFR baixa, reabsorção tubular reduzida), 1,25-vitamina D inapropriadamente baixa, FA elevada e cálcio/PTH normais — é típico de osteomalacia hipofosfatêmica por FGF-23, sugerindo osteomalacia oncogênica (tumor mesenquimal produtor de FGF-23). O exame de escolha para localizar o tumor é o PET-CT com ⁶⁸Ga-DOTATATE (receptores de somatostatina).\n\n**Por que as outras estão erradas:**\n- **A.** A fixação cirúrgica não trata a causa metabólica; a dor decorre de pseudofraturas da osteomalacia.\n- **B.** O colecalciferol não corrige a hipofosfatemia mediada por FGF-23; a 25-OH-vitamina D já está normal.\n- **D.** A biópsia óssea não localiza o tumor causador nem é o próximo passo diante do padrão bioquímico definido.",
+    "imagens": ["images/tpi-2026/q91_img1.jpg"]
+  },
+  {
+    "pos": 92,
+    "anulado": false,
+    "enunciado": "Homem, 47 anos, com dor nas metacarpofalângicas e nos ombros há vários anos, com piora nos últimos dois meses. Refere fadiga progressiva e hiperpigmentação cutânea. Sedentário, nega medicamentos, etilismo ou tabagismo. Exame: sem edema articular. Exames: Hb 16,0, hematócrito 47,3, transaminases elevadas (TGO 68, TGP 72), glicemia de jejum 138, ferritina 1.250, saturação de transferrina 75%. Qual é o exame mais adequado para confirmar a principal hipótese diagnóstica?",
+    "opcoes": {
+      "A": "Pesquisa da mutação C282Y no gene HFE.",
+      "B": "Painel genético para mutações no gene ATP7B.",
+      "C": "Pesquisa da mutação MET694VAL no gene MEFV.",
+      "D": "Sequenciamento com pesquisa de mutações do gene HBB."
+    },
+    "correta": "A",
+    "explicacao": "**Resposta correta: A.** Pesquisa da mutação C282Y no gene HFE. O quadro — artropatia (MCF, típica), hiperpigmentação, diabetes, hepatopatia, ferritina muito elevada e saturação de transferrina de 75% — caracteriza hemocromatose hereditária. A confirmação diagnóstica é o teste genético para as mutações do gene HFE, sobretudo a C282Y.\n\n**Por que as outras estão erradas:**\n- **B.** O gene ATP7B relaciona-se à doença de Wilson (sobrecarga de cobre), com ceruloplasmina baixa, não à sobrecarga de ferro.\n- **C.** O gene MEFV associa-se à febre familiar do Mediterrâneo, sem sobrecarga de ferro.\n- **D.** O gene HBB relaciona-se às hemoglobinopatias (talassemias); a sobrecarga aqui é primária pela ferritina/saturação elevadas com padrão de hemocromatose.",
+    "imagens": []
+  },
+  {
+    "pos": 93,
+    "anulado": false,
+    "enunciado": "Homem, 38 anos, com dor lombar intensa há três semanas, suficiente para interromper o sono. Refere febre de início recente, que cessou após analgésicos. Previamente hígido, relata consumo regular de álcool e uso de drogas endovenosas. Imagem do exame (RM da coluna lombar) apresentada. Dentre as alternativas, qual intervenção terapêutica é a mais adequada?",
+    "opcoes": {
+      "A": "Vancomicina.",
+      "B": "Anfotericina B.",
+      "C": "Ácido zoledrônico.",
+      "D": "Rifampicina, isoniazida, pirazinamida e etambutol."
+    },
+    "correta": "A",
+    "explicacao": "**Resposta correta: A.** Vancomicina. Dor lombar intensa com febre em usuário de drogas endovenosas, com RM mostrando espondilodiscite/osteomielite vertebral, aponta para infecção piogênica, sendo o Staphylococcus aureus (inclusive MRSA) o agente mais frequente nesse perfil. A vancomicina cobre empiricamente os Gram-positivos, incluindo MRSA, enquanto se aguardam culturas.\n\n**Por que as outras estão erradas:**\n- **B.** A anfotericina B trataria espondilodiscite fúngica, menos provável do que a bacteriana neste contexto.\n- **C.** O ácido zoledrônico é para doenças ósseas metabólicas, não para infecção.\n- **D.** O esquema RIPE trataria espondilodiscite tuberculosa (mal de Pott), de curso mais insidioso; a apresentação aguda febril em usuário de drogas EV favorece etiologia piogênica.",
+    "imagens": ["images/tpi-2026/q93_img1.jpg", "images/tpi-2026/q93_img2.jpg"]
+  },
+  {
+    "pos": 94,
+    "anulado": false,
+    "enunciado": "Homem, 44 anos, previamente hígido, internado há três meses por AVC isquêmico criptogênico (afastadas fontes cardioembólicas e ateroscleróticas). Sem sequelas, em uso de rivaroxabana. Exames (há três meses → atual): TTPA alargado (68 → 78); anticoagulante lúpico — dRVVT 1,00 → 1,45 e teste de mistura 0,90 → 1,63; anticardiolipina IgG 85 → 72; anti-β2GPI IgG 80 → 84. Qual é o próximo passo mais recomendado?",
+    "opcoes": {
+      "A": "Repetir exames após descontinuação da rivaroxabana.",
+      "B": "Transicionar tratamento para varfarina.",
+      "C": "Adicionar aspirina em dose baixa.",
+      "D": "Trocar rivaroxabana por rituximabe."
+    },
+    "correta": "B",
+    "explicacao": "**Resposta correta: B.** Transicionar tratamento para varfarina. O paciente tem síndrome antifosfolípide trombótica (AVC com anticorpos persistentemente positivos em três domínios, confirmados após ≥ 12 semanas). Nos pacientes com SAF e trombose, sobretudo arterial e triplo-positivos, os anticoagulantes orais diretos (rivaroxabana) são inferiores/contraindicados; a anticoagulação de escolha é a varfarina (antagonista da vitamina K) com INR-alvo adequado.\n\n**Por que as outras estão erradas:**\n- **A.** Os anticorpos já são persistentemente positivos e confirmados; a rivaroxabana pode interferir no anticoagulante lúpico, mas o diagnóstico e a decisão terapêutica (trocar o DOAC) já estão estabelecidos.\n- **C.** Adicionar aspirina à rivaroxabana não corrige a inadequação do DOAC na SAF trombótica.\n- **D.** O rituximabe não é anticoagulante e não substitui a anticoagulação para prevenção de trombose na SAF.",
+    "imagens": []
+  },
+  {
+    "pos": 95,
+    "anulado": false,
+    "enunciado": "Homem, 62 anos, no terceiro dia de pós-operatório de paratireoidectomia por hiperparatireoidismo primário, apresenta dor intensa, edema e calor súbitos no joelho direito, com limitação funcional. Nega febre. Exames: cálcio baixo (8,0), fósforo 3,8, PTH 26; sinovianálise turva, viscosidade diminuída, leucócitos 22.000 com 80% de neutrófilos, Gram ausente, cristais romboides com birrefringência fraca positiva. Qual dos mecanismos patogênicos mais provavelmente explica o quadro articular observado?",
+    "opcoes": {
+      "A": "Inibição da excreção de urato pelo PTH.",
+      "B": "Artrite induzida por sequestro de antitrombina.",
+      "C": "Ativação inflamatória secundária ao estresse físico e desidratação.",
+      "D": "Liberação de cristais de pirofosfato de cálcio induzida por hipocalcemia."
+    },
+    "correta": "D",
+    "explicacao": "**Resposta correta: D.** Liberação de cristais de pirofosfato de cálcio induzida por hipocalcemia. Os cristais romboides com birrefringência fraca positiva confirmam pseudogota (CPPD). A queda abrupta do cálcio sérico após a paratireoidectomia desestabiliza os depósitos de pirofosfato de cálcio da cartilagem, promovendo sua liberação para a cavidade articular e desencadeando a crise aguda.\n\n**Por que as outras estão erradas:**\n- **A.** Os cristais são de pirofosfato (birrefringência positiva), não de urato; o mecanismo não envolve excreção de urato.\n- **B.** O sequestro de antitrombina não tem relação com artrite por cristais.\n- **C.** Estresse/desidratação são gatilhos inespecíficos e não explicam a fisiopatologia específica da liberação de cristais de CPPD pela hipocalcemia.",
+    "imagens": []
+  },
+  {
+    "pos": 96,
+    "anulado": false,
+    "enunciado": "Menino, 14 anos, com artrite idiopática juvenil há oito meses. Nas últimas 12 semanas, dor lombar baixa com piora à noite e melhora após movimentação matinal. Refere \"travamento\" na região glútea alternando lados. Nega trauma ou alterações oculares/cutâneas/intestinais. Usa naproxeno em dose plena há oito semanas, mantendo dor nos calcâneos e no joelho direito. Exame: artrite no joelho direito, dor nas inserções do tendão de Aquiles e fáscia plantar bilateralmente, dor à compressão das sacroilíacas. JADAS-27 12,5; MASES 6. Exames: anemia leve, VHS 36, PCR 1,5. Dentre as alternativas, qual intervenção farmacológica é a mais adequada neste momento?",
+    "opcoes": {
+      "A": "Nimesulida.",
+      "B": "Sulfassalazina.",
+      "C": "Adalimumabe.",
+      "D": "Upadacitinibe."
+    },
+    "correta": "C",
+    "explicacao": "**Resposta correta: C.** Adalimumabe. O quadro é de artrite idiopática juvenil relacionada à entesite/espondiloartrite juvenil com doença axial (sacroileíte, dor inflamatória), entesite (Aquiles, fáscia plantar) e artrite periférica, ativa apesar de AINE em dose plena por oito semanas. Diante da falha do AINE e da presença de acometimento axial e entesites, o anti-TNF (adalimumabe) é a terapia indicada.\n\n**Por que as outras estão erradas:**\n- **A.** Trocar por outro AINE (nimesulida) não muda o cenário de falha à classe.\n- **B.** A sulfassalazina age na artrite periférica, mas não é eficaz para doença axial/entesite, que predominam aqui.\n- **D.** O upadacitinibe (JAK) não é a primeira escolha nessa faixa etária/indicação; o anti-TNF tem melhor posicionamento e evidência na espondiloartrite juvenil axial.",
+    "imagens": []
+  },
+  {
+    "pos": 97,
+    "anulado": false,
+    "enunciado": "Mulher, 66 anos, com dorsalgia há duas semanas, sem trauma. A dor piora em ortostatismo e ao carregar objetos. Antecedentes: DRGE, HAS, dislipidemia e stent coronariano há 12 meses (por IAM). Usa enalapril, atorvastatina, AAS e pantoprazol. Exame: dor à palpação da transição toracolombar, sem déficit neurológico. Exames: hemograma e creatinina normais, FA 115, cálcio 9,0, fósforo 3,5, PTH 51, 25-OH-vitamina D 22, TSH normal; densitometria com T-score L1-L4 -2,8, colo -2,6, fêmur total -2,7; imagem da coluna apresentada. Dentre as alternativas, qual intervenção farmacológica é a mais recomendada?",
+    "opcoes": {
+      "A": "Teriparatida 20 µg subcutâneo diário.",
+      "B": "Ácido zoledrônico 5 mg intravenoso anual.",
+      "C": "Denosumabe 60 mg subcutâneo semestral.",
+      "D": "Romosozumabe 210 mg subcutâneo mensal."
+    },
+    "correta": "A",
+    "explicacao": "**Resposta correta: A.** Teriparatida 20 µg subcutâneo diário. A paciente tem osteoporose com fratura vertebral por fragilidade (dorsalgia toracolombar, densitometria com T-score ≤ -2,5) — osteoporose grave/estabelecida, com indicação de terapia anabólica de primeira linha (teriparatida) para reduzir o risco de novas fraturas vertebrais.\n\n**Por que as outras estão erradas:**\n- **B, C.** Bisfosfonato (zoledrônico) e denosumabe são antirreabsortivos; na osteoporose grave com fratura vertebral, o anabólico é preferido inicialmente, com melhor eficácia sobre fraturas vertebrais.\n- **D.** O romosozumabe é anabólico eficaz, porém contraindicado por evento cardiovascular recente (IAM/stent há 12 meses) devido ao alerta de risco cardiovascular.",
+    "imagens": ["images/tpi-2026/q97_img1.jpg"]
+  },
+  {
+    "pos": 98,
+    "anulado": false,
+    "enunciado": "Homem, 68 anos, com dor persistente no quadril esquerdo há três meses, com piora recente e limitação das atividades de vida diária. Exame de imagem (radiografia da bacia) mostrado. Qual dos achados histológicos a seguir é mais compatível com o provável diagnóstico do caso?",
+    "opcoes": {
+      "A": "Células neoplásicas epiteliais agrupadas com reação osteoblástica proeminente.",
+      "B": "Aumento do número e do tamanho dos osteoclastos com linhas de reversão irregulares.",
+      "C": "Acúmulo de tecido osteoide ao redor das trabéculas com atraso da mineralização óssea.",
+      "D": "Afinamento trabecular com reduzido número e atividade de osteoblastos e osteoclastos."
+    },
+    "correta": "B",
+    "explicacao": "**Resposta correta: B.** Aumento do número e do tamanho dos osteoclastos com linhas de reversão irregulares (padrão em mosaico). A radiografia (espessamento cortical, alargamento ósseo, esclerose e trabeculado grosseiro) é típica da doença óssea de Paget. A histologia característica mostra osteoclastos gigantes e numerosos, remodelamento acelerado desorganizado e o padrão em mosaico das linhas de reversão.\n\n**Por que as outras estão erradas:**\n- **A.** Células epiteliais neoplásicas com reação osteoblástica indicariam metástase osteoblástica (ex.: próstata).\n- **C.** Acúmulo de osteoide com defeito de mineralização define osteomalacia.\n- **D.** Afinamento trabecular com baixa atividade celular caracteriza osteoporose/doença adinâmica, oposto ao alto turnover do Paget.",
+    "imagens": ["images/tpi-2026/q98_img1.jpg"]
+  },
+  {
+    "pos": 99,
+    "anulado": false,
+    "enunciado": "Homem, 38 anos, com espondiloartrite axial radiográfica há oito anos, com falhas secundárias a adalimumabe e etanercepte (após 14 e 8 meses). Em uso de ixequizumabe há seis meses, retorna com dor difusa não restrita ao esqueleto axial e sono não reparador. Exame: IMC 32, dor à palpação da coluna com hipersensibilidade ao toque, Schober modificado 3,5 cm, expansão torácica 2,0 cm, BASDAI 6,3, ASDAS-PCR 3,3. Exames: VHS 36, PCR 2,5, HLA-B27 positivo; RM de sacroilíacas com erosões subcondrais bilaterais preenchidas por tecido fibroadiposo, metaplasia gordurosa subcondral e AUSÊNCIA de hipersinal em STIR. Qual dos mecanismos a seguir mais provavelmente explica o cenário clínico descrito?",
+    "opcoes": {
+      "A": "Maturação de células NK por via JAK/STAT.",
+      "B": "Atividade inflamatória residual mediada por TNF-α.",
+      "C": "Alterações da microglia e ativação de receptores NMDA.",
+      "D": "Inflamação entesial persistente mediada pelo eixo IL-23/IL-17 adaptativo."
+    },
+    "correta": "C",
+    "explicacao": "**Resposta correta: C.** Alterações da microglia e ativação de receptores NMDA. Apesar do BASDAI/ASDAS elevados, a RM mostra apenas lesões estruturais crônicas (metaplasia gordurosa, erosões preenchidas) SEM inflamação ativa (STIR sem edema) e a PCR está normal. A dor difusa, com hipersensibilidade ao toque e sono não reparador, indica sensibilização central (dor nociplástica/fibromialgia sobreposta), cujo substrato envolve ativação da microglia e de receptores NMDA no sistema nervoso central — não atividade inflamatória da espondiloartrite.\n\n**Por que as outras estão erradas:**\n- **B, D.** A ausência de edema ósseo em STIR e a PCR normal falam contra inflamação ativa mediada por TNF-α ou pelo eixo IL-23/IL-17; escalonar biológico não beneficiaria dor de origem central.\n- **A.** A maturação de células NK via JAK/STAT não explica o quadro de dor nociplástica descrito.",
+    "imagens": []
+  },
+  {
+    "pos": 100,
+    "anulado": false,
+    "enunciado": "Homem, 59 anos, com artrite psoriásica há dez anos, com falha prévia a metotrexato e adalimumabe. Com artrite periférica ativa (DAPSA 30) apesar do secuquinumabe, iniciou tofacitinibe 5 mg 2x/dia há três meses, com melhora significativa (DAPSA atual 7). Ex-tabagista (20 anos-maço), tem HAS controlada e sobrepeso (IMC 29), com risco cardiovascular intermediário. Com o perfil lipídico desde o início do tofacitinibe (LDL 110→146, HDL 40→50, triglicerídeos 150→178, PCR 18→2), foi prescrita atorvastatina 40 mg/dia. Dentre as alternativas, qual é a conduta adicional mais adequada?",
+    "opcoes": {
+      "A": "Trocar para guselcumabe.",
+      "B": "Trocar para ixequizumabe.",
+      "C": "Manter tofacitinibe 10 mg/dia.",
+      "D": "Reduzir tofacitinibe para 5 mg/dia."
+    },
+    "correta": "C",
+    "explicacao": "**Resposta correta: C.** Manter tofacitinibe (dose atual). O paciente obteve excelente resposta (DAPSA 30→7, baixa atividade) após múltiplas falhas. A elevação de lipídios é efeito de classe esperado dos inibidores de JAK e foi adequadamente manejada com estatina; a PCR normalizou. Não há indicação de suspender um tratamento eficaz por dislipidemia já controlada — mantém-se o tofacitinibe na posologia vigente (5 mg 2x/dia = 10 mg/dia).\n\n**Por que as outras estão erradas:**\n- **A, B.** Trocar por biológico (guselcumabe/ixequizumabe) descartaria uma terapia que finalmente controlou a doença refratária, sem justificativa clínica.\n- **D.** \"Reduzir para 5 mg/dia\" corresponde a subdosagem (metade da dose eficaz), com risco de recidiva; a conduta é manter a dose que produziu a resposta, tratando o fator de risco com estatina.",
+    "imagens": []
+  }
+]

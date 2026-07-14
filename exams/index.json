@@ -1,5 +1,13 @@
 [
   {
+    "id": "tpi-2026",
+    "title": "TPI 2026",
+    "subtitle": "Exame de Suficiência para Obtenção do Título de Especialista em Reumatologia — Prova Teórica",
+    "date": "2026",
+    "questions": 100,
+    "file": "exams/tpi-2026.json"
+  },
+  {
     "id": "ester-2025",
     "title": "ESTER 2025",
     "subtitle": "Exame de Suficiência para Título de Especialista em Reumatologia — Prova Teórica",
