@@ -30,5 +30,13 @@
     "date": "2023",
     "questions": 100,
     "file": "exams/ester-2023.json"
+  },
+  {
+    "id": "ester-2022",
+    "title": "ESTER 2022",
+    "subtitle": "Exame de Suficiência para Título de Especialista em Reumatologia — Prova Teórica",
+    "date": "2022",
+    "questions": 80,
+    "file": "exams/ester-2022.json"
   }
 ]
