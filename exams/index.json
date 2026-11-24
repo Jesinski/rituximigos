@@ -38,5 +38,13 @@
     "date": "2022",
     "questions": 80,
     "file": "exams/ester-2022.json"
+  },
+  {
+    "id": "rheumatology-secrets",
+    "title": "RHEUMATOLOGY SECRETS",
+    "subtitle": "Rheumatology Secrets — Banco de Questões (traduzido para PT-BR)",
+    "date": "Banco de questões",
+    "questions": 156,
+    "file": "exams/rheumatology-secrets.json"
   }
 ]

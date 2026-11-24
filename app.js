@@ -267,7 +267,7 @@
 
       // Options
       qOpcoes.innerHTML = "";
-      const letters = ["A", "B", "C", "D"];
+      const letters = ["A", "B", "C", "D", "E"];
       letters.forEach(letter => {
         if (!q.opcoes[letter]) return;
         const btn = document.createElement("button");
@@ -347,7 +347,7 @@
     }
     const answered = answers[q.pos] !== undefined;
     if (!answered) {
-      const map = { "1": "A", "2": "B", "3": "C", "4": "D", a: "A", b: "B", c: "C", d: "D" };
+      const map = { "1": "A", "2": "B", "3": "C", "4": "D", "5": "E", a: "A", b: "B", c: "C", d: "D", e: "E" };
       if (map[e.key.toLowerCase()]) choose(q.pos, map[e.key.toLowerCase()]);
     }
     if (e.key === "ArrowRight") btnNext.click();
